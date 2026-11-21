@@ -408,3 +408,58 @@ details.credits ul{padding-left:18px}
 .ficha img{width:auto;max-width:100%;height:auto;max-height:420px;object-fit:contain;margin:0 auto 10px}
 
 .card img.cimg{width:calc(100% + 32px);max-width:none;height:auto;object-fit:cover}
+
+/* ===== Portada animada: mosaico, cifras, cinta y apariciones ===== */
+.mosaic{min-width:0}
+.heroimgs{height:400px;display:grid;grid-template-columns:1.15fr 1fr;grid-template-rows:1fr 1fr;gap:8px}
+.heroimgs .visual{position:relative;display:block;overflow:hidden;border-radius:12px;background:var(--soft);text-decoration:none;color:#fff}
+.heroimgs .visual:first-child{grid-row:1/3;border-radius:120px 120px 12px 12px}
+.heroimgs img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .6s ease}
+.heroimgs .visual:hover img{transform:scale(1.05)}
+.heroimgs span{position:absolute;left:0;right:0;bottom:0;z-index:2;padding:46px 14px 12px;background:linear-gradient(rgba(10,18,40,0),rgba(10,18,40,.86));color:#fff;font-weight:700;font-size:16.5px;line-height:1.15}
+.heroimgs small{display:block;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;opacity:.88;margin-bottom:3px;font-weight:600}
+.heroimgs .layer{position:absolute;inset:0;overflow:hidden}
+.heroimgs .layer img{animation:kb 9s ease-out both}
+.heroimgs .layer span{animation:cap 1.2s .35s ease-out both}
+.hcred{font-size:12px;line-height:1.4;color:var(--mute);margin:8px 2px 0}
+.fx-up{animation:inup 1.3s cubic-bezier(.2,.7,.2,1) both}
+.fx-left{animation:inleft 1.3s cubic-bezier(.2,.7,.2,1) both}
+.fx-right{animation:inright 1.3s cubic-bezier(.2,.7,.2,1) both}
+.fx-zoom{animation:inzoom 1.3s cubic-bezier(.2,.7,.2,1) both}
+@keyframes inup{from{opacity:0;transform:translateY(40px) scale(.96)}to{opacity:1;transform:none}}
+@keyframes inleft{from{opacity:0;transform:translateX(-45px)}to{opacity:1;transform:none}}
+@keyframes inright{from{opacity:0;transform:translateX(45px)}to{opacity:1;transform:none}}
+@keyframes inzoom{from{opacity:0;transform:scale(1.18)}to{opacity:1;transform:none}}
+@keyframes kb{from{transform:scale(1)}to{transform:scale(1.06)}}
+@keyframes cap{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes tick{to{transform:translateX(-50%)}}
+@keyframes shine{50%{background-position:100% 0}}
+.hero h1 em{background:linear-gradient(90deg,var(--accent2),var(--gold),var(--accent2));background-size:200% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:shine 7s ease-in-out infinite}
+.stats{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px 22px;border-block:1px solid var(--line);padding-block:10px;font-size:13.5px;color:var(--mute)}
+.stats strong{font:600 24px/1 var(--serif);color:var(--accent);margin-right:4px;font-variant-numeric:tabular-nums}
+.ticker{overflow:hidden;border-bottom:1px solid var(--line);padding:10px 0;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+.ticker .track{display:flex;gap:30px;width:max-content;animation:tick 90s linear infinite}
+.ticker:hover .track{animation-play-state:paused}
+.ticker a{color:var(--mute);text-decoration:none;font-size:14px;white-space:nowrap}
+.ticker a::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--gold);margin-right:10px;vertical-align:2px}
+.ticker a:hover{color:var(--accent)}
+a.card:hover{box-shadow:0 8px 24px rgba(20,40,90,.10)}
+.card .cimg img{transition:transform .5s ease}
+a.card:hover .cimg img{transform:scale(1.05)}
+.rv-on .rv{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.7,.2,1)}
+.rv-on .rv.in{opacity:1;transform:none}
+@media (max-width:900px){
+  .heroimgs{height:320px}
+}
+@media (max-width:600px){
+  .heroimgs{height:250px;gap:6px}
+  .heroimgs .visual:first-child{border-radius:70px 70px 10px 10px}
+  .heroimgs span{font-size:14px;padding:34px 10px 9px}
+  .heroimgs small{font-size:9.5px}
+  .stats{display:grid;grid-template-columns:1fr 1fr;gap:8px 14px;font-size:12.5px}
+  .stats strong{font-size:20px;display:block;margin-bottom:2px}
+}
+@media (prefers-reduced-motion: reduce){
+  .ticker .track,.hero h1 em,.heroimgs .layer img,.heroimgs .layer span,.fx-up,.fx-left,.fx-right,.fx-zoom{animation:none}
+  .ticker{overflow-x:auto}
+}
