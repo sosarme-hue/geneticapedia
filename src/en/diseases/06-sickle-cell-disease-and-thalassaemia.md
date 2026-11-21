@@ -33,7 +33,7 @@ It is caused by a change in **a single letter** of the ***HBB*** gene: an adenin
 
 The altered haemoglobin (**HbS**) clumps into rigid fibres when oxygen is low and bends red cells into a **sickle** shape. These rigid, sticky cells:
 
-- break down early (living about 10-20 days instead of 120), causing chronic **anaemia**;
+- break down early (living about 10-20 days instead of 120)[[1]], causing chronic **anaemia**;
 - **block small blood vessels**, causing very intense **pain crises** and damage to almost any organ.
 
 ### Symptoms and complications
@@ -52,11 +52,11 @@ It shortens life: in low-income countries, most affected children die before age
 
 It is **autosomal recessive**. People with a single HbS copy have **sickle cell trait**: they are usually healthy, although in extreme conditions, such as severe dehydration or high altitude, they can have complications.
 
-Every year more than **300,000** children are born with sickle cell disease worldwide, most in **sub-Saharan Africa**, India and the Middle East. With migration it is increasingly common in Europe: in Spain it is included in the **heel-prick test** in every region.
+Every year more than **300,000** children[[3,7]] are born with sickle cell disease worldwide, most in **sub-Saharan Africa**, India and the Middle East. With migration it is increasingly common in Europe: in Spain it is included in the **heel-prick test** in every region.
 
 ## The link with malaria
 
-Why is such a harmful variant so common? Because **carriers** are **protected against severe malaria**. In regions where malaria has been common for thousands of years, carriers survived longer and had more children, and the variant reached frequencies of up to 20-30 %. Anthony Allison proposed this in 1954, and it is one of the clearest examples of **natural selection** in humans. Something similar happens with thalassaemias.
+Why is such a harmful variant so common? Because **carriers** are **protected against severe malaria**[[6]]. In regions where malaria has been common for thousands of years, carriers survived longer and had more children, and the variant reached frequencies of up to 20-30 %. Anthony Allison proposed this in 1954, and it is one of the clearest examples of **natural selection** in humans. Something similar happens with thalassaemias.
 
 !fig malaria-falciforme.jpg | Maps comparing the distribution of malaria and the sickle cell gene | The geographical distribution of the haemoglobin S gene matches that of *Plasmodium falciparum* malaria.
 
@@ -68,7 +68,7 @@ There are different degrees:
 
 - **Carrier (thalassaemia trait or minor)**: mild or no anaemia, small red cells. It is very common and often mistaken for **iron deficiency**. It needs no treatment, and taking iron when it is not low can be harmful. It is important to know before a pregnancy, in case the partner is also a carrier.
 - **Thalassaemia intermedia** or non-transfusion-dependent: moderate anaemia.
-- **Thalassaemia major** (severe beta-thalassaemia or Cooley's anaemia): severe anaemia from the first year of life, needing **transfusions every 2-4 weeks** for life. Transfusions build up **iron** in the heart, liver and glands, so **iron chelators** are needed.
+- **Thalassaemia major** (severe beta-thalassaemia or Cooley's anaemia): severe anaemia from the first year of life, needing **transfusions every 2-4 weeks**[[2]] for life. Transfusions build up **iron** in the heart, liver and glands, so **iron chelators** are needed.
 - In alpha-thalassaemia, the most severe form (absence of all four alpha genes) is usually incompatible with life before birth.
 
 ## Diagnosis
@@ -84,7 +84,7 @@ There are different degrees:
 ### Sickle cell disease
 
 - **Infection prevention**: daily penicillin in childhood and vaccines.
-- **Hydroxyurea**: increases fetal haemoglobin, which stops HbS forming fibres. It reduces pain crises, acute chest syndrome, transfusions and mortality. It is standard treatment from 9 months of age.
+- **Hydroxyurea**: increases fetal haemoglobin[[1]], which stops HbS forming fibres. It reduces pain crises, acute chest syndrome, transfusions and mortality. It is standard treatment from 9 months of age.
 - Annual **transcranial Doppler ultrasound** between ages 2 and 16 to detect stroke risk, with regular transfusions if it is high.
 - Prompt, adequate **pain treatment** during crises.
 - **Bone marrow transplantation** from a matched sibling: can cure, especially in children.
@@ -99,7 +99,7 @@ There are different degrees:
 
 Haemoglobin disorders have been pioneers of genetic medicine:
 
-- **Exagamglogene autotemcel** (Casgevy), approved in the UK in November 2023, in the US in December 2023 and in the European Union in early 2024, is the **first CRISPR-based medicine**. The patient's own blood stem cells are collected, a "switch" in the *BCL11A* gene is edited with CRISPR to turn **fetal haemoglobin** back on, and the cells are reinfused. In trials, over 90 % of patients with sickle cell disease were free of severe crises for at least a year, and the great majority of patients with thalassaemia no longer needed transfusions.
+- **Exagamglogene autotemcel** (Casgevy), approved in the UK in November 2023, in the US in December 2023 and in the European Union in early 2024[[4,5]], is the **first CRISPR-based medicine**. The patient's own blood stem cells are collected, a "switch" in the *BCL11A* gene is edited with CRISPR to turn **fetal haemoglobin** back on, and the cells are reinfused. In trials, over 90 % of patients with sickle cell disease were free of severe crises for at least a year, and the great majority of patients with thalassaemia no longer needed transfusions.
 - **Lentiviral gene therapies**, which add a working haemoglobin gene to stem cells.
 
 These are complex treatments: they require prior **chemotherapy** to clear the bone marrow, with effects on fertility, long hospital stays and a price of millions of euros per patient. The great challenge is to make them available in the countries where the disease is most common.

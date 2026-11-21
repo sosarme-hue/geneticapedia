@@ -35,10 +35,10 @@ Casi todos los casos son **nuevos** en la familia y el riesgo de repetición es 
 
 ## Síndrome de Prader-Willi
 
-Lo describieron en 1956 los suizos Andrea Prader, Alexis Labhart y Heinrich Willi. Tiene dos fases:
+Lo describieron en 1956[[1]] los suizos Andrea Prader, Alexis Labhart y Heinrich Willi. Tiene dos fases:
 
 1. **Al nacer**: el bebé es muy **hipotónico**, apenas succiona y a menudo necesita sonda para alimentarse.
-2. **A partir de los 2-4 años**: aparece la **hiperfagia**, un hambre que no se sacia nunca, porque el hipotálamo no envía la señal de saciedad. Sin control del acceso a la comida, lleva a una **obesidad grave**, la principal causa de complicaciones.
+2. **A partir de los 2-4 años**[[3]]: aparece la **hiperfagia**, un hambre que no se sacia nunca, porque el hipotálamo no envía la señal de saciedad. Sin control del acceso a la comida, lleva a una **obesidad grave**, la principal causa de complicaciones.
 
 Además hay talla baja, manos y pies pequeños, hipogonadismo, discapacidad intelectual leve o moderada y problemas de conducta como rabietas o conductas obsesivas.
 
@@ -46,11 +46,11 @@ Además hay talla baja, manos y pies pequeños, hipogonadismo, discapacidad inte
 
 ## Síndrome de Angelman
 
-Lo describió en 1965 el pediatra británico Harry Angelman. Los niños tienen:
+Lo describió en 1965[[2]] el pediatra británico Harry Angelman. Los niños tienen:
 
 - **Discapacidad intelectual grave** y ausencia casi total de **lenguaje hablado**, aunque entienden más de lo que pueden expresar y muchos se comunican con signos o tabletas.
 - Problemas de **equilibrio** y movimientos temblorosos.
-- **Epilepsia** en más del 80 %.
+- **Epilepsia** en más del 80 %[[2]].
 - Un carácter muy **alegre**, con risa frecuente y fascinación por el agua.
 - Problemas de **sueño**.
 
@@ -58,7 +58,7 @@ Lo describió en 1965 el pediatra británico Harry Angelman. Los niños tienen:
 
 ## Diagnóstico
 
-Un **test de metilación** de la región 15q11-q13 detecta más del 99 % de los casos de Prader-Willi y alrededor del 80 % de los de Angelman. Después se estudia el mecanismo, porque cambia el riesgo para otros hijos. En Angelman, si la metilación es normal, se secuencia *UBE3A*.
+Un **test de metilación** de la región 15q11-q13 detecta más del 99 % de los casos de Prader-Willi[[1]] y alrededor del 80 % de los de Angelman[[2]]. Después se estudia el mecanismo, porque cambia el riesgo para otros hijos. En Angelman, si la metilación es normal, se secuencia *UBE3A*.
 
 ## Qué preguntar en consulta
 

@@ -342,6 +342,15 @@ def md(text, lang):
     # lista de fuentes con estilo .refs
     ref = T[lang]["refs"]
     h = re.sub(rf"(<h2[^>]*>{ref}</h2>\s*)<ol>", r'\1<ol class="refs">', h)
+    # llamadas a las fuentes: [[2]] o [[1,3]] -> número enlazado a la lista de fuentes
+    def _cite(m):
+        ns = [x.strip() for x in m.group(1).split(",")]
+        return '<sup class="cite">' + ",".join(f'<a href="#ref-{x}" aria-label="{ref} {x}">{x}</a>' for x in ns) + "</sup>"
+    h = re.sub(r"\s?\[\[(\d+(?:\s*,\s*\d+)*)\]\]", _cite, h)
+    if '<ol class="refs">' in h:
+        a_ = h.index('<ol class="refs">'); b_ = h.index("</ol>", a_)
+        k_ = iter(range(1, 999))
+        h = h[:a_] + re.sub(r"<li>", lambda m: f'<li id="ref-{next(k_)}">', h[a_:b_]) + h[b_:]
     h = re.sub(r"<table>", '<div class="table-scroll"><table>', h).replace("</table>", "</table></div>")
     # enlaces externos
     h = re.sub(r'<a href="(https?://[^"]+)">', r'<a href="\1" rel="noopener">', h)

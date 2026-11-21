@@ -22,11 +22,11 @@ La **acondroplasia** es la forma más común de displasia ósea, las enfermedade
 
 Los huesos largos crecen a partir de los **cartílagos de crecimiento**, en sus extremos. El gen ***FGFR3*** fabrica un receptor que actúa como un **freno** de ese crecimiento. En la acondroplasia, una variante hace que el freno esté **siempre activado**, de modo que los huesos crecen menos.
 
-Es una de las variantes más uniformes de la genética: en casi todos los casos es el **mismo cambio**, una G por una A en la posición 1138 del gen, que cambia el aminoácido 380. Es también una de las mutaciones nuevas más frecuentes del genoma humano.
+Es una de las variantes más uniformes de la genética: en casi todos los casos es el **mismo cambio**, una G por una A en la posición 1138 del gen[[2]], que cambia el aminoácido 380. Es también una de las mutaciones nuevas más frecuentes del genoma humano.
 
 ## Cómo se hereda
 
-- Alrededor del **80 %** de los niños con acondroplasia tienen **padres de talla media**: la variante es nueva y surge casi siempre en el espermatozoide. Su frecuencia aumenta con la **edad del padre**.
+- Alrededor del **80 %** de los niños con acondroplasia[[3]] tienen **padres de talla media**: la variante es nueva y surge casi siempre en el espermatozoide. Su frecuencia aumenta con la **edad del padre**.
 - Una persona con acondroplasia tiene un **50 %** de probabilidad de transmitirla a cada hijo, como en toda herencia [autosómica dominante](../../herencia/patrones-de-herencia/).
 - Si los dos padres tienen acondroplasia, hay un 25 % de probabilidad de que el bebé herede las dos copias, una forma **letal** poco después del nacimiento.
 
@@ -40,7 +40,7 @@ Es una de las variantes más uniformes de la genética: en casi todos los casos 
 
 La **vosoritida** imita una molécula natural, el péptido natriurético de tipo C, que contrarresta la señal de *FGFR3*. Se inyecta bajo la piel **cada día** mientras los cartílagos de crecimiento están abiertos.
 
-En el ensayo clínico, los niños tratados crecieron unos **1,6 cm más al año** que los que recibieron placebo, y el efecto se mantiene años después. Se aprobó en la Unión Europea y en Estados Unidos en **2021** y después se amplió a bebés pequeños. Se está estudiando si mejora también las proporciones del cuerpo y las complicaciones médicas, además de la talla. Hay otros fármacos en investigación, como el infigratinib, que se toma por boca.
+En el ensayo clínico, los niños tratados crecieron unos **1,6 cm más al año**[[1]] que los que recibieron placebo, y el efecto se mantiene años después. Se aprobó en la Unión Europea y en Estados Unidos en **2021** y después se amplió a bebés pequeños. Se está estudiando si mejora también las proporciones del cuerpo y las complicaciones médicas, además de la talla. Hay otros fármacos en investigación, como el infigratinib, que se toma por boca.
 
 ## Un debate desde la comunidad
 

@@ -24,10 +24,10 @@ Es la única falta completa de un cromosoma compatible con la vida, aunque solo 
 
 ## Tipos y causa
 
-- **Monosomía 45,X**: alrededor del 40-50 % de los casos. Todas las células tienen un solo X.
+- **Monosomía 45,X**: alrededor del 40-50 % de los casos[[2]]. Todas las células tienen un solo X.
 - **Mosaicismo** (por ejemplo, 45,X/46,XX): una parte de las células tiene dos X. Suele dar un cuadro más leve, y algunas mujeres llegan a tener menstruación espontánea e incluso embarazos.
 - **Alteraciones de la estructura del X**: un X con un brazo duplicado (isocromosoma), en anillo o con un trozo perdido.
-- **Presencia de material del cromosoma Y** en algunas células: ocurre en un 5-10 % y aumenta el riesgo de un tumor en las gónadas (gonadoblastoma), por lo que se recomienda extirparlas.
+- **Presencia de material del cromosoma Y** en algunas células: ocurre en un 5-10 %[[1]] y aumenta el riesgo de un tumor en las gónadas (gonadoblastoma), por lo que se recomienda extirparlas.
 
 La pérdida del X no depende de la edad de la madre, a diferencia del síndrome de Down. En la mayoría de los casos, el X que falta es el **paterno**.
 
@@ -37,9 +37,9 @@ Que una mujer tenga un X de más o de menos importa menos de lo que parece, porq
 
 ## Rasgos
 
-- **Talla baja**: el rasgo más constante. Sin tratamiento, la talla adulta media es unos 20 cm menor que la de las mujeres de su población, alrededor de 143-147 cm.
+- **Talla baja**: el rasgo más constante. Sin tratamiento, la talla adulta media es unos 20 cm menor que la de las mujeres de su población, alrededor de 143-147 cm[[2]].
 - **Insuficiencia ovárica**: los ovarios se forman, pero los óvulos se pierden rápidamente, a menudo antes del nacimiento. La mayoría no inicia la pubertad sin tratamiento y es **infértil**.
-- **Corazón y aorta**: un 25-50 % tienen alguna malformación, sobre todo **válvula aórtica bicúspide** y **coartación de aorta**. El riesgo más serio es la **dilatación y disección de la aorta**, que obliga a controles de por vida.
+- **Corazón y aorta**: un 25-50 % tienen alguna malformación[[1]], sobre todo **válvula aórtica bicúspide** y **coartación de aorta**. El riesgo más serio es la **dilatación y disección de la aorta**, que obliga a controles de por vida.
 - **Riñones**: riñón en herradura u otras alteraciones en un tercio.
 - **Linfedema** de manos y pies al nacer, cuello ancho o "alado", implantación baja del pelo, uñas pequeñas.
 - **Oído**: otitis frecuentes en la infancia y pérdida de audición en la edad adulta.
@@ -50,13 +50,13 @@ Que una mujer tenga un X de más o de menos importa menos de lo que parece, porq
 
 Se puede sospechar **antes de nacer**, por un aumento del pliegue de la nuca, un higroma quístico o una cardiopatía en la ecografía, o por el [cribado prenatal de ADN fetal](../../diagnostico/cribado-neonatal-y-prenatal/), que debe confirmarse siempre con una prueba diagnóstica. Después del nacimiento se sospecha por linfedema o por la cardiopatía, y en la infancia sobre todo por una **talla baja** o una **pubertad que no llega**. Un número importante de casos se diagnostica tarde, en la adolescencia.
 
-La confirmación se hace con un **cariotipo** en sangre, contando al menos 30 células para detectar mosaicos. Si se sospecha material de Y, se busca con técnicas moleculares.
+La confirmación se hace con un **cariotipo** en sangre, contando al menos 30 células[[1]] para detectar mosaicos. Si se sospecha material de Y, se busca con técnicas moleculares.
 
 ## Tratamiento y seguimiento
 
-Las guías internacionales de 2024 recomiendan un seguimiento por equipos de varias especialidades durante toda la vida:
+Las guías internacionales de 2024[[1]] recomiendan un seguimiento por equipos de varias especialidades durante toda la vida:
 
-- **Hormona de crecimiento**: se empieza en cuanto la talla se queda atrás, a menudo a los 4-6 años. Añade de media unos 5-8 cm a la talla adulta.
+- **Hormona de crecimiento**: se empieza en cuanto la talla se queda atrás, a menudo a los 4-6 años. Añade de media unos 5-8 cm a la talla adulta[[1]].
 - **Estrógenos**: se inician alrededor de los 11-12 años en dosis bajas y crecientes, para inducir una pubertad similar a la de sus compañeras, y se mantienen hasta la edad de la menopausia para proteger los huesos y el corazón.
 - **Fertilidad**: en adolescentes con mosaico se puede valorar preservar óvulos. Muchas mujeres con Turner han sido madres mediante **donación de óvulos**, pero el embarazo implica un riesgo cardiovascular alto y exige una evaluación cardiológica previa.
 - **Corazón**: ecocardiograma o resonancia al diagnóstico y controles periódicos de la aorta y la tensión arterial.

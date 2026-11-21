@@ -22,14 +22,14 @@ health: si
 
 The ***SERPINA1*** gene has many variants, named with letters according to how they move in a lab test. The normal one is **M**. The two most important are:
 
-- **Z**: the protein misfolds, gets **stuck inside the liver** and barely reaches the blood. **ZZ** people have blood levels of about 10-15 % of normal.
+- **Z**: the protein misfolds, gets **stuck inside the liver** and barely reaches the blood. **ZZ** people have blood levels of about 10-15 % of normal[[1]].
 - **S**: produces somewhat less protein. On its own it causes little trouble, but the **SZ** combination does raise risk.
 
-Inheritance is **codominant**: each copy contributes its share. Spain and Portugal have the **world's highest frequency of the S variant**, with about 1 in 10 people carrying it, while Z is more common in northern Europe.
+Inheritance is **codominant**: each copy contributes its share. Spain and Portugal have the **world's highest frequency of the S variant**[[2]], with about 1 in 10 people carrying it, while Z is more common in northern Europe.
 
 ## The lungs
 
-**ZZ** people can develop **emphysema** in their 30s or 40s, much earlier than usual COPD, with breathlessness and cough. **Smoking** is the decisive factor: in ZZ smokers emphysema appears about 10-15 years earlier and life expectancy is much reduced, while many ZZ non-smokers live almost normally. Exposure to dust or fumes at work also matters.
+**ZZ** people can develop **emphysema** in their 30s or 40s[[1]], much earlier than usual COPD, with breathlessness and cough. **Smoking** is the decisive factor: in ZZ smokers emphysema appears about 10-15 years earlier and life expectancy is much reduced, while many ZZ non-smokers live almost normally. Exposure to dust or fumes at work also matters.
 
 ## The liver
 
@@ -46,7 +46,7 @@ The **blood level of alpha-1 antitrypsin** is measured and, if low, the gene or 
 
 - **Never smoke**. This is the most important measure.
 - Vaccines against flu, pneumococcus and other respiratory infections; pulmonary rehabilitation.
-- **Augmentation therapy** with alpha-1 antitrypsin purified from plasma, by weekly intravenous infusion, for some people with emphysema and very low levels. It slows lung loss.
+- **Augmentation therapy** with alpha-1 antitrypsin purified from plasma, by weekly intravenous infusion[[3]], for some people with emphysema and very low levels. It slows lung loss.
 - Lung or liver transplant in advanced cases.
 - Under investigation: **RNA interference** drugs such as fazirsiran, which switch off Z protein production in the liver, and [gene editing](../../treatments/crispr-explained/) to correct the Z variant.
 

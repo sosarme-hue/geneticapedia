@@ -22,11 +22,11 @@ La **distrofia miotónica** es una enfermedad que afecta a los músculos y a muc
 
 Hay dos tipos. El **tipo 1** (DM1, o enfermedad de **Steinert**, que la describió en 1909) es el más frecuente y grave. El **tipo 2** (DM2), descrito en los años noventa, es más leve y afecta sobre todo a los músculos cercanos al tronco.
 
-Es la **distrofia muscular más frecuente en adultos**, y también una de las más variadas: va desde cataratas a los 60 años como único síntoma hasta formas graves en recién nacidos.
+Es la **distrofia muscular más frecuente en adultos**[[1]], y también una de las más variadas: va desde cataratas a los 60 años como único síntoma hasta formas graves en recién nacidos.
 
 ## Causa: una repetición que crece
 
-La DM1 se debe a una **expansión de un triplete**: una secuencia de tres letras, **CTG**, que se repite más veces de lo normal en el gen ***DMPK***. Es el mismo tipo de mecanismo que en la [enfermedad de Huntington](../enfermedad-de-huntington/) y el [síndrome X frágil](../sindrome-x-fragil/).
+La DM1 se debe a una **expansión de un triplete**[[3]]: una secuencia de tres letras, **CTG**, que se repite más veces de lo normal en el gen ***DMPK***. Es el mismo tipo de mecanismo que en la [enfermedad de Huntington](../enfermedad-de-huntington/) y el [síndrome X frágil](../sindrome-x-fragil/).
 
 | Número de repeticiones CTG | Situación |
 |---|---|
@@ -42,7 +42,7 @@ La DM2 se debe a una expansión de **CCTG** en el gen ***CNBP***, con un mecanis
 
 ## Anticipación
 
-En la DM1, la repetición tiende a **crecer al pasar de padres a hijos**, de modo que la enfermedad aparece **antes y con más gravedad** en cada generación. A esto se le llama **anticipación**. Una familia típica puede tener un abuelo con cataratas, una madre con miotonía y debilidad de adulta, y un hijo con la forma congénita.
+En la DM1, la repetición tiende a **crecer al pasar de padres a hijos**[[1]], de modo que la enfermedad aparece **antes y con más gravedad** en cada generación. A esto se le llama **anticipación**. Una familia típica puede tener un abuelo con cataratas, una madre con miotonía y debilidad de adulta, y un hijo con la forma congénita.
 
 La **forma congénita**, la más grave, casi siempre se hereda de la **madre**. Los bebés nacen con poco tono muscular (hipotonía), problemas para respirar y para tragar, y después tienen discapacidad intelectual. Muchos superan la etapa neonatal y mejoran su fuerza durante la infancia, pero desarrollan los síntomas del adulto más tarde.
 
@@ -51,7 +51,7 @@ La **forma congénita**, la más grave, casi siempre se hereda de la **madre**. 
 - **Músculos**: miotonía en manos y lengua; debilidad de la cara (con un rostro alargado y párpados caídos), del cuello, de manos y pies. Con los años, dificultad para caminar.
 - **Corazón**: alteraciones de la conducción eléctrica y **arritmias**, que pueden causar muerte súbita. Es la complicación más importante que vigilar.
 - **Respiración**: debilidad de los músculos respiratorios, apneas del sueño e infecciones.
-- **Ojos**: **cataratas** precoces, a menudo antes de los 50, que pueden ser el primer síntoma.
+- **Ojos**: **cataratas** precoces, a menudo antes de los 50[[4]], que pueden ser el primer síntoma.
 - **Cerebro**: **somnolencia diurna** excesiva, apatía, cansancio y dificultades de atención y organización.
 - **Hormonas**: resistencia a la insulina y diabetes, problemas de tiroides, falta de testosterona y calvicie frontal precoz en los hombres.
 - **Aparato digestivo**: problemas para tragar, estreñimiento o colon irritable.
@@ -74,7 +74,7 @@ No hay todavía un tratamiento que corrija la causa, pero un **seguimiento estru
 
 ## Investigación
 
-La distrofia miotónica es una de las dianas más activas de las **terapias de ARN**. Varios fármacos en ensayos clínicos usan **oligonucleótidos antisentido** o ARN de interferencia unidos a anticuerpos que los llevan al músculo, para destruir el ARN tóxico y liberar a MBNL1. Los primeros resultados, entre 2024 y 2025, mostraron que el *splicing* mejoraba en el músculo y había señales de mejoría funcional, y ya hay ensayos más grandes en marcha. También se estudia la [edición genética con CRISPR](../../tratamientos/crispr-explicado/) para eliminar la repetición.
+La distrofia miotónica es una de las dianas más activas de las **terapias de ARN**[[2]]. Varios fármacos en ensayos clínicos usan **oligonucleótidos antisentido** o ARN de interferencia unidos a anticuerpos que los llevan al músculo, para destruir el ARN tóxico y liberar a MBNL1. Los primeros resultados, entre 2024 y 2025, mostraron que el *splicing* mejoraba en el músculo y había señales de mejoría funcional, y ya hay ensayos más grandes en marcha. También se estudia la [edición genética con CRISPR](../../tratamientos/crispr-explicado/) para eliminar la repetición.
 
 ## Qué preguntar en consulta
 

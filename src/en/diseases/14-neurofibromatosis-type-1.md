@@ -28,7 +28,7 @@ The ***NF1*** gene makes **neurofibromin**, a protein that acts as a **tumour su
 
 People with NF1 are born with one altered copy of the gene in all their cells. Tumours appear when, by chance, a cell also loses the other copy, the "**second hit**", the same idea that explains [hereditary cancer](../hereditary-cancer/).
 
-Inheritance is **autosomal dominant**: each child of an affected person has a **50 %** chance of inheriting it. But around **half** of cases are due to a **new variant** (*de novo*) that neither parent had. The *NF1* gene is large and has one of the highest mutation rates in the human genome. Sometimes the variant arises after fertilisation and affects only part of the body: this is **mosaic**, or segmental, NF1.
+Inheritance is **autosomal dominant**: each child of an affected person has a **50 %** chance of inheriting it. But around **half** of cases[[1]] are due to a **new variant** (*de novo*) that neither parent had. The *NF1* gene is large and has one of the highest mutation rates in the human genome. Sometimes the variant arises after fertilisation and affects only part of the body: this is **mosaic**, or segmental, NF1.
 
 ## Signs and symptoms
 
@@ -36,27 +36,27 @@ Inheritance is **autosomal dominant**: each child of an affected person has a **
 - **Freckles in the armpits and groin**, an unusual place for freckles.
 - **Lisch nodules**: small harmless bumps on the iris, visible with a slit lamp.
 - **Cutaneous neurofibromas**: soft lumps in the skin that usually appear in adolescence and increase with age and pregnancy. They are benign, but can be numerous and greatly affect self-esteem.
-- **Plexiform neurofibromas**: larger tumours that grow along deep nerves. About 30–50 % of people have them, and they can cause pain, disfigurement or pressure on organs.
-- **Optic pathway gliomas**: tumours of the optic nerve in about 15 % of children, almost always without symptoms. This is why children have yearly eye checks.
+- **Plexiform neurofibromas**: larger tumours that grow along deep nerves. About 30–50 % of people[[1]] have them, and they can cause pain, disfigurement or pressure on organs.
+- **Optic pathway gliomas**: tumours of the optic nerve in about 15 % of children[[1]], almost always without symptoms. This is why children have yearly eye checks.
 - **Learning and attention difficulties**: these occur in more than half of children, along with higher rates of ADHD and autistic traits.
 - **Bones**: scoliosis, changes in the shin bone (which can bow and break) and somewhat short stature.
 - **High blood pressure** and, rarely, other tumours.
 
 ## Risks to watch for
 
-The most serious risk is the transformation of a plexiform neurofibroma into a **malignant peripheral nerve sheath tumour** (MPNST), which occurs in 8–13 % of people over their lifetime. New, persistent pain, rapid growth or a change in the feel of a tumour should be checked promptly. Women with NF1 also have a higher risk of **breast cancer** before 50, so earlier mammograms or MRI scans are recommended.
+The most serious risk is the transformation of a plexiform neurofibroma into a **malignant peripheral nerve sheath tumour** (MPNST), which occurs in 8–13 % of people[[1]] over their lifetime. New, persistent pain, rapid growth or a change in the feel of a tumour should be checked promptly. Women with NF1 also have a higher risk of **breast cancer** before 50, so earlier mammograms or MRI scans are recommended.
 
 ## Diagnosis
 
-Diagnosis is based on **clinical criteria**, updated by an international consensus in **2021**. At least two features are needed, including six or more café-au-lait spots, freckling in skin folds, two or more neurofibromas or one plexiform, an optic glioma, Lisch nodules, certain bone lesions, or a **pathogenic variant in *NF1***. If a parent has NF1, one feature in the child is enough.
+Diagnosis is based on **clinical criteria**, updated by an international consensus in **2021**[[2]]. At least two features are needed, including six or more café-au-lait spots, freckling in skin folds, two or more neurofibromas or one plexiform, an optic glioma, Lisch nodules, certain bone lesions, or a **pathogenic variant in *NF1***. If a parent has NF1, one feature in the child is enough.
 
-**Genetic testing** finds the variant in more than 95 % of cases. It is useful when the picture is unclear, especially in young children who have only spots, and to distinguish NF1 from **Legius syndrome** (gene *SPRED1*), which causes spots and freckles but no tumours.
+**Genetic testing** finds the variant in more than 95 % of cases[[1]]. It is useful when the picture is unclear, especially in young children who have only spots, and to distinguish NF1 from **Legius syndrome** (gene *SPRED1*), which causes spots and freckles but no tumours.
 
 ## Treatment
 
 There is no cure, but **organised follow-up** in experienced clinics improves the lives of people with NF1: yearly checks of the skin, eyesight, spine, blood pressure and school progress.
 
-- **Selumetinib**: a MEK inhibitor, blocking one part of the RAS-MAPK pathway. In 2020 it became the **first drug approved** in the United States (in the European Union, in 2021) for children with symptomatic plexiform neurofibromas that cannot be operated on. In the trial, the tumour shrank in about two thirds of children, with less pain. Its use has since been extended to adults, and in 2025 another MEK inhibitor, **mirdametinib**, was approved.
+- **Selumetinib**: a MEK inhibitor, blocking one part of the RAS-MAPK pathway. In 2020 it became the **first drug approved**[[3]] in the United States (in the European Union, in 2021) for children with symptomatic plexiform neurofibromas that cannot be operated on. In the trial, the tumour shrank in about two thirds of children, with less pain. Its use has since been extended to adults, and in 2025 another MEK inhibitor, **mirdametinib**, was approved.
 - **Surgery**: for neurofibromas that cause problems or disfigurement, and for suspicious tumours.
 - **Laser or electrosurgery** for cutaneous neurofibromas.
 - **School and psychological support**, very important in childhood.

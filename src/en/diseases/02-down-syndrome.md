@@ -28,13 +28,13 @@ The British physician **John Langdon Down** described it in 1866 in residents of
 
 ## The three forms
 
-- **Free trisomy 21** (about 95 %): three complete copies of chromosome 21 in every cell. It results from an error in chromosome sorting, called **non-disjunction**, when the egg (over 90 % of cases) or sperm is formed.
-- **Translocation** (about 3-4 %): the extra chromosome 21 is attached to another chromosome, often number 14. In some of these cases one parent carries a **balanced translocation** with no health consequences but an increased risk of recurrence in other pregnancies. So if the baby has a translocation, the parents are tested.
+- **Free trisomy 21** (about 95 %)[[1]]: three complete copies of chromosome 21 in every cell. It results from an error in chromosome sorting, called **non-disjunction**, when the egg (over 90 % of cases) or sperm is formed.
+- **Translocation** (about 3-4 %)[[1]]: the extra chromosome 21 is attached to another chromosome, often number 14. In some of these cases one parent carries a **balanced translocation** with no health consequences but an increased risk of recurrence in other pregnancies. So if the baby has a translocation, the parents are tested.
 - **Mosaicism** (1-2 %): only some cells have the trisomy. Features may be milder, although this varies a lot.
 
 ## Is it inherited?
 
-In the vast majority of cases **no**: it happens by chance while reproductive cells form. The likelihood **increases with maternal age**: at 25 it is about 1 in 1,200 pregnancies, and at 40 about 1 in 100. Even so, because younger women have more children overall, a large share of children with Down syndrome are born to mothers under 35.
+In the vast majority of cases **no**: it happens by chance while reproductive cells form. The likelihood **increases with maternal age**[[1]]: at 25 it is about 1 in 1,200 pregnancies, and at 40 about 1 in 100. Even so, because younger women have more children overall, a large share of children with Down syndrome are born to mothers under 35.
 
 After having a child with free trisomy 21, the risk of recurrence in another pregnancy is about 1 %, or the age-related risk if that is higher. When a translocation is inherited, the risk depends on its type and which parent carries it, and is explained in a genetic counselling appointment.
 
@@ -44,14 +44,14 @@ The most frequent physical features are almond-shaped eyes with a fold at the in
 
 The most important health problems, which are checked systematically, are:
 
-- **Congenital heart disease** (40-50 %), especially atrioventricular septal defect. An echocardiogram is done in the first weeks; many are successfully operated on in the first year.
+- **Congenital heart disease** (40-50 %)[[2]], especially atrioventricular septal defect. An echocardiogram is done in the first weeks; many are successfully operated on in the first year.
 - **Digestive problems**: duodenal atresia, Hirschsprung's disease, coeliac disease.
 - **Thyroid**: hypothyroidism is common at any age, so it is checked regularly.
 - **Hearing and vision**: glue ear, hearing loss, cataracts, short-sightedness, keratoconus.
 - **Sleep apnoea**, which can affect behaviour and learning.
 - **Leukaemia**: the risk in childhood is higher than in the general population, though still low.
 - **Instability of the cervical spine**, to bear in mind for some activities.
-- **Alzheimer's disease** in adulthood, at earlier ages than in the general population, because chromosome 21 contains the *APP* gene, whose protein forms amyloid plaques.
+- **Alzheimer's disease** in adulthood[[3]], at earlier ages than in the general population, because chromosome 21 contains the *APP* gene, whose protein forms amyloid plaques.
 
 Health-supervision guidelines, such as those of the American Academy of Pediatrics or the **Spanish Health Programme for People with Down Syndrome**, set out which check-ups to do at each age.
 
@@ -69,7 +69,7 @@ It is suspected from the baby's features and confirmed by a blood **karyotype**,
 
 **Early intervention** from the first months, with physiotherapy, speech therapy and stimulation, improves motor development, language and independence. **Inclusive schooling**, supported employment programmes and supported independent living have transformed expectations in recent decades.
 
-**Life expectancy** has risen from about 10 years in 1960 to around **60 years** today in countries with good health care, largely thanks to heart surgery. This brings new challenges: premature ageing, and preventing and diagnosing Alzheimer's disease in adults.
+**Life expectancy** has risen from about 10 years in 1960 to around **60 years**[[1]] today in countries with good health care, largely thanks to heart surgery. This brings new challenges: premature ageing, and preventing and diagnosing Alzheimer's disease in adults.
 
 ## Current research
 

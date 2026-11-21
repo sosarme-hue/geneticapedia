@@ -33,7 +33,7 @@ The name comes from the lesions seen in the pancreas: scarring (fibrosis) and cy
 
 The disease is caused by variants in the ***CFTR*** gene on chromosome 7, identified in 1989 by the teams of [Lap-Chee Tsui](../../people/lap-chee-tsui/), John Riordan and [Francis Collins](../../people/francis-collins/). The gene holds the instructions for a protein that works as a **chloride channel**: a gate in the cell membrane that controls the passage of chloride and, with it, water. If the channel fails, there is too little water on the surface of the airways and ducts, and mucus thickens.
 
-More than **2,000 variants** of the gene are known, although not all cause disease. The most common in Europe is **F508del**: the loss of a single amino acid, phenylalanine at position 508. It makes the protein fold incorrectly so that the cell destroys it before it reaches the membrane. It accounts for about 70 % of altered copies in northern Europe and just over half in Spain.
+More than **2,000 variants**[[1]] of the gene are known, although not all cause disease. The most common in Europe is **F508del**: the loss of a single amino acid, phenylalanine at position 508. It makes the protein fold incorrectly so that the cell destroys it before it reaches the membrane. It accounts for about 70 % of altered copies in northern Europe and just over half in Spain.
 
 Variants are grouped into **classes** according to how they fail: the protein is not made, does not reach the membrane, reaches it but does not open properly, lets little chloride through or is made in small amounts. This matters because current drugs act on specific mechanisms.
 
@@ -53,7 +53,7 @@ These probabilities apply to every pregnancy, whatever happened in previous ones
 
 Features and severity vary greatly, even between people with the same variants:
 
-- **Newborns**: about 15 % are born with a bowel blockage called **meconium ileus**.
+- **Newborns**: about 15 % are born with a bowel blockage called **meconium ileus**[[2]].
 - **Childhood**: persistent cough, recurrent bronchitis and pneumonia, bulky greasy stools, poor weight gain despite eating well.
 - **Adolescence and adulthood**: bronchiectasis (widened, damaged airways), chronic infection with bacteria such as *Pseudomonas aeruginosa*, nasal polyps, cystic fibrosis-related **diabetes**, liver disease, osteoporosis and infertility.
 
@@ -62,7 +62,7 @@ Some people with "mild" variants are diagnosed as adults, for example during inv
 ## Diagnosis
 
 - **Newborn screening (heel-prick test)**: measures **immunoreactive trypsinogen**, a pancreatic enzyme that is raised in the baby's blood. If it is high, genetic testing or a second measurement follows. It has been applied throughout Spain since 2015 and allows treatment to begin before symptoms appear.
-- **Sweat test**: the confirmatory test. Sweating is stimulated on the forearm with a mild, painless electric current, and **chloride** in the sweat is measured. A value of 60 mmol/L or more confirms the diagnosis; 30-59 is borderline.
+- **Sweat test**[[5]]: the confirmatory test. Sweating is stimulated on the forearm with a mild, painless electric current, and **chloride** in the sweat is measured. A value of 60 mmol/L or more confirms the diagnosis; 30-59 is borderline.
 - **Genetic testing of *CFTR***: identifies both variants, which helps predict the course, choose treatment and offer carrier testing to the family.
 
 ## Treatment
@@ -82,15 +82,15 @@ The big change of the past decade has been **CFTR modulators**, the first drugs 
 - **Potentiators**, such as **ivacaftor**, help open a channel already in the membrane.
 - **Correctors**, such as **elexacaftor** and **tezacaftor**, help the protein fold and reach the membrane.
 
-The combination of **elexacaftor, tezacaftor and ivacaftor** (approved in the European Union in 2020) works for people with at least one copy of F508del, about 85-90 % of patients. In clinical trials it improved lung function by roughly 10 to 14 percentage points, reduced flare-ups and nearly normalised sweat chloride. In real life, many people no longer need hospital admissions and some have come off transplant waiting lists. Its use has been extended to children from 2 years of age. In 2025 a new once-daily combination of **vanzacaftor, tezacaftor and deutivacaftor** was approved.
+The combination of **elexacaftor, tezacaftor and ivacaftor** (approved in the European Union in 2020)[[6]] works for people with at least one copy of F508del, about 85-90 %[[3,4]] of patients. In clinical trials it improved lung function by roughly 10 to 14 percentage points, reduced flare-ups and nearly normalised sweat chloride. In real life, many people no longer need hospital admissions and some have come off transplant waiting lists. Its use has been extended to children from 2 years of age. In 2025 a new once-daily combination of **vanzacaftor, tezacaftor and deutivacaftor** was approved.
 
 ### Life expectancy
 
-In the 1960s most children with cystic fibrosis did not reach school age. Today, thanks to early diagnosis and treatment, **median survival** in countries with good registries exceeds 50 years, and people who start modulators in childhood are expected to live considerably longer. For the first time there are more adults than children with the disease in many European countries.
+In the 1960s most children with cystic fibrosis did not reach school age. Today, thanks to early diagnosis and treatment, **median survival**[[8]] in countries with good registries exceeds 50 years, and people who start modulators in childhood are expected to live considerably longer. For the first time there are more adults than children with the disease in many European countries.
 
 ## Current research
 
-- About 10 % of patients have variants that do not respond to current modulators, for example variants that prevent the protein from being made. For them, inhaled **messenger RNA therapies** and **gene therapy** with viral vectors carrying a healthy copy of the gene to airway cells are being studied.
+- About 10 % of patients[[1]] have variants that do not respond to current modulators, for example variants that prevent the protein from being made. For them, inhaled **messenger RNA therapies** and **gene therapy** with viral vectors carrying a healthy copy of the gene to airway cells are being studied.
 - **Gene editing** with CRISPR and base editing is being tested in the laboratory to correct specific variants.
 
 ## Frequently asked questions

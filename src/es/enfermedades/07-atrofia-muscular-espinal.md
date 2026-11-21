@@ -39,7 +39,7 @@ El tipo 1 supone más de la mitad de los casos. Los primeros signos son un bebé
 
 ## Causa genética
 
-Se debe a la falta del gen ***SMN1*** (*survival motor neuron 1*), en el cromosoma 5. En alrededor del 95 % de los casos falta un trozo del gen en las dos copias (una **deleción** del exón 7). El gen fabrica la proteína **SMN**, que todas las células necesitan, pero las motoneuronas son especialmente sensibles a su falta.
+Se debe a la falta del gen ***SMN1*** (*survival motor neuron 1*), en el cromosoma 5. En alrededor del 95 % de los casos[[1]] falta un trozo del gen en las dos copias (una **deleción** del exón 7). El gen fabrica la proteína **SMN**, que todas las células necesitan, pero las motoneuronas son especialmente sensibles a su falta.
 
 El detalle clave es que existe un gen casi gemelo, ***SMN2***, que difiere en una sola letra. Por ese cambio, la mayor parte del ARN de *SMN2* se "recorta" mal (pierde el exón 7) y solo alrededor de un **10 %** produce proteína funcional. Las personas tienen entre una y ocho copias de *SMN2*: **cuantas más copias, más proteína y más leve suele ser la enfermedad**. Los bebés con dos copias suelen tener el tipo 1; con tres o cuatro, formas más leves.
 
@@ -47,17 +47,17 @@ Esa "rueda de repuesto" es la que aprovechan dos de los tres tratamientos.
 
 ## Herencia
 
-Es **autosómica recesiva**: hacen falta dos copias alteradas de *SMN1*. Alrededor de **1 de cada 40 a 50** personas es portadora sin saberlo. Si ambos miembros de una pareja lo son, cada embarazo tiene un 25 % de probabilidad de hijo afectado. Un 2 % de los casos se debe a una variante nueva en uno de los progenitores.
+Es **autosómica recesiva**: hacen falta dos copias alteradas de *SMN1*. Alrededor de **1 de cada 40 a 50** personas[[1]] es portadora sin saberlo. Si ambos miembros de una pareja lo son, cada embarazo tiene un 25 % de probabilidad de hijo afectado. Un 2 % de los casos se debe a una variante nueva en uno de los progenitores.
 
-Un detalle técnico importante: alrededor de un 4 % de los portadores tiene **dos copias de *SMN1* en el mismo cromosoma** y ninguna en el otro, por lo que la prueba estándar de portadores, que cuenta copias, puede salir normal. Por eso un resultado negativo reduce mucho el riesgo, pero no lo elimina.
+Un detalle técnico importante: alrededor de un 4 % de los portadores[[6]] tiene **dos copias de *SMN1* en el mismo cromosoma** y ninguna en el otro, por lo que la prueba estándar de portadores, que cuenta copias, puede salir normal. Por eso un resultado negativo reduce mucho el riesgo, pero no lo elimina.
 
 ## Tres tratamientos en pocos años
 
 En menos de cinco años, la AME pasó de no tener tratamiento a tener tres, todos basados en la genética:
 
-- **Nusinersén** (aprobado en Europa en 2017): un **oligonucleótido antisentido**, un fragmento corto de ARN que se une al ARN de *SMN2* y hace que se recorte bien, de modo que produzca más proteína completa. Se inyecta en el líquido cefalorraquídeo mediante punción lumbar cuatro veces el primer año y después cada cuatro meses.
-- **Onasemnogén abeparvovec** (aprobado en Europa en 2020): **terapia génica** que introduce una copia funcional de *SMN1* en las motoneuronas con un virus modificado (AAV9), en **una sola infusión intravenosa**. Se usa sobre todo en bebés pequeños. Requiere corticoides y vigilancia del hígado.
-- **Risdiplam** (aprobado en Europa en 2021): una molécula que se toma **por boca** a diario y también corrige el recorte del ARN de *SMN2*. Llega a todo el cuerpo.
+- **Nusinersén** (aprobado en Europa en 2017)[[2]]: un **oligonucleótido antisentido**, un fragmento corto de ARN que se une al ARN de *SMN2* y hace que se recorte bien, de modo que produzca más proteína completa. Se inyecta en el líquido cefalorraquídeo mediante punción lumbar cuatro veces el primer año y después cada cuatro meses.
+- **Onasemnogén abeparvovec** (aprobado en Europa en 2020)[[3]]: **terapia génica** que introduce una copia funcional de *SMN1* en las motoneuronas con un virus modificado (AAV9), en **una sola infusión intravenosa**. Se usa sobre todo en bebés pequeños. Requiere corticoides y vigilancia del hígado.
+- **Risdiplam** (aprobado en Europa en 2021)[[5]]: una molécula que se toma **por boca** a diario y también corrige el recorte del ARN de *SMN2*. Llega a todo el cuerpo.
 
 Los tres frenan la enfermedad, pero **no recuperan** las motoneuronas que ya se han perdido. Se investigan combinaciones, nuevas formas de administración, como una versión de la terapia génica que se inyecta en el líquido cefalorraquídeo para niños mayores, y fármacos que mejoran la fuerza del músculo.
 
@@ -65,7 +65,7 @@ Junto al tratamiento farmacológico siguen siendo esenciales la **fisioterapia**
 
 ## Por qué el tiempo importa
 
-Un bebé con AME tipo 1 puede perder la mayor parte de sus motoneuronas en los primeros meses de vida. Los ensayos con bebés tratados **antes de tener síntomas**, diagnosticados por tener un hermano afectado o por cribado neonatal, mostraron resultados espectaculares: la mayoría consiguió **sentarse y caminar** de forma independiente, algo impensable sin tratamiento.
+Un bebé con AME tipo 1 puede perder la mayor parte de sus motoneuronas en los primeros meses de vida. Los ensayos con bebés tratados **antes de tener síntomas**[[4]], diagnosticados por tener un hermano afectado o por cribado neonatal, mostraron resultados espectaculares: la mayoría consiguió **sentarse y caminar** de forma independiente, algo impensable sin tratamiento.
 
 Por eso la AME se está incorporando a la **prueba del talón** en muchos países. La prueba detecta la ausencia del exón 7 de *SMN1* en la misma gota de sangre seca que se usa para otras enfermedades. En España, varias comunidades autónomas ya la incluyen y está prevista su extensión a todo el Sistema Nacional de Salud.
 

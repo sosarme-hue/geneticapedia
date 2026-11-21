@@ -22,11 +22,11 @@ img_pie: Typical distribution of muscle weakness in myotonic dystrophy.
 
 There are two types. **Type 1** (DM1, or **Steinert** disease, after the physician who described it in 1909) is the more common and severe. **Type 2** (DM2), described in the 1990s, is milder and mainly affects the muscles close to the trunk.
 
-It is the **most common muscular dystrophy in adults**, and also one of the most varied: it ranges from cataracts at 60 as the only sign to severe forms in newborns.
+It is the **most common muscular dystrophy in adults**[[1]], and also one of the most varied: it ranges from cataracts at 60 as the only sign to severe forms in newborns.
 
 ## Cause: a repeat that grows
 
-DM1 is caused by a **triplet expansion**: a three-letter sequence, **CTG**, that is repeated more times than normal in the ***DMPK*** gene. It is the same kind of mechanism as in [Huntington's disease](../huntingtons-disease/) and [fragile X syndrome](../fragile-x-syndrome/).
+DM1 is caused by a **triplet expansion**[[3]]: a three-letter sequence, **CTG**, that is repeated more times than normal in the ***DMPK*** gene. It is the same kind of mechanism as in [Huntington's disease](../huntingtons-disease/) and [fragile X syndrome](../fragile-x-syndrome/).
 
 | Number of CTG repeats | Situation |
 |---|---|
@@ -42,7 +42,7 @@ DM2 is caused by an expansion of **CCTG** in the ***CNBP*** gene, with a similar
 
 ## Anticipation
 
-In DM1 the repeat tends to **grow as it passes from parents to children**, so the disease appears **earlier and more severely** in each generation. This is called **anticipation**. A typical family might have a grandparent with cataracts, a mother with myotonia and weakness as an adult, and a child with the congenital form.
+In DM1 the repeat tends to **grow as it passes from parents to children**[[1]], so the disease appears **earlier and more severely** in each generation. This is called **anticipation**. A typical family might have a grandparent with cataracts, a mother with myotonia and weakness as an adult, and a child with the congenital form.
 
 The **congenital form**, the most severe, is almost always inherited from the **mother**. Babies are born with low muscle tone (hypotonia), breathing and swallowing problems, and later have intellectual disability. Many survive the newborn period and gain strength during childhood, but develop the adult symptoms later.
 
@@ -51,7 +51,7 @@ The **congenital form**, the most severe, is almost always inherited from the **
 - **Muscles**: myotonia in the hands and tongue; weakness of the face (with a long face and drooping eyelids), neck, hands and feet. Over the years, difficulty walking.
 - **Heart**: problems with electrical conduction and **arrhythmias**, which can cause sudden death. This is the most important complication to monitor.
 - **Breathing**: weak breathing muscles, sleep apnoea and infections.
-- **Eyes**: early **cataracts**, often before 50, which may be the first sign.
+- **Eyes**: early **cataracts**, often before 50[[4]], which may be the first sign.
 - **Brain**: excessive **daytime sleepiness**, apathy, fatigue and difficulties with attention and organisation.
 - **Hormones**: insulin resistance and diabetes, thyroid problems, low testosterone and early frontal balding in men.
 - **Digestive system**: swallowing problems, constipation or irritable bowel.
@@ -74,7 +74,7 @@ There is not yet a treatment that corrects the cause, but **structured follow-up
 
 ## Research
 
-Myotonic dystrophy is one of the most active targets for **RNA therapies**. Several drugs in clinical trials use **antisense oligonucleotides** or RNA interference attached to antibodies that carry them into muscle, to destroy the toxic RNA and free MBNL1. Early results in 2024 and 2025 showed improved splicing in muscle and signs of functional improvement, and larger trials are under way. [CRISPR gene editing](../../treatments/crispr-explained/) to remove the repeat is also being studied.
+Myotonic dystrophy is one of the most active targets for **RNA therapies**[[2]]. Several drugs in clinical trials use **antisense oligonucleotides** or RNA interference attached to antibodies that carry them into muscle, to destroy the toxic RNA and free MBNL1. Early results in 2024 and 2025 showed improved splicing in muscle and signs of functional improvement, and larger trials are under way. [CRISPR gene editing](../../treatments/crispr-explained/) to remove the repeat is also being studied.
 
 ## What to ask at your appointment
 

@@ -20,7 +20,7 @@ img_pie: Los riñones, que en la poliquistosis pueden llegar a pesar varios kilo
 
 La **poliquistosis renal autosómica dominante** (PQRAD, o ADPKD en inglés) es la **enfermedad renal hereditaria más frecuente** del mundo. Desde el nacimiento, en los riñones empiezan a formarse **quistes**, bolsas llenas de líquido que crecen lentamente durante décadas. Con el tiempo los riñones pueden alcanzar varias veces su tamaño normal, pesar varios kilos cada uno y perder su función.
 
-Es responsable de alrededor del **5-10 % de las personas en diálisis o con trasplante renal** en Europa. Pero es muy variable: algunas personas llegan a la insuficiencia renal a los 40 años y otras mantienen sus riñones funcionando hasta edades avanzadas.
+Es responsable de alrededor del **5-10 % de las personas en diálisis o con trasplante renal** en Europa[[1]]. Pero es muy variable: algunas personas llegan a la insuficiencia renal a los 40 años y otras mantienen sus riñones funcionando hasta edades avanzadas.
 
 ## Causa
 
@@ -29,8 +29,8 @@ Los genes ***PKD1*** y ***PKD2*** fabrican la **policistina-1** y la **policisti
 Igual que en el [cáncer hereditario](../cancer-hereditario/) o la [neurofibromatosis](../neurofibromatosis-tipo-1/), se cree que cada quiste empieza cuando una célula pierde también la copia sana del gen, o cuando la cantidad de proteína funcional baja de un umbral.
 
 - **Herencia autosómica dominante**: cada hijo de una persona afectada tiene un 50 % de probabilidad de heredarla.
-- Las variantes en ***PKD1***, sobre todo las que truncan la proteína, dan una enfermedad más precoz: la insuficiencia renal llega de media hacia los **55-60 años**, frente a unos **75-80** con *PKD2*.
-- Alrededor de un 10 % de los casos no tiene antecedentes familiares, por variantes nuevas o por familiares con formas leves no diagnosticadas.
+- Las variantes en ***PKD1***, sobre todo las que truncan la proteína, dan una enfermedad más precoz: la insuficiencia renal llega de media hacia los **55-60 años**[[1]], frente a unos **75-80** con *PKD2*.
+- Alrededor de un 10 % de los casos no tiene antecedentes familiares[[1]], por variantes nuevas o por familiares con formas leves no diagnosticadas.
 - Otros genes, como *GANAB* o *DNAJB11*, causan formas raras y leves.
 
 ## Síntomas
@@ -46,12 +46,12 @@ Durante muchos años no hay síntomas. Los primeros suelen aparecer entre los **
 Fuera del riñón:
 
 - **Quistes en el hígado** en la gran mayoría de los adultos. Suelen ser inofensivos, pero en algunas mujeres el hígado crece mucho (los estrógenos lo favorecen).
-- **Aneurismas cerebrales** en un 9-12 %, más en familias en las que ya ha habido alguno. Su rotura es la complicación más temida.
+- **Aneurismas cerebrales** en un 9-12 %[[1]], más en familias en las que ya ha habido alguno. Su rotura es la complicación más temida.
 - Alteraciones de las válvulas del corazón y hernias.
 
 ## Diagnóstico
 
-En una persona con antecedentes familiares, la **ecografía** suele bastar. Hay criterios según la edad: por ejemplo, entre los 15 y los 39 años, tres o más quistes en total en los dos riñones confirman el diagnóstico. Una ecografía normal a partir de los 40 años prácticamente lo descarta.
+En una persona con antecedentes familiares, la **ecografía** suele bastar. Hay criterios según la edad: por ejemplo, entre los 15 y los 39 años[[4]], tres o más quistes en total en los dos riñones confirman el diagnóstico. Una ecografía normal a partir de los 40 años prácticamente lo descarta.
 
 El **estudio genético** se usa cuando la imagen no es concluyente, cuando no hay antecedentes, cuando un familiar joven quiere donar un riñón, o para planificar un embarazo con [diagnóstico preimplantacional](../../diagnostico/pruebas-de-portadores-y-preimplantacional/).
 
@@ -59,8 +59,8 @@ Para estimar el pronóstico se mide el **volumen total de los riñones** con res
 
 ## Tratamiento
 
-- **Controlar la tensión arterial**: se busca una tensión baja, en especial en personas jóvenes, con fármacos que bloquean el sistema renina-angiotensina. Un ensayo de 2014 mostró que una tensión más baja frenaba el crecimiento de los riñones.
-- **Tolvaptán**: un fármaco que bloquea la hormona antidiurética (vasopresina) en el riñón y así reduce el AMP cíclico. En el ensayo TEMPO 3:4 redujo el crecimiento de los riñones y la pérdida de función. Está aprobado en Europa desde 2015 para adultos con enfermedad que progresa rápido. Hace orinar mucho, lo que obliga a beber varios litros al día, y requiere análisis del hígado regulares.
+- **Controlar la tensión arterial**: se busca una tensión baja, en especial en personas jóvenes, con fármacos que bloquean el sistema renina-angiotensina. Un ensayo de 2014 mostró que una tensión más baja frenaba el crecimiento de los riñones[[3]].
+- **Tolvaptán**: un fármaco que bloquea la hormona antidiurética (vasopresina) en el riñón y así reduce el AMP cíclico. En el ensayo TEMPO 3:4 redujo el crecimiento de los riñones y la pérdida de función[[2]]. Está aprobado en Europa desde 2015 para adultos con enfermedad que progresa rápido. Hace orinar mucho, lo que obliga a beber varios litros al día, y requiere análisis del hígado regulares.
 - **Beber abundante agua**, reducir la sal y moderar las proteínas, mantener un peso saludable y no fumar.
 - **Diálisis y trasplante renal** cuando los riñones fallan. Los resultados del trasplante en estas personas son muy buenos, porque la enfermedad no reaparece en el riñón trasplantado.
 - **Cribado de aneurismas cerebrales** con angiorresonancia en personas con antecedentes familiares de aneurisma o de hemorragia cerebral, o con profesiones de riesgo.

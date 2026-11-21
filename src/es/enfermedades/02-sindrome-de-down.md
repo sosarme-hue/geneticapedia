@@ -28,13 +28,13 @@ El médico británico **John Langdon Down** lo describió en 1866 en pacientes d
 
 ## Las tres formas
 
-- **Trisomía 21 libre** (alrededor del 95 %): hay tres copias completas del cromosoma 21 en todas las células. Se produce por un error en el reparto de cromosomas, llamado **no disyunción**, al formarse el óvulo (en más del 90 % de los casos) o el espermatozoide.
-- **Translocación** (alrededor del 3-4 %): el cromosoma 21 extra está unido a otro cromosoma, a menudo el 14. En una parte de estos casos, uno de los progenitores lleva una **translocación equilibrada** sin consecuencias para su salud, pero con un riesgo aumentado de repetición en otros embarazos. Por eso, si el bebé tiene una translocación, se estudia a los padres.
+- **Trisomía 21 libre** (alrededor del 95 %)[[1]]: hay tres copias completas del cromosoma 21 en todas las células. Se produce por un error en el reparto de cromosomas, llamado **no disyunción**, al formarse el óvulo (en más del 90 % de los casos) o el espermatozoide.
+- **Translocación** (alrededor del 3-4 %)[[1]]: el cromosoma 21 extra está unido a otro cromosoma, a menudo el 14. En una parte de estos casos, uno de los progenitores lleva una **translocación equilibrada** sin consecuencias para su salud, pero con un riesgo aumentado de repetición en otros embarazos. Por eso, si el bebé tiene una translocación, se estudia a los padres.
 - **Mosaicismo** (1-2 %): solo una parte de las células tiene la trisomía. Las manifestaciones pueden ser más leves, aunque varía mucho.
 
 ## ¿Se hereda?
 
-En la gran mayoría de los casos **no**: es un hecho que ocurre al azar durante la formación de las células reproductoras. La probabilidad **aumenta con la edad materna**: a los 25 años es de alrededor de 1 de cada 1.200 embarazos y a los 40 de alrededor de 1 de cada 100. Aun así, como las mujeres jóvenes tienen más hijos en total, una parte importante de los niños con síndrome de Down nace de madres menores de 35 años.
+En la gran mayoría de los casos **no**: es un hecho que ocurre al azar durante la formación de las células reproductoras. La probabilidad **aumenta con la edad materna**[[1]]: a los 25 años es de alrededor de 1 de cada 1.200 embarazos y a los 40 de alrededor de 1 de cada 100. Aun así, como las mujeres jóvenes tienen más hijos en total, una parte importante de los niños con síndrome de Down nace de madres menores de 35 años.
 
 Después de tener un hijo con trisomía 21 libre, el riesgo de repetición en otro embarazo es de aproximadamente un 1 % o el riesgo por edad, si este es mayor. Cuando hay una translocación heredada, el riesgo depende del tipo y de qué progenitor la lleva, y lo explica una consulta de consejo genético.
 
@@ -44,14 +44,14 @@ Los rasgos físicos más frecuentes son ojos almendrados con un pliegue en el á
 
 Los problemas de salud más importantes, y que se vigilan de forma sistemática, son:
 
-- **Cardiopatías congénitas** (40-50 %), sobre todo el canal auriculoventricular. Se busca con una ecocardiografía en las primeras semanas; muchas se operan con éxito en el primer año.
+- **Cardiopatías congénitas** (40-50 %)[[2]], sobre todo el canal auriculoventricular. Se busca con una ecocardiografía en las primeras semanas; muchas se operan con éxito en el primer año.
 - **Problemas digestivos**: atresia duodenal, enfermedad de Hirschsprung, celiaquía.
 - **Tiroides**: el hipotiroidismo es frecuente a cualquier edad, por lo que se analiza periódicamente.
 - **Audición y visión**: otitis serosa, pérdida auditiva, cataratas, miopía, queratocono.
 - **Apnea del sueño**, que puede afectar al comportamiento y el aprendizaje.
 - **Leucemia**: el riesgo en la infancia es mayor que en la población general, aunque sigue siendo bajo.
 - **Inestabilidad de la columna cervical**, a tener en cuenta en algunas actividades.
-- **Enfermedad de Alzheimer** en la edad adulta, a edades más tempranas que en la población general, porque el cromosoma 21 contiene el gen *APP*, cuya proteína forma las placas de amiloide.
+- **Enfermedad de Alzheimer** en la edad adulta[[3]], a edades más tempranas que en la población general, porque el cromosoma 21 contiene el gen *APP*, cuya proteína forma las placas de amiloide.
 
 Las guías de supervisión de la salud, como las de la Academia Americana de Pediatría o el **Programa Español de Salud para Personas con Síndrome de Down**, indican qué revisiones hacer a cada edad.
 
@@ -69,7 +69,7 @@ Se sospecha por los rasgos del bebé y se confirma con un **cariotipo** en sangr
 
 La **atención temprana**, desde los primeros meses, con fisioterapia, logopedia y estimulación, mejora el desarrollo motor, el lenguaje y la autonomía. La **escolarización inclusiva**, los programas de empleo con apoyo y la vida independiente con apoyos han transformado las expectativas en las últimas décadas.
 
-La **esperanza de vida** ha pasado de unos 10 años en 1960 a alrededor de **60 años** hoy en los países con buena atención sanitaria, en gran parte gracias a la cirugía de las cardiopatías. Esto plantea retos nuevos: el envejecimiento prematuro y la prevención y el diagnóstico del Alzheimer en adultos.
+La **esperanza de vida** ha pasado de unos 10 años en 1960 a alrededor de **60 años**[[1]] hoy en los países con buena atención sanitaria, en gran parte gracias a la cirugía de las cardiopatías. Esto plantea retos nuevos: el envejecimiento prematuro y la prevención y el diagnóstico del Alzheimer en adultos.
 
 ## Investigación actual
 

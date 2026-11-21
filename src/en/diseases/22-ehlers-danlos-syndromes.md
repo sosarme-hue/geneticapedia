@@ -22,7 +22,7 @@ img_pie: Very stretchy skin, one of the features of some types of Ehlers-Danlos.
 
 ## Common features
 
-- **Joint hypermobility**: joints bend further than normal. It is measured with the **Beighton score**, from 0 to 9.
+- **Joint hypermobility**: joints bend further than normal. It is measured with the **Beighton score**, from 0 to 9[[1]].
 - Frequent **dislocations** and partial dislocations, sprains and joint pain.
 - Soft, velvety **skin** that stretches a lot and is fragile, with wounds that heal poorly and easy bruising.
 - **Chronic pain** and **fatigue**, often what most affects quality of life.
@@ -36,11 +36,11 @@ img_pie: Very stretchy skin, one of the features of some types of Ehlers-Danlos.
 | **Vascular** | *COL3A1* | Thin, translucent skin, bruising; risk of rupture of arteries, bowel or uterus |
 | **Kyphoscoliotic, arthrochalasia, dermatosparaxis** and others | Various | Very rare |
 
-The **vascular type** is the most dangerous: it can cause unexpected ruptures of arteries or the bowel, often between ages 20 and 40, and pregnancy carries risk. That is why it is so important to identify it. A blood pressure drug, **celiprolol**, appears to reduce complications. People affected should carry information about their diagnosis for emergencies.
+The **vascular type** is the most dangerous: it can cause unexpected ruptures of arteries or the bowel, often between ages 20 and 40[[2]], and pregnancy carries risk. That is why it is so important to identify it. A blood pressure drug, **celiprolol**, appears to reduce complications[[3]]. People affected should carry information about their diagnosis for emergencies.
 
 ## The hypermobile type, a diagnostic challenge
 
-It is by far the most common, but **there is no genetic test**: it is diagnosed with clinical criteria set in **2017**, which require generalised hypermobility, other connective tissue features and the exclusion of other causes. It overlaps with **hypermobility spectrum disorder**, and many people wait years for a diagnosis. It is often linked to dizziness on standing, digestive problems and anxiety, although the relationship is still being studied.
+It is by far the most common, but **there is no genetic test**: it is diagnosed with clinical criteria set in **2017**[[1]], which require generalised hypermobility, other connective tissue features and the exclusion of other causes. It overlaps with **hypermobility spectrum disorder**, and many people wait years for a diagnosis. It is often linked to dizziness on standing, digestive problems and anxiety, although the relationship is still being studied.
 
 ## Diagnosis and treatment
 

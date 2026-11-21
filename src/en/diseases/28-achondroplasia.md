@@ -22,11 +22,11 @@ health: si
 
 Long bones grow from **growth plates** of cartilage at their ends. The ***FGFR3*** gene makes a receptor that acts as a **brake** on this growth. In achondroplasia, a variant keeps the brake **permanently on**, so bones grow less.
 
-It is one of the most uniform variants in genetics: almost every case has the **same change**, a G replaced by an A at position 1138 of the gene, which changes amino acid 380. It is also one of the most frequent new mutations in the human genome.
+It is one of the most uniform variants in genetics: almost every case has the **same change**, a G replaced by an A at position 1138 of the gene[[2]], which changes amino acid 380. It is also one of the most frequent new mutations in the human genome.
 
 ## How it is inherited
 
-- About **80 %** of children with achondroplasia have **average-height parents**: the variant is new and almost always arises in the sperm. Its frequency rises with the **father's age**.
+- About **80 %** of children with achondroplasia[[3]] have **average-height parents**: the variant is new and almost always arises in the sperm. Its frequency rises with the **father's age**.
 - A person with achondroplasia has a **50 %** chance of passing it to each child, as in all [autosomal dominant](../../heredity/inheritance-patterns/) inheritance.
 - If both parents have achondroplasia, there is a 25 % chance that the baby inherits two copies, a form that is **lethal** shortly after birth.
 
@@ -40,7 +40,7 @@ It is one of the most uniform variants in genetics: almost every case has the **
 
 **Vosoritide** mimics a natural molecule, C-type natriuretic peptide, which counteracts the *FGFR3* signal. It is injected under the skin **every day** while the growth plates are open.
 
-In the clinical trial, treated children grew about **1.6 cm more per year** than those on placebo, and the effect is maintained years later. It was approved in the European Union and the United States in **2021** and later extended to young babies. Studies are looking at whether it also improves body proportions and medical complications, not just height. Other drugs are being investigated, such as infigratinib, taken by mouth.
+In the clinical trial, treated children grew about **1.6 cm more per year**[[1]] than those on placebo, and the effect is maintained years later. It was approved in the European Union and the United States in **2021** and later extended to young babies. Studies are looking at whether it also improves body proportions and medical complications, not just height. Other drugs are being investigated, such as infigratinib, taken by mouth.
 
 ## A debate within the community
 

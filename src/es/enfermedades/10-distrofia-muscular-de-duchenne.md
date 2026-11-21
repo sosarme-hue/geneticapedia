@@ -35,7 +35,7 @@ Gracias a los cuidados actuales, la esperanza de vida ha pasado de la adolescenc
 
 Se debe a variantes en el gen ***DMD***, en el cromosoma X, que fabrica la **distrofina**. Esta proteína funciona como un **amortiguador**: une el esqueleto interno de la fibra muscular con su membrana y la protege del desgaste al contraerse. Sin distrofina, cada contracción daña la fibra, que acaba muriendo.
 
-*DMD* es el **gen más grande** del genoma humano: ocupa unos 2,2 millones de bases, casi el 0,1 % de todo el genoma. Su tamaño explica que se altere con frecuencia. En alrededor del 65-70 % de los casos falta uno o varios **exones** (deleciones), en un 10 % hay fragmentos duplicados y el resto son variantes pequeñas.
+*DMD* es el **gen más grande** del genoma humano: ocupa unos 2,2 millones de bases[[4]], casi el 0,1 % de todo el genoma. Su tamaño explica que se altere con frecuencia. En alrededor del 65-70 % de los casos falta uno o varios **exones** (deleciones), en un 10 % hay fragmentos duplicados y el resto son variantes pequeñas.
 
 ### Duchenne y Becker
 
@@ -50,11 +50,11 @@ Esta "regla del marco de lectura" es la base de algunos tratamientos actuales.
 
 Es **recesiva ligada al cromosoma X**. Los varones tienen un solo X, así que una copia alterada basta para tener la enfermedad. Las mujeres portadoras suelen estar sanas, aunque alrededor de un 10 % tiene debilidad leve y, sobre todo, **riesgo de afectación del corazón**, por lo que se les recomienda revisión cardiológica periódica.
 
-Una madre portadora tiene, en cada embarazo, un 50 % de probabilidad de tener un hijo afectado (si es varón) o una hija portadora. Alrededor de **un tercio** de los casos se debe a una variante nueva. Y hay un fenómeno llamado **mosaicismo germinal**: la madre no es portadora en la sangre pero sí en parte de sus óvulos, con un riesgo de repetición de alrededor del 4-8 %. Por eso se ofrece consejo genético incluso cuando el análisis de la madre es normal.
+Una madre portadora tiene, en cada embarazo, un 50 % de probabilidad de tener un hijo afectado (si es varón) o una hija portadora. Alrededor de **un tercio** de los casos[[1]] se debe a una variante nueva. Y hay un fenómeno llamado **mosaicismo germinal**: la madre no es portadora en la sangre pero sí en parte de sus óvulos, con un riesgo de repetición de alrededor del 4-8 %. Por eso se ofrece consejo genético incluso cuando el análisis de la madre es normal.
 
 ## Diagnóstico
 
-- **CK (creatina quinasa)** en sangre: está muy elevada, 10 a 100 veces lo normal, desde el nacimiento. Un análisis de CK alto en un niño que camina tarde, o incluso unas transaminasas altas sin enfermedad del hígado, debe hacer pensar en una distrofia.
+- **CK (creatina quinasa)** en sangre: está muy elevada, 10 a 100 veces lo normal[[2]], desde el nacimiento. Un análisis de CK alto en un niño que camina tarde, o incluso unas transaminasas altas sin enfermedad del hígado, debe hacer pensar en una distrofia.
 - **Estudio genético** del gen *DMD*: primero se buscan deleciones y duplicaciones (con una técnica llamada MLPA) y, si no se encuentran, se secuencia el gen. Identificar la variante exacta es imprescindible para saber si el niño puede recibir terapias dirigidas.
 - La **biopsia muscular** se reserva para casos dudosos.
 - **Estudio de portadoras** en la madre y otras mujeres de la familia.
@@ -63,7 +63,7 @@ Una madre portadora tiene, en cada embarazo, un 50 % de probabilidad de tener un
 
 ### Cuidados de base
 
-- **Corticoides** (prednisona, deflazacort o el más reciente **vamorolona**): retrasan la pérdida de la marcha unos 2-3 años, protegen la función respiratoria y reducen la escoliosis. Se empiezan antes de que la fuerza empiece a disminuir.
+- **Corticoides** (prednisona, deflazacort o el más reciente **vamorolona**): retrasan la pérdida de la marcha unos 2-3 años[[2]], protegen la función respiratoria y reducen la escoliosis. Se empiezan antes de que la fuerza empiece a disminuir.
 - **Fisioterapia** diaria, férulas nocturnas y estiramientos para evitar retracciones.
 - **Cardiología**: revisión desde el diagnóstico y fármacos protectores del corazón (inhibidores de la enzima convertidora o antagonistas de la angiotensina) desde los 10 años o antes.
 - **Respiratorio**: control de la función pulmonar, asistencia para la tos y **ventilación no invasiva** nocturna cuando hace falta.
@@ -72,8 +72,8 @@ Una madre portadora tiene, en cada embarazo, un 50 % de probabilidad de tener un
 ### Terapias dirigidas
 
 - **Salto de exón**: oligonucleótidos antisentido que hacen que la maquinaria celular "salte" un exón concreto al leer el gen, restaurando el marco de lectura y produciendo una distrofina tipo Becker. Cada fármaco sirve solo para las deleciones que afectan a un exón determinado (por ejemplo, el 51 o el 53). Algunos están aprobados en EE. UU. con aprobación acelerada; en Europa no se han autorizado por falta de pruebas de beneficio clínico.
-- **Ataluren**, para el 10-13 % de casos con variantes que introducen una señal de parada prematura. Tuvo autorización condicional en Europa, que fue retirada en 2024-2025 al no confirmarse su eficacia.
-- **Givinostat**, un fármaco oral que reduce la inflamación y la fibrosis, aprobado en EE. UU. en 2024 y en Europa en 2025 para niños que todavía caminan.
+- **Ataluren**, para el 10-13 % de casos con variantes que introducen una señal de parada prematura. Tuvo autorización condicional en Europa, que fue retirada en 2024-202[[5]]5 al no confirmarse su eficacia.
+- **Givinostat**, un fármaco oral que reduce la inflamación y la fibrosis, aprobado en EE. UU. en 2024 y en Europa en 2025[[3,5]] para niños que todavía caminan.
 - **Terapia génica**: como el gen completo no cabe en los virus que se usan como vehículo, se emplea una **microdistrofina**, una versión acortada. Una de ellas (delandistrogén moxeparvovec) se aprobó en EE. UU. en 2023, pero su eficacia es discutida y en 2025 se detectaron casos de daño hepático grave, incluidas muertes, que obligaron a restringir su uso. No está aprobada en Europa.
 
 Es un campo en rápido cambio y con mucha esperanza, pero conviene informarse en unidades especializadas y en fuentes fiables.

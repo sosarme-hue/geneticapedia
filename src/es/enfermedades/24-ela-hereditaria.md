@@ -20,7 +20,7 @@ img_pie: En la ELA se pierden las neuronas motoras que mandan las órdenes a los
 
 La **esclerosis lateral amiotrófica** destruye las [neuronas motoras](../atrofia-muscular-espinal/), las células nerviosas que ordenan a los músculos moverse. Empieza a menudo con debilidad en una mano o un pie, o con dificultad para hablar o tragar, y avanza hacia la parálisis de todos los músculos, incluidos los de la respiración. La supervivencia media es de 3 a 5 años desde los primeros síntomas, aunque hay personas que viven mucho más. En España se diagnostican unos 900 casos al año.
 
-La mayoría de los casos son **esporádicos**: aparecen sin antecedentes. Pero en un 5-10 % hay otros familiares afectados, y se habla de **ELA familiar**.
+La mayoría de los casos son **esporádicos**: aparecen sin antecedentes. Pero en un 5-10 % hay otros familiares afectados[[4]], y se habla de **ELA familiar**.
 
 ## Los genes
 
@@ -28,8 +28,8 @@ Se conocen más de 40 genes relacionados. Los más importantes son:
 
 | Gen | Año | Proporción en ELA familiar en Europa | Notas |
 |---|---|---|---|
-| ***C9orf72*** | 2011 | Alrededor del 40 % | Una repetición de seis letras, GGGGCC, expandida cientos o miles de veces. Causa también demencia frontotemporal |
-| ***SOD1*** | 1993 | Alrededor del 15-20 % | El primer gen descubierto. Más de 200 variantes distintas |
+| ***C9orf72*** | 2011 |[[2]] Alrededor del 40 % | Una repetición de seis letras, GGGGCC, expandida cientos o miles de veces. Causa también demencia frontotemporal |
+| ***SOD1*** | 1993 |[[1]] Alrededor del 15-20 % | El primer gen descubierto. Más de 200 variantes distintas |
 | ***TARDBP*** | 2008 | Alrededor del 4 % | Codifica TDP-43, la proteína que se acumula en casi todas las ELA |
 | ***FUS*** | 2009 | Alrededor del 4 % | Puede causar formas juveniles agresivas |
 
@@ -39,7 +39,7 @@ Un hallazgo importante es que la ELA y la **demencia frontotemporal** forman un 
 
 ## El primer tratamiento dirigido a un gen
 
-El **tofersen** es un **oligonucleótido antisentido** que se administra por punción lumbar y reduce la producción de la proteína SOD1 tóxica. Se aprobó en Estados Unidos en **2023** y en la Unión Europea en **2024** para personas con ELA por variantes en *SOD1*. En el ensayo, los efectos en la función tardaron en verse, pero bajó un marcador de daño de las neuronas, los **neurofilamentos**, y en la extensión del estudio los que empezaron antes evolucionaron mejor.
+El **tofersen** es un **oligonucleótido antisentido** que se administra por punción lumbar y reduce la producción de la proteína SOD1 tóxica[[3]]. Se aprobó en Estados Unidos en **2023** y en la Unión Europea en **2024** para personas con ELA por variantes en *SOD1*. En el ensayo, los efectos en la función tardaron en verse, pero bajó un marcador de daño de las neuronas, los **neurofilamentos**, y en la extensión del estudio los que empezaron antes evolucionaron mejor.
 
 Un ensayo en marcha, **ATLAS**, da tofersen a portadores de variantes de *SOD1* **antes de tener síntomas** cuando sus neurofilamentos empiezan a subir, para intentar prevenir la enfermedad. Para *C9orf72* y *FUS* hay otros fármacos en ensayo.
 

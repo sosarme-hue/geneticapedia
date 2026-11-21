@@ -23,19 +23,19 @@ img_pie: The cherry-red spot in the back of the eye is a classic sign of Tay-Sac
 
 The enzyme **hexosaminidase A** is missing, because of variants in the ***HEXA*** gene on chromosome 15. A lipid, GM2 ganglioside, builds up in **neurons**.
 
-- In the classic infantile form, the baby develops normally until 3-6 months. Then they lose skills, startle at noises and lose their sight. A **cherry-red spot** appears at the back of the eye. Children usually die before age 4-5.
+- In the classic infantile form, the baby develops normally until 3-6 months[[1]]. Then they lose skills, startle at noises and lose their sight. A **cherry-red spot** appears at the back of the eye. Children usually die before age 4-5.
 - There are slower juvenile and adult forms.
 
-It was especially common among **Ashkenazi Jews**, with 1 carrier in 30 people. Since the 1970s, community **carrier screening** programmes before marriage or pregnancy have cut cases by more than 90 %, and became a model for today's [carrier screening](../../pregnancy-and-reproduction/planning-a-pregnancy/). There is no cure, and gene therapy is being studied.
+It was especially common among **Ashkenazi Jews**, with 1 carrier in 30 people[[2]]. Since the 1970s, community **carrier screening** programmes before marriage or pregnancy have cut cases by more than 90 %, and became a model for today's [carrier screening](../../pregnancy-and-reproduction/planning-a-pregnancy/). There is no cure, and gene therapy is being studied.
 
 ## Gaucher disease
 
-It is the **most common lysosomal disease**. The enzyme glucocerebrosidase is missing because of variants in ***GBA1***, and the substance builds up in macrophages of the **spleen, liver and bone marrow**.
+It is the **most common lysosomal disease**[[1]]. The enzyme glucocerebrosidase is missing because of variants in ***GBA1***, and the substance builds up in macrophages of the **spleen, liver and bone marrow**.
 
 - **Type 1**, the most common: very large spleen, anaemia, low platelets, bone pain and fractures. It does not affect the brain.
 - **Types 2 and 3**: also affect the nervous system.
 
-It was the first lysosomal disease with **enzyme replacement therapy**, in **1991**: an intravenous infusion every two weeks that transformed the outlook for type 1. Oral **substrate reduction** drugs such as eliglustat are also available. Carrying a *GBA1* variant is the most important known genetic risk factor for **Parkinson's disease**.
+It was the first lysosomal disease with **enzyme replacement therapy**, in **1991**[[1]]: an intravenous infusion every two weeks that transformed the outlook for type 1. Oral **substrate reduction** drugs such as eliglustat are also available. Carrying a *GBA1* variant is the most important known genetic risk factor for **Parkinson's disease**[[3]].
 
 ## Fabry disease
 

@@ -20,7 +20,7 @@ health: si
 It mainly affects three systems:
 
 - **Cardiovascular**: the wall of the **aorta**, the great artery leaving the heart, is weaker and tends to widen (aneurysm), especially at its root. Without monitoring it can rupture or tear (**aortic dissection**), a deadly emergency. Mitral valve prolapse is also common.
-- **Eyes**: the lens may be displaced (**ectopia lentis**, in about 60 % of cases), and short-sightedness, retinal detachment, glaucoma and early cataracts are more frequent.
+- **Eyes**: the lens may be displaced (**ectopia lentis**, in about 60 % of cases[[2]]), and short-sightedness, retinal detachment, glaucoma and early cataracts are more frequent.
 - **Skeleton**: tall stature, long arms (arm span exceeds height), long thin fingers (**arachnodactyly**), very flexible joints, sunken or protruding chest, scoliosis and flat feet.
 
 Other possible signs are stretch marks without weight change, spontaneous pneumothorax and dural ectasia (widening of the membrane around the spinal cord).
@@ -31,15 +31,15 @@ Expression is very **variable**, even within a family: some people have many sig
 
 It is caused by variants in the ***FBN1*** gene on chromosome 15, which holds the instructions for **fibrillin-1**. This protein forms microfibrils that give structure to elastic fibres and also **regulates** a signalling molecule called **TGF-beta**. When fibrillin fails, the tissue is weaker and excess TGF-beta signalling contributes to aortic damage. This finding, from the early 2000s, opened new avenues for treatment.
 
-More than 3,000 different *FBN1* variants have been described.
+More than 3,000 different *FBN1* variants have been described[[6]].
 
 ## Inheritance
 
-It is **autosomal dominant**: each child of an affected person has a **50 %** chance of inheriting it. About **25 %** of cases are due to a **new variant**, with no family history.
+It is **autosomal dominant**: each child of an affected person has a **50 %** chance of inheriting it. About **25 %** of cases[[2]] are due to a **new variant**, with no family history.
 
 ## Diagnosis
 
-The **revised Ghent criteria** (2010) combine:
+The **revised Ghent criteria** (2010)[[1]] combine:
 
 - **Aortic root dilatation**, measured by echocardiogram and adjusted for age and body size (Z-score).
 - **Ectopia lentis**, checked by slit-lamp examination with dilated pupils.
@@ -56,8 +56,8 @@ It must be distinguished from other conditions with similar signs, such as **Loe
 Life expectancy, which was around 45 years in the 1970s, is now **close to normal** thanks to monitoring and preventive surgery.
 
 - **Echocardiogram** at diagnosis, at six months and then at least yearly, or more often if the aorta is growing. Sometimes MRI or CT of the whole aorta is added.
-- **Drugs that reduce stress on the aorta**: **beta-blockers** and **angiotensin II receptor blockers** (such as losartan). A 2022 meta-analysis of the major trials showed that both slow aortic root growth and that their effect is additive.
-- **Preventive surgery** on the aortic root when it reaches about **50 mm** in adults, or earlier if it grows fast, there is a family history of dissection or a pregnancy is planned. **Valve-sparing** techniques avoid lifelong anticoagulation.
+- **Drugs that reduce stress on the aorta**: **beta-blockers** and **angiotensin II receptor blockers** (such as losartan). A 2022 meta-analysis[[3]] of the major trials showed that both slow aortic root growth and that their effect is additive.
+- **Preventive surgery** on the aortic root when it reaches about **50 mm** in adults[[4]], or earlier if it grows fast, there is a family history of dissection or a pregnancy is planned. **Valve-sparing** techniques avoid lifelong anticoagulation.
 - Annual **eye checks** and monitoring of scoliosis.
 
 ### Physical activity
@@ -66,7 +66,7 @@ Staying active with **moderate aerobic exercise** (walking, swimming, gentle cyc
 
 ### Pregnancy
 
-Pregnancy increases the risk of aortic dissection, especially if the root measures more than 40-45 mm. It should be **planned** with cardiology and obstetrics, with frequent checks and delivery in a hospital with cardiac surgery. Genetic counselling is recommended to discuss reproductive options.
+Pregnancy increases the risk of aortic dissection, especially if the root measures more than 40-45 mm[[2]]. It should be **planned** with cardiology and obstetrics, with frequent checks and delivery in a hospital with cardiac surgery. Genetic counselling is recommended to discuss reproductive options.
 
 ## Warning signs
 

@@ -39,7 +39,7 @@ Type 1 accounts for more than half of cases. The first signs are a "floppy" (hyp
 
 ## Genetic cause
 
-It is caused by loss of the ***SMN1*** (*survival motor neuron 1*) gene on chromosome 5. In about 95 % of cases part of the gene is missing from both copies (a **deletion** of exon 7). The gene makes the **SMN** protein, which all cells need, but motor neurons are especially sensitive to its lack.
+It is caused by loss of the ***SMN1*** (*survival motor neuron 1*) gene on chromosome 5. In about 95 % of cases[[1]] part of the gene is missing from both copies (a **deletion** of exon 7). The gene makes the **SMN** protein, which all cells need, but motor neurons are especially sensitive to its lack.
 
 The key detail is that there is an almost identical twin gene, ***SMN2***, that differs by a single letter. Because of that change, most *SMN2* RNA is "spliced" wrongly (losing exon 7) and only about **10 %** produces working protein. People have between one and eight copies of *SMN2*: **the more copies, the more protein and the milder the disease tends to be**. Babies with two copies usually have type 1; with three or four, milder forms.
 
@@ -47,17 +47,17 @@ That "spare wheel" is what two of the three treatments exploit.
 
 ## Inheritance
 
-It is **autosomal recessive**: two altered copies of *SMN1* are needed. About **1 in 40 to 50** people is a carrier without knowing it. If both partners are carriers, each pregnancy has a 25 % chance of an affected child. About 2 % of cases are due to a new variant in one parent.
+It is **autosomal recessive**: two altered copies of *SMN1* are needed. About **1 in 40 to 50** people[[1]] is a carrier without knowing it. If both partners are carriers, each pregnancy has a 25 % chance of an affected child. About 2 % of cases are due to a new variant in one parent.
 
-An important technical detail: about 4 % of carriers have **two copies of *SMN1* on the same chromosome** and none on the other, so the standard carrier test, which counts copies, can come back normal. A negative result therefore greatly reduces risk but does not eliminate it.
+An important technical detail: about 4 % of carriers[[6]] have **two copies of *SMN1* on the same chromosome** and none on the other, so the standard carrier test, which counts copies, can come back normal. A negative result therefore greatly reduces risk but does not eliminate it.
 
 ## Three treatments in a few years
 
 In under five years SMA went from no treatment to three, all based on genetics:
 
-- **Nusinersen** (approved in Europe in 2017): an **antisense oligonucleotide**, a short piece of RNA that binds to *SMN2* RNA and makes it splice correctly, so more full-length protein is made. It is injected into the cerebrospinal fluid by lumbar puncture four times in the first year and then every four months.
-- **Onasemnogene abeparvovec** (approved in Europe in 2020): **gene therapy** that delivers a working copy of *SMN1* to motor neurons using a modified virus (AAV9), in **a single intravenous infusion**. It is used mainly in young babies. It requires steroids and liver monitoring.
-- **Risdiplam** (approved in Europe in 2021): a molecule taken **by mouth** every day that also corrects *SMN2* RNA splicing. It reaches the whole body.
+- **Nusinersen** (approved in Europe in 2017)[[2]]: an **antisense oligonucleotide**, a short piece of RNA that binds to *SMN2* RNA and makes it splice correctly, so more full-length protein is made. It is injected into the cerebrospinal fluid by lumbar puncture four times in the first year and then every four months.
+- **Onasemnogene abeparvovec** (approved in Europe in 2020)[[3]]: **gene therapy** that delivers a working copy of *SMN1* to motor neurons using a modified virus (AAV9), in **a single intravenous infusion**. It is used mainly in young babies. It requires steroids and liver monitoring.
+- **Risdiplam** (approved in Europe in 2021)[[5]]: a molecule taken **by mouth** every day that also corrects *SMN2* RNA splicing. It reaches the whole body.
 
 All three slow the disease, but **do not restore** motor neurons already lost. Combinations, new routes of administration, such as a version of the gene therapy injected into the cerebrospinal fluid for older children, and drugs that improve muscle strength are being studied.
 
@@ -65,7 +65,7 @@ Alongside drug treatment, **physiotherapy**, **respiratory** support (cough assi
 
 ## Why timing matters
 
-A baby with type 1 SMA can lose most motor neurons in the first months of life. Trials in babies treated **before symptoms**, diagnosed because a sibling was affected or through newborn screening, showed remarkable results: most were able to **sit and walk** independently, something unthinkable without treatment.
+A baby with type 1 SMA can lose most motor neurons in the first months of life. Trials in babies treated **before symptoms**[[4]], diagnosed because a sibling was affected or through newborn screening, showed remarkable results: most were able to **sit and walk** independently, something unthinkable without treatment.
 
 That is why SMA is being added to the **heel-prick test** in many countries. The test detects absence of *SMN1* exon 7 in the same dried blood spot used for other diseases. In Spain, several regions already include it, and it is due to be extended to the whole National Health System.
 

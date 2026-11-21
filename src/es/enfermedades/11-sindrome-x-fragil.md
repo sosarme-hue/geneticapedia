@@ -27,13 +27,13 @@ En los **varones** suele producir:
 - **Discapacidad intelectual**, generalmente moderada, y retraso del lenguaje.
 - **Rasgos de autismo** (en alrededor de la mitad), hiperactividad, déficit de atención, ansiedad, timidez extrema, evitación de la mirada, aleteo de manos y gran sensibilidad a los ruidos y el contacto.
 - **Rasgos físicos** que se hacen más evidentes tras la pubertad: cara alargada, orejas grandes o despegadas, frente amplia, articulaciones muy flexibles y testículos de mayor tamaño (macroorquidismo).
-- En un 10-20 %, crisis epilépticas.
+- En un 10-20 %, crisis epilépticas[[1]].
 
 En las **mujeres** con la mutación completa la afectación es más variable y suele ser más leve: dificultades de aprendizaje, sobre todo en matemáticas, ansiedad social o timidez. Alrededor de la mitad tiene una inteligencia normal o límite. La diferencia se debe a que tienen un segundo cromosoma X sano, y en cada célula uno de los dos X se desactiva al azar.
 
 ## Causa genética
 
-Se debe a una **expansión de repeticiones CGG** en el gen ***FMR1***, en el cromosoma X. Normalmente hay entre 5 y 44 repeticiones. Cuando superan las **200** (mutación completa), el gen se "apaga" por **metilación** (un mecanismo epigenético) y deja de fabricar la proteína **FMRP**. Esta proteína regula la producción de otras proteínas en las **sinapsis**, las conexiones entre neuronas, y es clave para el aprendizaje y la memoria.
+Se debe a una **expansión de repeticiones CGG**[[2]] en el gen ***FMR1***, en el cromosoma X. Normalmente hay entre 5 y 44 repeticiones. Cuando superan las **200** (mutación completa), el gen se "apaga" por **metilación** (un mecanismo epigenético) y deja de fabricar la proteína **FMRP**. Esta proteína regula la producción de otras proteínas en las **sinapsis**, las conexiones entre neuronas, y es clave para el aprendizaje y la memoria.
 
 | Repeticiones CGG | Categoría | Consecuencias |
 |---|---|---|
@@ -46,8 +46,8 @@ Se debe a una **expansión de repeticiones CGG** en el gen ***FMR1***, en el cro
 
 Las personas con **premutación** no tienen síndrome X frágil, pero no son simples portadoras:
 
-- **FXPOI**: alrededor del 20 % de las mujeres con premutación tiene **insuficiencia ovárica prematura**, con menopausia antes de los 40 años.
-- **FXTAS**: a partir de los 50 años, una parte de los portadores, sobre todo varones (hasta un 40 % de los mayores de 50), desarrolla un síndrome de **temblor y ataxia** (inestabilidad), con deterioro cognitivo progresivo.
+- **FXPOI**: alrededor del 20 % de las mujeres con premutación[[3]] tiene **insuficiencia ovárica prematura**, con menopausia antes de los 40 años.
+- **FXTAS**: a partir de los 50 años, una parte de los portadores, sobre todo varones (hasta un 40 % de los mayores de 50)[[3]], desarrolla un síndrome de **temblor y ataxia** (inestabilidad), con deterioro cognitivo progresivo.
 - **FXAND**: más ansiedad, depresión y otras dificultades psicológicas.
 
 ## Herencia y anticipación
@@ -78,7 +78,7 @@ No hay tratamiento curativo, pero la intervención temprana marca la diferencia:
 - **Tratamiento de los síntomas**: fármacos para la ansiedad, la hiperactividad, la agresividad o las crisis epilépticas cuando son necesarios.
 - **Apoyo a las familias**, que a menudo tienen varios miembros afectados.
 
-Se han ensayado fármacos dirigidos al mecanismo de la enfermedad, como moduladores de receptores de glutamato, con resultados por ahora decepcionantes en humanos. Hay ensayos en marcha con nuevas moléculas, como inhibidores de la enzima PDE4D, con resultados preliminares prometedores, y estrategias para reactivar el gen silenciado.
+Se han ensayado fármacos dirigidos al mecanismo de la enfermedad, como moduladores de receptores de glutamato, con resultados por ahora decepcionantes en humanos[[1]]. Hay ensayos en marcha con nuevas moléculas, como inhibidores de la enzima PDE4D, con resultados preliminares prometedores, y estrategias para reactivar el gen silenciado.
 
 ## Qué preguntar en consulta
 

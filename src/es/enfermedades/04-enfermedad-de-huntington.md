@@ -25,17 +25,17 @@ La describió en 1872 el médico estadounidense **George Huntington**, con apena
 
 ## Síntomas
 
-Combina tres grupos de síntomas, que aparecen en orden y grado distintos en cada persona y avanzan lentamente durante **15 a 20 años**:
+Combina tres grupos de síntomas, que aparecen en orden y grado distintos en cada persona y avanzan lentamente durante **15 a 20 años**[[1]]:
 
 - **Motores**: movimientos involuntarios, bruscos e irregulares (**corea**), torpeza, alteraciones de la marcha y el equilibrio, dificultad para hablar y, en fases avanzadas, para **tragar**, que causa pérdida de peso y neumonías.
 - **Cognitivos**: dificultad para planificar, organizarse, concentrarse y cambiar de tarea. La persona pierde flexibilidad mental mucho antes de perder memoria.
 - **Psiquiátricos y de conducta**: depresión (muy frecuente), irritabilidad, apatía, ansiedad, impulsividad y conductas obsesivas. El riesgo de suicidio es mayor que en la población general, sobre todo en torno al diagnóstico.
 
-Los cambios cognitivos y de conducta pueden empezar **años antes** que los movimientos y suelen ser lo que más afecta a la familia. En un 5-10 % de los casos la enfermedad empieza antes de los 20 años (**forma juvenil**), con más rigidez que corea y a veces crisis epilépticas.
+Los cambios cognitivos y de conducta pueden empezar **años antes** que los movimientos y suelen ser lo que más afecta a la familia. En un 5-10 % de los casos[[1]] la enfermedad empieza antes de los 20 años (**forma juvenil**), con más rigidez que corea y a veces crisis epilépticas.
 
 ## Causa genética
 
-Se debe a una **expansión de repeticiones CAG** en el gen ***HTT***, en el cromosoma 4, que contiene las instrucciones de la proteína **huntingtina**. Todos tenemos esas repeticiones, pero en un número limitado. Cuando son demasiadas, la huntingtina tiene una cola anormalmente larga del aminoácido glutamina, se pliega mal, forma agregados y resulta tóxica para las neuronas.
+Se debe a una **expansión de repeticiones CAG**[[4]] en el gen ***HTT***, en el cromosoma 4, que contiene las instrucciones de la proteína **huntingtina**. Todos tenemos esas repeticiones, pero en un número limitado. Cuando son demasiadas, la huntingtina tiene una cola anormalmente larga del aminoácido glutamina, se pliega mal, forma agregados y resulta tóxica para las neuronas.
 
 | Repeticiones CAG | Significado |
 |---|---|
@@ -82,7 +82,7 @@ Hoy **no hay tratamiento** que cure la enfermedad ni que la frene de forma demos
 
 La investigación busca **reducir la cantidad de huntingtina** o frenar la expansión de las repeticiones:
 
-- **Oligonucleótidos antisentido**, como el tominersén. Un gran ensayo se detuvo en 2021 al no mostrar beneficio, aunque los datos sugieren que podría ayudar a pacientes más jóvenes y menos avanzados, y se ha iniciado un nuevo estudio.
+- **Oligonucleótidos antisentido**, como el tominersén. Un gran ensayo se detuvo en 2021[[2]] al no mostrar beneficio, aunque los datos sugieren que podría ayudar a pacientes más jóvenes y menos avanzados, y se ha iniciado un nuevo estudio.
 - **Terapia génica**: una inyección única en el cerebro de un virus que lleva un microARN que reduce la huntingtina. En 2025 comunicó resultados preliminares que sugieren un enlentecimiento de la progresión, que deben confirmarse.
 - **Moléculas orales** que modifican el procesamiento del ARN de *HTT*.
 - Fármacos dirigidos a los genes de **reparación del ADN** que favorecen la expansión.

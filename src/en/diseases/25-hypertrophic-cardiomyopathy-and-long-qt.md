@@ -18,7 +18,7 @@ img_pie: Inherited cardiomyopathies affect the heart muscle or its rhythm.
 
 ## Inherited heart conditions
 
-Some heart diseases are inherited. They are the leading cause of **sudden death** in people under 35, often athletes or young people with no previous symptoms. In Spain, many hospitals have **inherited heart disease units**, where cardiologists and geneticists examine each patient's relatives.
+Some heart diseases are inherited. They are the leading cause of **sudden death** in people under 35[[1]], often athletes or young people with no previous symptoms. In Spain, many hospitals have **inherited heart disease units**, where cardiologists and geneticists examine each patient's relatives.
 
 ## Hypertrophic cardiomyopathy
 
@@ -28,9 +28,9 @@ It is the **most common inherited heart disease**. The wall of the left ventricl
 - **Arrhythmias**, such as atrial fibrillation.
 - **Sudden death**, especially in young people, although it is now uncommon thanks to risk assessment.
 
-It is caused by variants in **sarcomere** genes, the machinery that makes muscle contract. The most common are ***MYBPC3*** and ***MYH7***. Genetic testing finds the cause in about 30-60 % of cases. It is inherited in an [autosomal dominant](../../heredity/inheritance-patterns/) way, with very variable penetrance and severity.
+It is caused by variants in **sarcomere** genes, the machinery that makes muscle contract. The most common are ***MYBPC3*** and ***MYH7***[[1]]. Genetic testing finds the cause in about 30-60 % of cases. It is inherited in an [autosomal dominant](../../heredity/inheritance-patterns/) way, with very variable penetrance and severity.
 
-**Treatment**: beta-blockers; **mavacamten**, approved in 2022-2023, the first drug to act on the cause by curbing excessive muscle contraction; surgery or alcohol septal ablation if there is obstruction; and an **implantable cardioverter-defibrillator** for people at high risk of sudden death. Many can do recreational sport after individual assessment.
+**Treatment**: beta-blockers; **mavacamten**, approved in 2022-2023[[3]], the first drug to act on the cause by curbing excessive muscle contraction; surgery or alcohol septal ablation if there is obstruction; and an **implantable cardioverter-defibrillator** for people at high risk of sudden death. Many can do recreational sport after individual assessment.
 
 ## Long QT syndrome
 
@@ -44,13 +44,13 @@ The genes encode potassium or sodium **ion channels**, and each type has typical
 | Long QT 2 | *KCNH2* | **Sudden noises**, such as an alarm clock; emotion; after childbirth |
 | Long QT 3 | *SCN5A* | **Sleep** or rest |
 
-**Treatment**: **beta-blockers** are very protective, especially in type 1. **Drugs that prolong QT** must be avoided, and there are many (some antibiotics, antidepressants and anti-sickness drugs), and low potassium from vomiting or diarrhoea must be corrected. High-risk cases get a defibrillator. People affected should always mention their diagnosis before taking a new medicine.
+**Treatment**: **beta-blockers** are very protective[[2]], especially in type 1. **Drugs that prolong QT** must be avoided, and there are many (some antibiotics, antidepressants and anti-sickness drugs), and low potassium from vomiting or diarrhoea must be corrected. High-risk cases get a defibrillator. People affected should always mention their diagnosis before taking a new medicine.
 
 ## Sudden death in a young person: what to do
 
 When a young person dies suddenly and unexpectedly, it is recommended to:
 
-1. Carry out a full **post-mortem** with examination of the heart and keep a sample for **genetic testing**: the so-called molecular autopsy.
+1. Carry out a full **post-mortem** with examination of the heart and keep a sample for **genetic testing**: the so-called molecular autopsy[[1]].
 2. Examine **first-degree relatives** with ECG, echocardiogram and, if a variant is found, a genetic test.
 
 This identifies relatives at risk who can be protected.

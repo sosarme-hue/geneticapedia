@@ -28,7 +28,7 @@ El cromosoma X extra procede de un **error en la meiosis**, la división que for
 
 Existen variantes:
 
-- **Mosaicismo 46,XY/47,XXY** (un 10-15 %): solo una parte de las células tiene el X extra. Los rasgos suelen ser más leves y a veces hay espermatozoides.
+- **Mosaicismo 46,XY/47,XXY** (un 10-15 %)[[2]]: solo una parte de las células tiene el X extra. Los rasgos suelen ser más leves y a veces hay espermatozoides.
 - **Formas con más cromosomas X**, como 48,XXXY o 49,XXXXY: muy raras y con más afectación del desarrollo y del aprendizaje.
 
 No es una enfermedad hereditaria en el sentido habitual: los padres no son portadores y el riesgo de que se repita en otro hijo es muy bajo.
@@ -42,7 +42,7 @@ Igual que en las mujeres, uno de los dos X se inactiva, pero algunos genes escap
 Los rasgos son muy variables y a menudo sutiles:
 
 - **Testículos pequeños y firmes**, el signo más constante en el adulto.
-- **Infertilidad**: más del 90 % no tiene espermatozoides en el semen (azoospermia).
+- **Infertilidad**: más del 90 % no tiene espermatozoides[[1]] en el semen (azoospermia).
 - **Déficit de testosterona** (hipogonadismo): poco vello facial y corporal, menos masa muscular, cansancio, disminución del deseo sexual, y con el tiempo **osteoporosis**.
 - **Talla alta**, con piernas largas.
 - **Ginecomastia** (aumento de las mamas) en un tercio o más.
@@ -65,7 +65,7 @@ La confirmación se hace con un **cariotipo** en sangre. El análisis hormonal m
 ## Tratamiento
 
 - **Testosterona**: se recomienda empezar en la adolescencia o cuando los niveles bajan, en gel o inyecciones. Mejora la energía, el vello, la masa muscular, los huesos y el ánimo. No restaura la fertilidad y, de hecho, la frena.
-- **Fertilidad**: con una técnica llamada **micro-TESE** (extracción microquirúrgica de espermatozoides del testículo) se encuentran espermatozoides en alrededor del **40-50 %** de los hombres con Klinefelter. Con ellos, mediante fecundación in vitro con microinyección, muchos han tenido hijos biológicos, que en su gran mayoría tienen cromosomas normales. Se discute cuál es la mejor edad para intentarlo; algunos centros proponen hacerlo en la adolescencia tardía o la juventud.
+- **Fertilidad**: con una técnica llamada **micro-TESE**[[1]] (extracción microquirúrgica de espermatozoides del testículo) se encuentran espermatozoides en alrededor del **40-50 %** de los hombres con Klinefelter. Con ellos, mediante fecundación in vitro con microinyección, muchos han tenido hijos biológicos, que en su gran mayoría tienen cromosomas normales. Se discute cuál es la mejor edad para intentarlo; algunos centros proponen hacerlo en la adolescencia tardía o la juventud.
 - **Apoyo del lenguaje, escolar y psicológico** en la infancia.
 - **Cirugía de la ginecomastia** si causa malestar.
 - Controles de la densidad ósea, el peso, la glucosa y los lípidos.

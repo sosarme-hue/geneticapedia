@@ -19,30 +19,30 @@ img_pie: Frataxin, the protein that is lacking in Friedreich's ataxia.
 
 ## What it is
 
-**Ataxia** means lack of coordination of movement. **Friedreich's ataxia** was described by German physician Nikolaus Friedreich in 1863, and it is the most common inherited ataxia in Europe. It usually starts **between ages 5 and 15**, with clumsiness when walking, and progresses slowly.
+**Ataxia** means lack of coordination of movement. **Friedreich's ataxia** was described by German physician Nikolaus Friedreich in 1863[[3]], and it is the most common inherited ataxia in Europe. It usually starts **between ages 5 and 15**, with clumsiness when walking, and progresses slowly.
 
 ## Cause: a gene switched off
 
 The protein **frataxin** works inside **mitochondria**, the cell's power stations, helping to build iron-sulphur clusters needed to make energy. Without it, iron builds up in mitochondria and the most demanding cells suffer: sensory neurons, the cerebellum and the **heart**.
 
-In 96 % of cases, both copies of the ***FXN*** gene carry an **expansion of the GAA sequence**: normally there are fewer than 35 repeats; in the disease there are from 70 to more than 1,000. The repeat lies in an intron, a part of the gene that does not code for protein, but it forms a structure that **silences the gene**. It is a repeat expansion disease, like [Huntington's disease](../huntingtons-disease/) and [myotonic dystrophy](../myotonic-dystrophy/), but in this case [recessive](../../heredity/inheritance-patterns/). The longer the shorter repeat, the earlier the onset and the more severe the disease.
+In 96 % of cases[[1]], both copies of the ***FXN*** gene carry an **expansion of the GAA sequence**: normally there are fewer than 35 repeats; in the disease there are from 70 to more than 1,000. The repeat lies in an intron, a part of the gene that does not code for protein, but it forms a structure that **silences the gene**. It is a repeat expansion disease, like [Huntington's disease](../huntingtons-disease/) and [myotonic dystrophy](../myotonic-dystrophy/), but in this case [recessive](../../heredity/inheritance-patterns/). The longer the shorter repeat, the earlier the onset and the more severe the disease.
 
 Parents are **healthy carriers**. Each child of two carriers has a 25 % chance of being affected.
 
 ## Symptoms
 
-- **Ataxia** of gait spreading to the arms; most people need a wheelchair 10-20 years after onset.
+- **Ataxia** of gait spreading to the arms; most people need a wheelchair 10-20 years after onset[[3]].
 - Loss of **reflexes** and of position sense in the legs.
 - **Dysarthria**: slow, slurred speech. Swallowing problems.
 - **Hypertrophic cardiomyopathy**: thickening of the heart muscle. It is the main cause of death.
-- **Scoliosis**, high-arched feet and **diabetes** in about 10-30 %.
+- **Scoliosis**, high-arched feet and **diabetes** in about 10-30 %[[3]].
 - **Intelligence** is preserved.
 
-About 15 % of cases begin after age 25, with milder, slower forms.
+About 15 % of cases begin after age 25[[3]], with milder, slower forms.
 
 ## Treatment
 
-In **2023** the United States approved **omaveloxolone**, followed by the European Union in **2024**, for people aged 16 and over. It activates a cellular defence pathway against oxidative stress called Nrf2. In the clinical trial it slowed the progression of the disease, although it does not stop it. It is the first specific drug.
+In **2023** the United States approved **omaveloxolone**, followed by the European Union in **2024**, for people aged 16 and over[[2]]. It activates a cellular defence pathway against oxidative stress called Nrf2. In the clinical trial it slowed the progression of the disease, although it does not stop it. It is the first specific drug.
 
 The rest of treatment is **supportive**: physiotherapy, speech therapy, cardiac monitoring with ECG and echocardiogram, diabetes management and scoliosis surgery. Several **gene therapies** to deliver a healthy *FXN* copy to the heart and nervous system are in trials, as are drugs that try to switch the gene back on.
 

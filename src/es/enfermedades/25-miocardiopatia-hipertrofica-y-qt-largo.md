@@ -18,7 +18,7 @@ img_pie: Las miocardiopatías hereditarias afectan al músculo o al ritmo del co
 
 ## Las cardiopatías familiares
 
-Algunas enfermedades del corazón se heredan. Son la principal causa de **muerte súbita** en personas menores de 35 años, a menudo deportistas o jóvenes sin síntomas previos. En España existen **unidades de cardiopatías familiares** en muchos hospitales, donde cardiólogos y genetistas estudian a los familiares de cada paciente.
+Algunas enfermedades del corazón se heredan. Son la principal causa de **muerte súbita** en personas menores de 35 años[[1]], a menudo deportistas o jóvenes sin síntomas previos. En España existen **unidades de cardiopatías familiares** en muchos hospitales, donde cardiólogos y genetistas estudian a los familiares de cada paciente.
 
 ## Miocardiopatía hipertrófica
 
@@ -28,9 +28,9 @@ Es la **enfermedad cardíaca hereditaria más frecuente**. La pared del ventríc
 - **Arritmias**, como la fibrilación auricular.
 - **Muerte súbita**, sobre todo en jóvenes, aunque hoy es poco frecuente gracias a la evaluación del riesgo.
 
-La causan variantes en los genes del **sarcómero**, la maquinaria que contrae el músculo. Los más frecuentes son ***MYBPC3*** y ***MYH7***. El estudio genético encuentra la causa en un 30-60 % de los casos. Se hereda de forma [autosómica dominante](../../herencia/patrones-de-herencia/), con penetrancia y gravedad muy variables.
+La causan variantes en los genes del **sarcómero**, la maquinaria que contrae el músculo. Los más frecuentes son ***MYBPC3*** y ***MYH7***[[1]]. El estudio genético encuentra la causa en un 30-60 % de los casos. Se hereda de forma [autosómica dominante](../../herencia/patrones-de-herencia/), con penetrancia y gravedad muy variables.
 
-**Tratamiento**: betabloqueantes; el **mavacamten**, aprobado en 2022-2023, el primer fármaco que actúa sobre la causa, frenando la contracción excesiva del músculo; cirugía o alcoholización del septo si hay obstrucción; y un **desfibrilador automático implantable** en las personas con alto riesgo de muerte súbita. Muchas pueden hacer deporte recreativo tras una evaluación individual.
+**Tratamiento**: betabloqueantes; el **mavacamten**, aprobado en 2022-2023[[3]], el primer fármaco que actúa sobre la causa, frenando la contracción excesiva del músculo; cirugía o alcoholización del septo si hay obstrucción; y un **desfibrilador automático implantable** en las personas con alto riesgo de muerte súbita. Muchas pueden hacer deporte recreativo tras una evaluación individual.
 
 ## Síndrome de QT largo
 
@@ -44,13 +44,13 @@ Los genes codifican **canales iónicos** de potasio o sodio, y cada tipo tiene s
 | QT largo 2 | *KCNH2* | **Ruidos bruscos**, como un despertador; emociones; posparto |
 | QT largo 3 | *SCN5A* | **Sueño** o reposo |
 
-**Tratamiento**: los **betabloqueantes** protegen mucho, sobre todo en el tipo 1. Hay que **evitar fármacos que alargan el QT**, que son muchos (algunos antibióticos, antidepresivos, antieméticos), y corregir la falta de potasio en vómitos y diarreas. En casos de alto riesgo se implanta un desfibrilador. Las personas afectadas deben avisar siempre de su diagnóstico antes de tomar un medicamento nuevo.
+**Tratamiento**: los **betabloqueantes** protegen mucho[[2]], sobre todo en el tipo 1. Hay que **evitar fármacos que alargan el QT**, que son muchos (algunos antibióticos, antidepresivos, antieméticos), y corregir la falta de potasio en vómitos y diarreas. En casos de alto riesgo se implanta un desfibrilador. Las personas afectadas deben avisar siempre de su diagnóstico antes de tomar un medicamento nuevo.
 
 ## Muerte súbita en un joven: qué hacer
 
 Cuando una persona joven muere de forma súbita e inexplicada, se recomienda:
 
-1. Una **autopsia** completa con estudio del corazón y guardar una muestra para **análisis genético**: es la llamada autopsia molecular.
+1. Una **autopsia** completa con estudio del corazón y guardar una muestra para **análisis genético**: es la llamada autopsia molecular[[1]].
 2. Estudiar a los **familiares de primer grado** con electrocardiograma, ecocardiograma y, si se encuentra una variante, una prueba genética.
 
 Así se identifica a familiares en riesgo que pueden protegerse.

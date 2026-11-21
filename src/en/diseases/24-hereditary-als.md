@@ -20,7 +20,7 @@ img_pie: In ALS, the motor neurons that send commands to the muscles are lost.
 
 **Amyotrophic lateral sclerosis**, also called motor neurone disease, destroys [motor neurons](../spinal-muscular-atrophy/), the nerve cells that tell muscles to move. It often begins with weakness in a hand or foot, or difficulty speaking or swallowing, and progresses to paralysis of all muscles, including those used for breathing. Median survival is 3 to 5 years from the first symptoms, although some people live much longer. About 900 new cases are diagnosed in Spain each year.
 
-Most cases are **sporadic**: they appear with no family history. But in 5-10 % other relatives are affected, and this is called **familial ALS**.
+Most cases are **sporadic**: they appear with no family history. But in 5-10 % other relatives are affected[[4]], and this is called **familial ALS**.
 
 ## The genes
 
@@ -28,8 +28,8 @@ More than 40 related genes are known. The most important are:
 
 | Gene | Year | Share of familial ALS in Europe | Notes |
 |---|---|---|---|
-| ***C9orf72*** | 2011 | About 40 % | A six-letter repeat, GGGGCC, expanded hundreds or thousands of times. Also causes frontotemporal dementia |
-| ***SOD1*** | 1993 | About 15-20 % | The first gene discovered. More than 200 different variants |
+| ***C9orf72*** | 2011 |[[2]] About 40 % | A six-letter repeat, GGGGCC, expanded hundreds or thousands of times. Also causes frontotemporal dementia |
+| ***SOD1*** | 1993 |[[1]] About 15-20 % | The first gene discovered. More than 200 different variants |
 | ***TARDBP*** | 2008 | About 4 % | Encodes TDP-43, the protein that builds up in almost all ALS |
 | ***FUS*** | 2009 | About 4 % | Can cause aggressive juvenile forms |
 
@@ -39,7 +39,7 @@ An important finding is that ALS and **frontotemporal dementia** form a spectrum
 
 ## The first gene-targeted treatment
 
-**Tofersen** is an **antisense oligonucleotide** given by lumbar puncture that reduces production of the toxic SOD1 protein. It was approved in the United States in **2023** and in the European Union in **2024** for people with ALS caused by *SOD1* variants. In the trial, effects on function took time to show, but a marker of nerve damage, **neurofilaments**, fell, and in the study extension those who started earlier did better.
+**Tofersen** is an **antisense oligonucleotide** given by lumbar puncture that reduces production of the toxic SOD1 protein[[3]]. It was approved in the United States in **2023** and in the European Union in **2024** for people with ALS caused by *SOD1* variants. In the trial, effects on function took time to show, but a marker of nerve damage, **neurofilaments**, fell, and in the study extension those who started earlier did better.
 
 An ongoing trial, **ATLAS**, gives tofersen to *SOD1* variant carriers **before symptoms appear**, when their neurofilaments start to rise, to try to prevent the disease. Other drugs for *C9orf72* and *FUS* are in trials.
 

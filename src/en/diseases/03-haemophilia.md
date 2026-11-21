@@ -20,7 +20,7 @@ img_pie: X-linked recessive inheritance. When the mother is a carrier, each son 
 
 **Haemophilia** is an inherited **blood-clotting** disorder. When we are injured, a cascade of blood proteins, the **clotting factors**, forms a clot that stops the bleeding. In haemophilia one of those factors is missing or does not work properly:
 
-- **Haemophilia A**: deficiency of **factor VIII**. The most common form (80-85 % of cases).
+- **Haemophilia A**: deficiency of **factor VIII**. The most common form (80-85 % of cases)[[1]].
 - **Haemophilia B**: deficiency of **factor IX**.
 
 People with haemophilia do not bleed faster, but **for longer**, and can bleed internally without an obvious knock.
@@ -42,15 +42,15 @@ The most characteristic complication is **haemarthrosis**: bleeding inside joint
 The *F8* and *F9* genes are on the **X chromosome**. Males have a single X: if their copy is altered, they have haemophilia. Females have two: if one is altered, they are usually **carriers**, although about a third have low factor levels and may bleed more than normal with periods, childbirth or surgery, and some have mild haemophilia.
 
 - A **father** with haemophilia passes the altered X to **all his daughters**, who will be carriers, and to none of his sons.
-- A carrier **mother** has, in each pregnancy, a 50 % chance of passing on the altered X: sons who receive it have haemophilia; daughters are carriers.
+- A carrier **mother** has, in each pregnancy, a 50 % chance of passing on the altered X[[6]]: sons who receive it have haemophilia; daughters are carriers.
 
-In severe haemophilia A, almost half of cases are due to the same change: an **intron 22 inversion**, in which a section of the gene is flipped. About **a third** of cases arise with no family history, from a new variant.
+In severe haemophilia A, almost half of cases are due to the same change: an **intron 22 inversion**[[1]], in which a section of the gene is flipped. About **a third** of cases arise with no family history, from a new variant.
 
 ## The royal disease
 
 **Queen Victoria** of Britain (1819-1901) was a carrier of haemophilia B, probably due to a new variant. Her son Leopold had it and died of a brain haemorrhage after a fall. Two of her daughters, Alice and Beatrice, passed it to the royal houses of **Russia** and **Spain**. Tsarevich Alexei, heir to the Russian throne, had haemophilia; Rasputin's influence over the Tsarina owed something to his supposed ability to relieve him. In Spain, two sons of Alfonso XIII and Victoria Eugenie, **Alfonso and Gonzalo**, died young from bleeding after car accidents.
 
-In 2009, DNA analysis of the remains of the Tsar's family, murdered in 1918, confirmed that the disease was **haemophilia B**.
+In 2009, DNA analysis of the remains of the Tsar's family, murdered in 1918, confirmed that the disease was **haemophilia B**[[4]].
 
 ## Diagnosis
 
@@ -71,15 +71,15 @@ Until the 1960s, a child with severe haemophilia rarely lived beyond adolescence
 - **Prophylaxis**: instead of treating each bleed, factor is given **regularly** by intravenous injection to keep levels that prevent bleeding. It is the recommended treatment for severe haemophilia from childhood. **Recombinant** factors, made without human plasma, and **extended half-life** factors reduce the number of injections.
 - **Emicizumab**: an antibody that mimics factor VIII by bridging factors IX and X. It is injected under the skin once a week, every two weeks or every four weeks. It has changed the lives of many people with haemophilia A, including those with inhibitors.
 - **Rebalancing therapies**: drugs such as **concizumab**, **marstacimab** or **fitusiran** dampen the body's natural anticoagulants to make up for the missing factor. They work for haemophilia A and B.
-- **Inhibitors**: up to 30 % of people with severe haemophilia A develop antibodies against the factor they receive, which complicates treatment. They are managed with "bypassing" agents or immune tolerance induction.
+- **Inhibitors**: up to 30 %[[1]] of people with severe haemophilia A develop antibodies against the factor they receive, which complicates treatment. They are managed with "bypassing" agents or immune tolerance induction.
 - **Physiotherapy**, joint care and treatment in **specialist centres**.
 
 ### Gene therapy
 
 Haemophilia is one of the diseases where gene therapy has reached the clinic. A single infusion of a modified virus (an **AAV**) carries a working copy of the gene to the liver, whose cells start making the factor:
 
-- **Etranacogene dezaparvovec** (haemophilia B, approved in Europe in 2023): in trials, most patients stopped prophylaxis for years.
-- **Valoctocogene roxaparvovec** (haemophilia A, approved in Europe in 2022): factor VIII levels tend to fall over the years.
+- **Etranacogene dezaparvovec** (haemophilia B, approved in Europe in 2023[[5]]): in trials, most patients stopped prophylaxis for years[[2]].
+- **Valoctocogene roxaparvovec** (haemophilia A, approved in Europe in 2022[[5]]): factor VIII levels tend to fall over the years.
 
 These are treatments for selected adults, very expensive and with open questions about their long-term durability. Not every patient can receive them, for example if they have antibodies against the virus. Some have been withdrawn from the market for commercial reasons.
 

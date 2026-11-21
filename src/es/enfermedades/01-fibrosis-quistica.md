@@ -33,7 +33,7 @@ El nombre viene de las lesiones que se veían en el páncreas: cicatrices (fibro
 
 La enfermedad se debe a variantes en el gen ***CFTR***, en el cromosoma 7, identificado en 1989 por los equipos de [Lap-Chee Tsui](../../personajes/lap-chee-tsui/), John Riordan y [Francis Collins](../../personajes/francis-collins/). Este gen contiene las instrucciones para fabricar una proteína que funciona como **canal de cloruro**: una puerta en la membrana de las células que regula el paso de cloruro y, con él, de agua. Si el canal falla, falta agua en la superficie de las vías respiratorias y los conductos, y el moco se espesa.
 
-Se conocen **más de 2.000 variantes** del gen, aunque no todas causan enfermedad. La más frecuente en Europa es **F508del**: la pérdida de un único aminoácido, la fenilalanina en la posición 508. Hace que la proteína se pliegue mal y la célula la destruya antes de que llegue a la membrana. Está presente en alrededor del 70 % de las copias alteradas en el norte de Europa y en algo más de la mitad en España.
+Se conocen **más de 2.000 variantes**[[1]] del gen, aunque no todas causan enfermedad. La más frecuente en Europa es **F508del**: la pérdida de un único aminoácido, la fenilalanina en la posición 508. Hace que la proteína se pliegue mal y la célula la destruya antes de que llegue a la membrana. Está presente en alrededor del 70 % de las copias alteradas en el norte de Europa y en algo más de la mitad en España.
 
 Las variantes se agrupan en **clases** según cómo fallan: la proteína no se fabrica, no llega a la membrana, llega pero no se abre bien, deja pasar poco cloruro o se fabrica en poca cantidad. Esta clasificación importa porque los fármacos actuales actúan sobre mecanismos concretos.
 
@@ -53,7 +53,7 @@ Estas probabilidades se repiten en cada embarazo, sea cual sea el resultado de l
 
 Las manifestaciones y su gravedad varían mucho de una persona a otra, incluso con las mismas variantes:
 
-- **Recién nacido**: alrededor del 15 % nace con una obstrucción intestinal llamada **íleo meconial**.
+- **Recién nacido**: alrededor del 15 % nace con una obstrucción intestinal llamada **íleo meconial**[[2]].
 - **Infancia**: tos persistente, bronquitis y neumonías de repetición, heces abundantes y grasientas, dificultad para ganar peso pese a comer bien.
 - **Adolescencia y edad adulta**: bronquiectasias (bronquios dilatados y dañados), infecciones crónicas por bacterias como *Pseudomonas aeruginosa*, pólipos nasales, **diabetes** relacionada con la fibrosis quística, enfermedad hepática, osteoporosis e infertilidad.
 
@@ -62,7 +62,7 @@ Algunas personas con variantes "leves" se diagnostican de adultas, por ejemplo e
 ## Diagnóstico
 
 - **Cribado neonatal (prueba del talón)**: mide en la sangre del bebé la **tripsina inmunorreactiva**, una enzima del páncreas que está elevada. Si sale alta, se completa con estudio genético o una segunda determinación. Se aplica en toda España desde 2015 y permite empezar el tratamiento antes de que aparezcan síntomas.
-- **Test del sudor**: es la prueba de confirmación. Se estimula la sudoración en el antebrazo con una corriente eléctrica suave e indolora y se mide el **cloruro** en el sudor. Un valor de 60 mmol/L o más confirma el diagnóstico; entre 30 y 59 es dudoso.
+- **Test del sudor**[[5]]: es la prueba de confirmación. Se estimula la sudoración en el antebrazo con una corriente eléctrica suave e indolora y se mide el **cloruro** en el sudor. Un valor de 60 mmol/L o más confirma el diagnóstico; entre 30 y 59 es dudoso.
 - **Estudio genético del gen *CFTR***: identifica las dos variantes, lo que ayuda a predecir la evolución, elegir el tratamiento y ofrecer estudio de portadores a la familia.
 
 ## Tratamiento
@@ -82,15 +82,15 @@ El gran cambio de la última década son los **moduladores de CFTR**, los primer
 - Los **potenciadores**, como el **ivacaftor**, ayudan a abrir un canal que ya está en la membrana.
 - Los **correctores**, como el **elexacaftor** y el **tezacaftor**, ayudan a la proteína a plegarse y llegar a la membrana.
 
-La combinación **elexacaftor, tezacaftor e ivacaftor** (aprobada en la Unión Europea en 2020) sirve para las personas con al menos una copia de F508del, alrededor del 85-90 % de los pacientes. En los ensayos clínicos mejoró la función pulmonar alrededor de 10 a 14 puntos porcentuales, redujo las exacerbaciones y normalizó casi el cloruro del sudor. En la vida real, muchas personas han dejado de necesitar ingresos e incluso han salido de la lista de trasplante. Su indicación se ha ampliado a niños desde los 2 años. En 2025 se aprobó una nueva combinación de administración diaria única, con **vanzacaftor, tezacaftor y deutivacaftor**.
+La combinación **elexacaftor, tezacaftor e ivacaftor** (aprobada en la Unión Europea en 2020)[[6]] sirve para las personas con al menos una copia de F508del, alrededor del 85-90 %[[3,4]] de los pacientes. En los ensayos clínicos mejoró la función pulmonar alrededor de 10 a 14 puntos porcentuales, redujo las exacerbaciones y normalizó casi el cloruro del sudor. En la vida real, muchas personas han dejado de necesitar ingresos e incluso han salido de la lista de trasplante. Su indicación se ha ampliado a niños desde los 2 años. En 2025 se aprobó una nueva combinación de administración diaria única, con **vanzacaftor, tezacaftor y deutivacaftor**.
 
 ### Esperanza de vida
 
-En los años sesenta, la mayoría de los niños con fibrosis quística no llegaba a la edad escolar. Hoy, gracias al diagnóstico precoz y a los tratamientos, la **mediana de supervivencia** en los países con buenos registros supera los 50 años, y se espera que las personas que empiezan moduladores en la infancia vivan bastante más. Por primera vez hay más adultos que niños con la enfermedad en muchos países europeos.
+En los años sesenta, la mayoría de los niños con fibrosis quística no llegaba a la edad escolar. Hoy, gracias al diagnóstico precoz y a los tratamientos, la **mediana de supervivencia**[[8]] en los países con buenos registros supera los 50 años, y se espera que las personas que empiezan moduladores en la infancia vivan bastante más. Por primera vez hay más adultos que niños con la enfermedad en muchos países europeos.
 
 ## Investigación actual
 
-- Un 10 % de los pacientes tiene variantes que no responden a los moduladores actuales, por ejemplo variantes que impiden fabricar la proteína. Para ellos se investigan **terapias con ARN mensajero** inhalado y **terapia génica** con vectores virales que llevan una copia sana del gen a las células de los bronquios.
+- Un 10 % de los pacientes[[1]] tiene variantes que no responden a los moduladores actuales, por ejemplo variantes que impiden fabricar la proteína. Para ellos se investigan **terapias con ARN mensajero** inhalado y **terapia génica** con vectores virales que llevan una copia sana del gen a las células de los bronquios.
 - La **edición genética** con CRISPR y la edición de bases se ensayan en el laboratorio para corregir variantes concretas.
 
 ## Preguntas frecuentes

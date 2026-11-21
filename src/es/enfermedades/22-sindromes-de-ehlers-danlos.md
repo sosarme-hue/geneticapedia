@@ -22,7 +22,7 @@ El **colágeno** es la proteína más abundante del cuerpo. Forma fibras que dan
 
 ## Los rasgos comunes
 
-- **Hiperlaxitud articular**: las articulaciones se doblan más de lo normal. Se mide con la **escala de Beighton**, de 0 a 9 puntos.
+- **Hiperlaxitud articular**: las articulaciones se doblan más de lo normal. Se mide con la **escala de Beighton**, de 0 a 9 puntos[[1]].
 - **Luxaciones** y subluxaciones frecuentes, esguinces y dolor articular.
 - **Piel** suave, aterciopelada, que se estira mucho y es frágil, con heridas que cicatrizan mal y moratones fáciles.
 - **Dolor crónico** y **fatiga**, a menudo lo que más afecta a la calidad de vida.
@@ -36,11 +36,11 @@ El **colágeno** es la proteína más abundante del cuerpo. Forma fibras que dan
 | **Vascular** | *COL3A1* | Piel fina y translúcida, moratones; riesgo de rotura de arterias, intestino o útero |
 | **Cifoescoliótico, artrocalasia, dermatosparaxis** y otros | Varios | Muy raros |
 
-El **tipo vascular** es el más peligroso: puede causar roturas de arterias o del intestino de forma inesperada, a menudo entre los 20 y los 40 años, y el embarazo conlleva riesgo. Por eso es tan importante distinguirlo. Un fármaco para la tensión arterial, el **celiprolol**, parece reducir las complicaciones. Las personas afectadas deben llevar información de su diagnóstico para casos de urgencia.
+El **tipo vascular** es el más peligroso: puede causar roturas de arterias o del intestino de forma inesperada, a menudo entre los 20 y los 40 años[[2]], y el embarazo conlleva riesgo. Por eso es tan importante distinguirlo. Un fármaco para la tensión arterial, el **celiprolol**, parece reducir las complicaciones[[3]]. Las personas afectadas deben llevar información de su diagnóstico para casos de urgencia.
 
 ## El tipo hiperlaxo, un reto diagnóstico
 
-Es con diferencia el más frecuente, pero **no tiene una prueba genética**: se diagnostica con criterios clínicos establecidos en **2017**, que piden hiperlaxitud generalizada, otros rasgos del tejido conectivo y descartar otras causas. Se solapa con el **trastorno del espectro de hipermovilidad**, y muchas personas tardan años en ser diagnosticadas. Se asocia con frecuencia a mareos al ponerse de pie, problemas digestivos y ansiedad, aunque la relación aún se estudia.
+Es con diferencia el más frecuente, pero **no tiene una prueba genética**: se diagnostica con criterios clínicos establecidos en **2017**[[1]], que piden hiperlaxitud generalizada, otros rasgos del tejido conectivo y descartar otras causas. Se solapa con el **trastorno del espectro de hipermovilidad**, y muchas personas tardan años en ser diagnosticadas. Se asocia con frecuencia a mareos al ponerse de pie, problemas digestivos y ansiedad, aunque la relación aún se estudia.
 
 ## Diagnóstico y tratamiento
 

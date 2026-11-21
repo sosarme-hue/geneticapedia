@@ -24,21 +24,21 @@ Without treatment, children are born apparently healthy, but in the first months
 
 ## An exemplary medical story
 
-In 1934 the Norwegian physician **Ivar Asbjørn Følling** studied two siblings with intellectual disability whose mother had noticed a strange smell in their urine. With a simple ferric chloride test he found **phenylpyruvic acid** in it and described the disease. In the 1950s the German paediatrician **Horst Bickel** showed in Birmingham, UK, that a **low-phenylalanine diet** prevented the damage. And in 1961-1963 [Robert Guthrie](../../people/robert-guthrie/) invented the dried-blood-spot test that allowed every newborn to be screened.
+In 1934 the Norwegian physician **Ivar Asbjørn Følling**[[4]] studied two siblings with intellectual disability whose mother had noticed a strange smell in their urine. With a simple ferric chloride test he found **phenylpyruvic acid** in it and described the disease. In the 1950s the German paediatrician **Horst Bickel** showed in Birmingham, UK, that a **low-phenylalanine diet** prevented the damage. And in 1961-1963 [Robert Guthrie](../../people/robert-guthrie/) invented the dried-blood-spot test that allowed every newborn to be screened.
 
 Phenylketonuria thus became the first example of a genetic disease whose consequences can be **completely prevented** by changing the environment: a textbook case of how genes and environment interact.
 
 ## Cause and inheritance
 
-It is caused by variants in the ***PAH*** gene, which makes the enzyme **phenylalanine hydroxylase**, active in the liver. More than 1,000 variants are known, with effects ranging from no activity to some residual activity. According to untreated phenylalanine levels, there is **classic phenylketonuria** (over 1,200 µmol/L), moderate and mild forms, and **mild hyperphenylalaninaemia**, which sometimes needs no treatment.
+It is caused by variants in the ***PAH*** gene, which makes the enzyme **phenylalanine hydroxylase**, active in the liver. More than 1,000 variants are known[[1]], with effects ranging from no activity to some residual activity. According to untreated phenylalanine levels, there is **classic phenylketonuria** (over 1,200 µmol/L), moderate and mild forms, and **mild hyperphenylalaninaemia**, which sometimes needs no treatment.
 
-It is **autosomal recessive**: parents are healthy carriers and each pregnancy has a 25 % chance of an affected child. About 1 in 50 people of European descent is a carrier.
+It is **autosomal recessive**: parents are healthy carriers and each pregnancy has a 25 % chance of an affected child. About 1 in 50 people of European descent[[1]] is a carrier.
 
-In 1-2 % of cases with high phenylalanine the cause is not *PAH* but defects in making or recycling its cofactor, **tetrahydrobiopterin** (BH4). These are treated differently, so they are always looked for at diagnosis.
+In 1-2 % of cases[[2]] with high phenylalanine the cause is not *PAH* but defects in making or recycling its cofactor, **tetrahydrobiopterin** (BH4). These are treated differently, so they are always looked for at diagnosis.
 
 ## Diagnosis
 
-Phenylketonuria is detected by the **heel-prick test**, done on every newborn in Spain in the first 48-72 hours of life. Phenylalanine is now measured by **tandem mass spectrometry**, which analyses dozens of diseases at once. If it is high, it is repeated and confirmed in a **metabolic disease unit**, which starts treatment within days.
+Phenylketonuria is detected by the **heel-prick test**[[3]], done on every newborn in Spain in the first 48-72 hours of life[[2]]. Phenylalanine is now measured by **tandem mass spectrometry**, which analyses dozens of diseases at once. If it is high, it is repeated and confirmed in a **metabolic disease unit**, which starts treatment within days.
 
 ## Treatment
 
@@ -55,7 +55,7 @@ It is a demanding diet that shapes social and family life. For years it was reco
 
 ### Medication
 
-- **Sapropterin** (a synthetic form of BH4): in people who respond, about a third, mostly with mild or moderate forms, it boosts the enzyme's residual activity and allows more protein to be eaten.
+- **Sapropterin** (a synthetic form of BH4): in people who respond, about a third[[2]], mostly with mild or moderate forms, it boosts the enzyme's residual activity and allows more protein to be eaten.
 - **Pegvaliase**: an enzyme of bacterial origin that breaks down phenylalanine. Injected daily under the skin in adults, it allows many to eat a normal diet, although it can cause allergic reactions.
 - **Sepiapterin**: an oral drug approved in 2025 in the US and Europe, which in trials lowered phenylalanine in a wider range of patients than sapropterin.
 

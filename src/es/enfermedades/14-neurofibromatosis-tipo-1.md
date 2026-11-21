@@ -28,7 +28,7 @@ El gen ***NF1*** fabrica la **neurofibromina**, una proteína que actúa como **
 
 Las personas con NF1 nacen con una copia alterada del gen en todas sus células. Los tumores aparecen cuando, por azar, una célula pierde también la otra copia, lo que se conoce como "**segundo golpe**", la misma idea que explica el [cáncer hereditario](../cancer-hereditario/).
 
-La herencia es **autosómica dominante**: cada hijo de una persona afectada tiene un **50 %** de probabilidad de heredarla. Pero alrededor de la **mitad** de los casos se deben a una **variante nueva** (*de novo*) que no tenían los padres. El gen *NF1* es grande y tiene una de las tasas de mutación más altas del genoma humano. A veces la variante aparece después de la fecundación y solo afecta a una parte del cuerpo: es la **NF1 en mosaico**, o segmentaria.
+La herencia es **autosómica dominante**: cada hijo de una persona afectada tiene un **50 %** de probabilidad de heredarla. Pero alrededor de la **mitad** de los casos[[1]] se deben a una **variante nueva** (*de novo*) que no tenían los padres. El gen *NF1* es grande y tiene una de las tasas de mutación más altas del genoma humano. A veces la variante aparece después de la fecundación y solo afecta a una parte del cuerpo: es la **NF1 en mosaico**, o segmentaria.
 
 ## Signos y síntomas
 
@@ -36,27 +36,27 @@ La herencia es **autosómica dominante**: cada hijo de una persona afectada tien
 - **Pecas en axilas e ingles**, un lugar poco habitual para las pecas.
 - **Nódulos de Lisch**: pequeños bultos inofensivos en el iris, visibles con lámpara de hendidura.
 - **Neurofibromas cutáneos**: bultos blandos en la piel que suelen aparecer en la adolescencia y aumentan con la edad y el embarazo. Son benignos, pero pueden ser numerosos y afectar mucho a la autoestima.
-- **Neurofibromas plexiformes**: tumores más extensos que crecen a lo largo de nervios profundos. Los tiene alrededor del 30-50 % de las personas y pueden causar dolor, deformidad o compresión de órganos.
-- **Gliomas de la vía óptica**: tumores del nervio óptico en un 15 % de los niños, casi siempre sin síntomas. Por eso se hacen revisiones oftalmológicas anuales en la infancia.
+- **Neurofibromas plexiformes**: tumores más extensos que crecen a lo largo de nervios profundos. Los tiene alrededor del 30-50 % de las personas[[1]] y pueden causar dolor, deformidad o compresión de órganos.
+- **Gliomas de la vía óptica**: tumores del nervio óptico en un 15 % de los niños[[1]], casi siempre sin síntomas. Por eso se hacen revisiones oftalmológicas anuales en la infancia.
 - **Dificultades de aprendizaje y atención**: aparecen en más de la mitad de los niños, junto con mayor frecuencia de TDAH y de rasgos del espectro autista.
 - **Huesos**: escoliosis, alteraciones de la tibia (que puede arquearse y romperse) y talla algo baja.
 - **Tensión arterial alta** y, raramente, otros tumores.
 
 ## Riesgos que vigilar
 
-El riesgo más serio es la transformación de un neurofibroma plexiforme en un **tumor maligno de la vaina del nervio periférico** (MPNST), que ocurre en un 8-13 % de las personas a lo largo de la vida. Un dolor nuevo y persistente, un crecimiento rápido o un cambio de consistencia de un tumor deben consultarse pronto. Las mujeres con NF1 tienen también más riesgo de **cáncer de mama** antes de los 50 años, por lo que se recomienda empezar antes las mamografías o resonancias.
+El riesgo más serio es la transformación de un neurofibroma plexiforme en un **tumor maligno de la vaina del nervio periférico** (MPNST), que ocurre en un 8-13 % de las p[[1]]ersonas a lo largo de la vida. Un dolor nuevo y persistente, un crecimiento rápido o un cambio de consistencia de un tumor deben consultarse pronto. Las mujeres con NF1 tienen también más riesgo de **cáncer de mama** antes de los 50 años, por lo que se recomienda empezar antes las mamografías o resonancias.
 
 ## Diagnóstico
 
-El diagnóstico se basa en los **criterios clínicos**, actualizados por un consenso internacional en **2021**. Se necesitan al menos dos de estos rasgos, entre ellos seis o más manchas café con leche, pecas en pliegues, dos o más neurofibromas o un plexiforme, glioma óptico, nódulos de Lisch, ciertas lesiones óseas, o una **variante patogénica en *NF1***. Si uno de los padres tiene NF1, basta con un rasgo en el hijo.
+El diagnóstico se basa en los **criterios clínicos**, actualizados por un consenso internacional en **2021**[[2]]. Se necesitan al menos dos de estos rasgos, entre ellos seis o más manchas café con leche, pecas en pliegues, dos o más neurofibromas o un plexiforme, glioma óptico, nódulos de Lisch, ciertas lesiones óseas, o una **variante patogénica en *NF1***. Si uno de los padres tiene NF1, basta con un rasgo en el hijo.
 
-El **estudio genético** detecta la variante en más del 95 % de los casos. Es útil cuando el cuadro no está claro, sobre todo en niños pequeños que solo tienen manchas, y para distinguirla del **síndrome de Legius** (gen *SPRED1*), que da manchas y pecas pero no tumores.
+El **estudio genético** detecta la variante en más del 95 % de los casos[[1]]. Es útil cuando el cuadro no está claro, sobre todo en niños pequeños que solo tienen manchas, y para distinguirla del **síndrome de Legius** (gen *SPRED1*), que da manchas y pecas pero no tumores.
 
 ## Tratamiento
 
 No hay cura, pero un **seguimiento ordenado** en unidades con experiencia mejora la vida de las personas con NF1: revisiones anuales de la piel, la vista, la columna, la tensión arterial y el desarrollo escolar.
 
-- **Selumetinib**: un inhibidor de MEK, una pieza de la vía RAS-MAPK. En 2020 se convirtió en el **primer fármaco aprobado** en Estados Unidos (en la Unión Europea, en 2021) para niños con neurofibromas plexiformes sintomáticos que no se pueden operar. En el ensayo, el tumor se redujo en alrededor de dos tercios de los niños, con menos dolor. Su uso se ha extendido después a adultos, y en 2025 se aprobó otro inhibidor de MEK, **mirdametinib**.
+- **Selumetinib**: un inhibidor de MEK, una pieza de la vía RAS-MAPK. En 2020 se convirtió en el **primer fármaco aprobado**[[3]] en Estados Unidos (en la Unión Europea, en 2021) para niños con neurofibromas plexiformes sintomáticos que no se pueden operar. En el ensayo, el tumor se redujo en alrededor de dos tercios de los niños, con menos dolor. Su uso se ha extendido después a adultos, y en 2025 se aprobó otro inhibidor de MEK, **mirdametinib**.
 - **Cirugía**: para neurofibromas que molestan o desfiguran, y para tumores sospechosos.
 - **Láser o electrocirugía** para los neurofibromas cutáneos.
 - **Apoyo escolar** y psicológico, muy importante en la infancia.

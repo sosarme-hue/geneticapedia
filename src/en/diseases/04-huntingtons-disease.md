@@ -25,17 +25,17 @@ It was described in 1872 by the American physician **George Huntington**, then j
 
 ## Symptoms
 
-It combines three groups of symptoms, which appear in different order and degree in each person and progress slowly over **15 to 20 years**:
+It combines three groups of symptoms, which appear in different order and degree in each person and progress slowly over **15 to 20 years**[[1]]:
 
 - **Motor**: involuntary, jerky, irregular movements (**chorea**), clumsiness, gait and balance problems, difficulty speaking and, in later stages, **swallowing**, which causes weight loss and pneumonia.
 - **Cognitive**: difficulty planning, organising, concentrating and switching tasks. People lose mental flexibility long before they lose memory.
 - **Psychiatric and behavioural**: depression (very common), irritability, apathy, anxiety, impulsivity and obsessive behaviour. The risk of suicide is higher than in the general population, especially around the time of diagnosis.
 
-Cognitive and behavioural changes can begin **years before** the movements, and are often what affects families most. In 5-10 % of cases the disease begins before age 20 (**juvenile form**), with more rigidity than chorea and sometimes seizures.
+Cognitive and behavioural changes can begin **years before** the movements, and are often what affects families most. In 5-10 % of cases[[1]] the disease begins before age 20 (**juvenile form**), with more rigidity than chorea and sometimes seizures.
 
 ## Genetic cause
 
-It is caused by an **expansion of CAG repeats** in the ***HTT*** gene on chromosome 4, which holds the instructions for the protein **huntingtin**. Everyone has these repeats, but in a limited number. When there are too many, huntingtin has an abnormally long tail of the amino acid glutamine, misfolds, forms aggregates and becomes toxic to neurons.
+It is caused by an **expansion of CAG repeats**[[4]] in the ***HTT*** gene on chromosome 4, which holds the instructions for the protein **huntingtin**. Everyone has these repeats, but in a limited number. When there are too many, huntingtin has an abnormally long tail of the amino acid glutamine, misfolds, forms aggregates and becomes toxic to neurons.
 
 | CAG repeats | Meaning |
 |---|---|
@@ -82,7 +82,7 @@ There is currently **no treatment** that cures the disease or has been shown in 
 
 Research aims to **lower the amount of huntingtin** or slow repeat expansion:
 
-- **Antisense oligonucleotides**, such as tominersen. A large trial was stopped in 2021 for lack of benefit, although the data suggest it might help younger, less advanced patients, and a new study has begun.
+- **Antisense oligonucleotides**, such as tominersen. A large trial was stopped in 2021[[2]] for lack of benefit, although the data suggest it might help younger, less advanced patients, and a new study has begun.
 - **Gene therapy**: a one-off injection into the brain of a virus carrying a microRNA that lowers huntingtin. In 2025 it reported preliminary results suggesting slower progression, which need confirming.
 - **Oral molecules** that modify how *HTT* RNA is processed.
 - Drugs targeting the **DNA repair** genes that promote expansion.

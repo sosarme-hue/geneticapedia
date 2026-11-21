@@ -20,7 +20,7 @@ img_pie: Knowing that a family carries a high-risk variant makes it possible to 
 
 Every cancer arises from changes in the DNA of some cells, which begin to divide uncontrollably. But almost always these are changes **acquired** during life: by chance when DNA is copied, through ageing, or through factors such as tobacco, alcohol, ultraviolet radiation or some infections. These changes are **only in the tumour** and are not passed on to children.
 
-Only about **5 to 10 %** of cancers are due to an **inherited** variant, present from birth in every cell, that greatly increases the risk. Another 15-20 % show familial clustering, more cases than expected, from a mix of many small-effect genes and shared environment.
+Only about **5 to 10 %** of cancers[[5]] are due to an **inherited** variant, present from birth in every cell, that greatly increases the risk. Another 15-20 % show familial clustering, more cases than expected, from a mix of many small-effect genes and shared environment.
 
 ## Why an inherited variant increases risk
 
@@ -34,9 +34,9 @@ So although the variant is inherited **dominantly**, what is inherited is a **pr
 
 The *BRCA1* (chromosome 17) and *BRCA2* (chromosome 13) genes help repair DNA breaks. *BRCA1* was located in 1990 by [Mary-Claire King](../../people/mary-claire-king/).
 
-- They affect about **1 in 300-400** people, more in some populations, such as Ashkenazi Jews (1 in 40).
-- **Lifetime breast cancer risk** in women: about **72 %** with *BRCA1* and **69 %** with *BRCA2* by age 80, compared with about 12 % in the general population.
-- **Ovarian cancer risk**: about **44 %** with *BRCA1* and **17 %** with *BRCA2*.
+- They affect about **1 in 300-400** people[[7]], more in some populations, such as Ashkenazi Jews (1 in 40).
+- **Lifetime breast cancer risk** in women: about **72 %** with *BRCA1* and **69 %** with *BRCA2* by age 80, compared with about 12 % in the general population[[1]].
+- **Ovarian cancer risk**: about **44 %** with *BRCA1* and **17 %** with *BRCA2*.[[1]]
 - They also increase the risk of **prostate** cancer (especially *BRCA2*, with more aggressive forms), **pancreatic** cancer and **male breast** cancer.
 
 Other genes with moderate or high breast cancer risk include *PALB2*, *CHEK2*, *ATM*, *RAD51C*, *RAD51D*, *TP53* and *CDH1*.
@@ -45,7 +45,7 @@ Other genes with moderate or high breast cancer risk include *PALB2*, *CHEK2*, *
 
 It is caused by variants in DNA **mismatch repair** genes: *MLH1*, *MSH2*, *MSH6*, *PMS2* and *EPCAM*.
 
-- It is the most common hereditary cause of **colorectal** and **endometrial cancer**. It affects about **1 in 300** people, although most do not know it.
+- It is the most common hereditary cause of **colorectal** and **endometrial cancer**. It affects about **1 in 300** people[[2]], although most do not know it.
 - Risk varies greatly by gene: highest with *MLH1* and *MSH2*, lowest with *PMS2*.
 - It also raises the risk of ovarian, stomach, small bowel, urinary tract and bile duct cancers.
 - The tumours have a characteristic "signature", **microsatellite instability**, which is routinely tested in all colorectal and endometrial cancers to detect families with Lynch syndrome.
@@ -84,8 +84,8 @@ Increasingly, genetic testing is also done **at diagnosis** of some cancers (ova
 
 Knowing you carry a high-risk variant makes it possible to:
 
-- **Step up surveillance**: for *BRCA* carriers, annual breast MRI from age 25-30 and mammography from 30-35; for Lynch syndrome, **colonoscopy every 1-2 years** from age 25, which clearly reduces the risk of dying from colorectal cancer.
-- **Risk-reducing surgery**: removing the **ovaries and fallopian tubes** (salpingo-oophorectomy) once childbearing is complete, around 35-40 with *BRCA1* and 40-45 with *BRCA2*, cuts ovarian cancer risk by more than 80 % and reduces overall mortality. Risk-reducing **mastectomy** cuts breast cancer risk by more than 90 %; it is a personal decision best taken calmly and with support.
+- **Step up surveillance**: for *BRCA* carriers, annual breast MRI from age 25-30[[4]] and mammography from 30-35; for Lynch syndrome, **colonoscopy every 1-2 years** from age 25, which clearly reduces the risk of dying from colorectal cancer.
+- **Risk-reducing surgery**: removing the **ovaries and fallopian tubes** (salpingo-oophorectomy) once childbearing is complete, around 35-40[[4]] with *BRCA1* and 40-45 with *BRCA2*, cuts ovarian cancer risk by more than 80 % and reduces overall mortality. Risk-reducing **mastectomy** cuts breast cancer risk by more than 90 %; it is a personal decision best taken calmly and with support.
 - **Preventive medication**: daily **aspirin** reduces colorectal cancer risk in Lynch syndrome, according to a long-term clinical trial.
 - **Targeted treatments**: **PARP inhibitors** (olaparib and others) exploit the DNA repair defect of *BRCA* tumours and are used in ovarian, breast, pancreatic and prostate cancer. Lynch tumours, with many mutations, often respond very well to **immunotherapy**.
 - **Reproductive choices**: prenatal or preimplantation diagnosis, if the person wishes.

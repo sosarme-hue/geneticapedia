@@ -27,13 +27,13 @@ In **males** it usually causes:
 - **Intellectual disability**, generally moderate, and delayed speech.
 - **Autistic features** (in about half), hyperactivity, attention deficit, anxiety, extreme shyness, gaze avoidance, hand flapping and great sensitivity to noise and touch.
 - **Physical features** that become more noticeable after puberty: long face, large or prominent ears, broad forehead, very flexible joints and enlarged testes (macroorchidism).
-- In 10-20 %, seizures.
+- In 10-20 %, seizures[[1]].
 
 In **females** with the full mutation the effects are more variable and usually milder: learning difficulties, especially with maths, social anxiety or shyness. About half have normal or borderline intelligence. The difference is because they have a second, healthy X chromosome, and in each cell one of the two X chromosomes is randomly switched off.
 
 ## Genetic cause
 
-It is caused by an **expansion of CGG repeats** in the ***FMR1*** gene on the X chromosome. Normally there are 5 to 44 repeats. When they exceed **200** (full mutation), the gene is "switched off" by **methylation** (an epigenetic mechanism) and stops making the **FMRP** protein. This protein controls the production of other proteins at **synapses**, the connections between neurons, and is key to learning and memory.
+It is caused by an **expansion of CGG repeats**[[2]] in the ***FMR1*** gene on the X chromosome. Normally there are 5 to 44 repeats. When they exceed **200** (full mutation), the gene is "switched off" by **methylation** (an epigenetic mechanism) and stops making the **FMRP** protein. This protein controls the production of other proteins at **synapses**, the connections between neurons, and is key to learning and memory.
 
 | CGG repeats | Category | Consequences |
 |---|---|---|
@@ -46,8 +46,8 @@ It is caused by an **expansion of CGG repeats** in the ***FMR1*** gene on the X 
 
 People with a **premutation** do not have fragile X syndrome, but they are not simply carriers:
 
-- **FXPOI**: about 20 % of women with a premutation have **premature ovarian insufficiency**, with menopause before 40.
-- **FXTAS**: after age 50, some carriers, especially men (up to 40 % of those over 50), develop a **tremor and ataxia** (unsteadiness) syndrome with progressive cognitive decline.
+- **FXPOI**: about 20 % of women with a premutation[[3]] have **premature ovarian insufficiency**, with menopause before 40.
+- **FXTAS**: after age 50, some carriers, especially men (up to 40 % of those over 50)[[3]], develop a **tremor and ataxia** (unsteadiness) syndrome with progressive cognitive decline.
 - **FXAND**: more anxiety, depression and other psychological difficulties.
 
 ## Inheritance and anticipation
@@ -78,7 +78,7 @@ There is no cure, but early intervention makes a difference:
 - **Symptom treatment**: medication for anxiety, hyperactivity, aggression or seizures when needed.
 - **Family support**, as several members are often affected.
 
-Drugs targeting the disease mechanism, such as glutamate receptor modulators, have been tested with disappointing results in humans so far. Trials of new molecules are under way, such as PDE4D enzyme inhibitors, with promising preliminary results, along with strategies to reactivate the silenced gene.
+Drugs targeting the disease mechanism, such as glutamate receptor modulators, have been tested with disappointing results in humans so far[[1]]. Trials of new molecules are under way, such as PDE4D enzyme inhibitors, with promising preliminary results, along with strategies to reactivate the silenced gene.
 
 ## What to ask at your appointment
 

@@ -28,7 +28,7 @@ The extra X comes from an **error in meiosis**, the division that forms eggs and
 
 There are variants:
 
-- **46,XY/47,XXY mosaicism** (10–15 %): only some cells have the extra X. Features are usually milder and sperm are sometimes present.
+- **46,XY/47,XXY mosaicism** (10–15 %)[[2]]: only some cells have the extra X. Features are usually milder and sperm are sometimes present.
 - **Forms with more X chromosomes**, such as 48,XXXY or 49,XXXXY: very rare, with greater effects on development and learning.
 
 It is not a hereditary disease in the usual sense: parents are not carriers and the chance of it happening again in another child is very low.
@@ -42,7 +42,7 @@ As in women, one of the two X chromosomes is switched off, but some genes escape
 Features are very variable and often subtle:
 
 - **Small, firm testes**, the most consistent sign in adults.
-- **Infertility**: more than 90 % have no sperm in their semen (azoospermia).
+- **Infertility**: more than 90 % have no sperm[[1]] in their semen (azoospermia).
 - **Low testosterone** (hypogonadism): little facial and body hair, less muscle, tiredness, reduced sex drive and, over time, **osteoporosis**.
 - **Tall stature**, with long legs.
 - **Gynaecomastia** (breast enlargement) in a third or more.
@@ -65,7 +65,7 @@ Confirmation is by a blood **karyotype**. Hormone tests show low testosterone an
 ## Treatment
 
 - **Testosterone**: usually started in adolescence or when levels fall, as a gel or injections. It improves energy, body hair, muscle, bones and mood. It does not restore fertility and in fact suppresses it.
-- **Fertility**: with a technique called **micro-TESE** (microsurgical sperm extraction from the testis), sperm are found in about **40–50 %** of men with Klinefelter syndrome. Using them for IVF with sperm injection, many have had biological children, the great majority with normal chromosomes. The best age to try is debated; some centres suggest late adolescence or early adulthood.
+- **Fertility**: with a technique called **micro-TESE**[[1]] (microsurgical sperm extraction from the testis), sperm are found in about **40–50 %** of men with Klinefelter syndrome. Using them for IVF with sperm injection, many have had biological children, the great majority with normal chromosomes. The best age to try is debated; some centres suggest late adolescence or early adulthood.
 - **Speech, school and psychological support** in childhood.
 - **Surgery for gynaecomastia** if it causes distress.
 - Checks of bone density, weight, glucose and lipids.

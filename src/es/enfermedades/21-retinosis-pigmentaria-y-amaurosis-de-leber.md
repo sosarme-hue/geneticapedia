@@ -30,7 +30,7 @@ Es la más frecuente. Primero mueren los **bastones** y después los conos:
 
 En el fondo de ojo se ven unos depósitos de pigmento con forma de **espículas óseas**, que le dan nombre. Avanza a lo largo de décadas y la velocidad depende mucho del gen.
 
-Puede heredarse de forma [autosómica dominante](../../herencia/patrones-de-herencia/) (en torno al 30-40 % de los casos), **recesiva** (50-60 %) o **ligada al X** (5-15 %, sobre todo por el gen *RPGR*, con hombres más afectados). Una cuarta parte de los casos se asocia a otros síntomas, como en el **síndrome de Usher**, que combina retinosis y sordera.
+Puede heredarse de forma [autosómica dominante](../../herencia/patrones-de-herencia/) (en torno al 30-40 % de los casos)[[3]], **recesiva** (50-60 %) o **ligada al X** (5-15 %, sobre todo por el gen *RPGR*, con hombres más afectados). Una cuarta parte de los casos se asocia a otros síntomas, como en el **síndrome de Usher**, que combina retinosis y sordera.
 
 ## Amaurosis congénita de Leber
 
@@ -40,14 +40,14 @@ Es la forma **más grave y precoz**: el bebé nace con una visión muy baja o la
 
 El gen ***RPE65*** fabrica una enzima necesaria para regenerar el pigmento visual. En las personas con dos variantes en este gen, los fotorreceptores sobreviven un tiempo pero no funcionan. Un **virus adenoasociado** inyectado bajo la retina lleva una copia sana del gen.
 
-El fármaco, llamado **voretigén neparvovec**, se aprobó en Estados Unidos en **2017** y en Europa en **2018**: fue la primera [terapia génica](../../tratamientos/terapia-genica/) para una enfermedad hereditaria en Estados Unidos. Mejora la visión con poca luz, aunque solo sirve para este gen, que causa una pequeña parte de los casos, y cuando aún quedan células vivas.
+El fármaco, llamado **voretigén neparvovec**, se aprobó en Estados Unidos en **2017** y en Europa en **2018**[[2]]: fue la primera [terapia génica](../../tratamientos/terapia-genica/) para una enfermedad hereditaria en Estados Unidos. Mejora la visión con poca luz, aunque solo sirve para este gen, que causa una pequeña parte de los casos, y cuando aún quedan células vivas.
 
 Hay ensayos en marcha para otros genes, como *RPGR* y *CEP290*, incluida una edición genética con [CRISPR](../../tratamientos/crispr-explicado/) dentro del ojo, además de terapias independientes del gen, como la **optogenética** o las retinas artificiales.
 
 ## Diagnóstico y seguimiento
 
 - Exploración del fondo de ojo, campo visual, tomografía de coherencia óptica y **electrorretinograma**, que mide la respuesta eléctrica de la retina.
-- **Estudio genético** con un panel de genes de retina: encuentra la causa en un 60-70 % de los casos. Saber el gen permite dar un pronóstico, calcular el riesgo para la familia y saber si hay algún ensayo disponible.
+- **Estudio genético** con un panel de genes de retina: encuentra la causa en un 60-70 % de los casos[[3]]. Saber el gen permite dar un pronóstico, calcular el riesgo para la familia y saber si hay algún ensayo disponible.
 - Ayudas para baja visión, protección frente a la luz intensa y, cuando la visión cae mucho, rehabilitación y servicios de la **ONCE**.
 
 ## Qué preguntar en consulta

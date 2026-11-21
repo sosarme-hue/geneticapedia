@@ -24,21 +24,21 @@ Sin tratamiento, los niños nacen aparentemente sanos, pero en los primeros mese
 
 ## Una historia médica ejemplar
 
-En 1934 el médico noruego **Ivar Asbjørn Følling** estudió a dos hermanos con discapacidad intelectual cuya madre había notado un olor extraño en la orina. Con una sencilla prueba con cloruro férrico descubrió en ella **ácido fenilpirúvico** y describió la enfermedad. En los años cincuenta, el pediatra alemán **Horst Bickel** demostró en Birmingham (Reino Unido) que una **dieta baja en fenilalanina** evitaba el daño. Y en 1961-1963 [Robert Guthrie](../../personajes/robert-guthrie/) inventó la prueba en una gota de sangre seca que permitió detectarla en todos los recién nacidos.
+En 1934 el médico noruego **Ivar Asbjørn Følling**[[4]] estudió a dos hermanos con discapacidad intelectual cuya madre había notado un olor extraño en la orina. Con una sencilla prueba con cloruro férrico descubrió en ella **ácido fenilpirúvico** y describió la enfermedad. En los años cincuenta, el pediatra alemán **Horst Bickel** demostró en Birmingham (Reino Unido) que una **dieta baja en fenilalanina** evitaba el daño. Y en 1961-1963 [Robert Guthrie](../../personajes/robert-guthrie/) inventó la prueba en una gota de sangre seca que permitió detectarla en todos los recién nacidos.
 
 La fenilcetonuria se convirtió así en el primer ejemplo de una enfermedad genética cuyas consecuencias se **previenen por completo** cambiando el ambiente: un caso de libro de cómo genes y ambiente interactúan.
 
 ## Causa y herencia
 
-Se debe a variantes en el gen ***PAH***, que fabrica la enzima **fenilalanina hidroxilasa**, activa en el hígado. Se conocen más de 1.000 variantes, con efectos que van de la ausencia total de actividad a una actividad residual. Según los niveles de fenilalanina sin tratamiento se distinguen la **fenilcetonuria clásica** (más de 1.200 µmol/L), las formas moderadas y leves, y la **hiperfenilalaninemia leve**, que a veces no necesita tratamiento.
+Se debe a variantes en el gen ***PAH***, que fabrica la enzima **fenilalanina hidroxilasa**, activa en el hígado. Se conocen más de 1.000 variantes[[1]], con efectos que van de la ausencia total de actividad a una actividad residual. Según los niveles de fenilalanina sin tratamiento se distinguen la **fenilcetonuria clásica** (más de 1.200 µmol/L), las formas moderadas y leves, y la **hiperfenilalaninemia leve**, que a veces no necesita tratamiento.
 
-Es **autosómica recesiva**: los padres son portadores sanos y cada embarazo tiene un 25 % de probabilidad de hijo afectado. Alrededor de 1 de cada 50 personas de origen europeo es portadora.
+Es **autosómica recesiva**: los padres son portadores sanos y cada embarazo tiene un 25 % de probabilidad de hijo afectado. Alrededor de 1 de cada 50 personas de origen e[[1]]uropeo es portadora.
 
-Un 1-2 % de los casos con fenilalanina alta no se debe a *PAH*, sino a defectos en la fabricación o el reciclaje de su cofactor, la **tetrahidrobiopterina** (BH4). Se tratan de otra forma, y por eso se buscan siempre al diagnosticar.
+Un 1-2 % de los casos[[2]] con fenilalanina alta no se debe a *PAH*, sino a defectos en la fabricación o el reciclaje de su cofactor, la **tetrahidrobiopterina** (BH4). Se tratan de otra forma, y por eso se buscan siempre al diagnosticar.
 
 ## Diagnóstico
 
-La fenilcetonuria se detecta en la **prueba del talón**, que en España se hace a todos los recién nacidos en las primeras 48-72 horas de vida. Hoy se mide la fenilalanina con **espectrometría de masas en tándem**, que analiza a la vez decenas de enfermedades. Si sale alta, se repite y se confirma en una **unidad de enfermedades metabólicas**, que inicia el tratamiento en los primeros días.
+La fenilcetonuria se detecta en la **prueba del talón**[[3]], que en España se hace a todos los recién nacidos en las primeras 48-72 horas de vida[[2]]. Hoy se mide la fenilalanina con **espectrometría de masas en tándem**, que analiza a la vez decenas de enfermedades. Si sale alta, se repite y se confirma en una **unidad de enfermedades metabólicas**, que inicia el tratamiento en los primeros días.
 
 ## Tratamiento
 
@@ -55,7 +55,7 @@ Es una dieta exigente, que condiciona la vida social y familiar. Durante años s
 
 ### Fármacos
 
-- **Sapropterina** (una forma sintética de BH4): en las personas que responden, alrededor de un tercio, sobre todo con formas leves o moderadas, aumenta la actividad residual de la enzima y permite comer más proteína.
+- **Sapropterina** (una forma sintética de BH4): en las personas que responden, alrededor de un tercio[[2]], sobre todo con formas leves o moderadas, aumenta la actividad residual de la enzima y permite comer más proteína.
 - **Pegvaliasa**: una enzima de origen bacteriano que degrada la fenilalanina. Se inyecta a diario bajo la piel en adultos y permite a muchos llevar una dieta normal, aunque puede causar reacciones alérgicas.
 - **Sepiapterina**: un fármaco oral aprobado en 2025 en EE. UU. y Europa, que en los ensayos redujo la fenilalanina en un rango más amplio de pacientes que la sapropterina.
 

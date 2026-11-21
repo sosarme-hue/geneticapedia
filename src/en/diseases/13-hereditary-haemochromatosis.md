@@ -28,17 +28,17 @@ Iron is essential for making haemoglobin, but in excess it is toxic: it promotes
 
 In haemochromatosis the liver **does not make enough hepcidin**. The door stays open and iron keeps coming in even when there is too much. The HFE protein is part of the system that senses how much iron is in the blood, and when it fails, the signal to make hepcidin weakens.
 
-In 1996 John Feder's team identified the ***HFE*** gene and its main variant, **C282Y**, which swaps a cysteine for a tyrosine at position 282 of the protein. Another common variant, **H63D**, has a much milder effect. Rarer forms not linked to *HFE* are caused by variants in the genes for hemojuvelin (*HJV*), hepcidin itself (*HAMP*), transferrin receptor 2 (*TFR2*) or ferroportin (*SLC40A1*). Some of these, known as **juvenile haemochromatosis**, cause severe symptoms before the age of 30.
+In 1996 John Feder's team identified the ***HFE*** gene[[3]] and its main variant, **C282Y**, which swaps a cysteine for a tyrosine at position 282 of the protein. Another common variant, **H63D**, has a much milder effect. Rarer forms not linked to *HFE* are caused by variants in the genes for hemojuvelin (*HJV*), hepcidin itself (*HAMP*), transferrin receptor 2 (*TFR2*) or ferroportin (*SLC40A1*). Some of these, known as **juvenile haemochromatosis**, cause severe symptoms before the age of 30.
 
 ## Inheritance with nuances
 
 *HFE* haemochromatosis is **autosomal recessive**: the variant must be inherited from both parents. But having two copies of C282Y (being "homozygous") **does not mean becoming ill**. It is a classic example of **incomplete penetrance**:
 
 - Many homozygous people have a somewhat raised ferritin, but only a minority develop organ damage.
-- In a large Australian study, about 28 % of homozygous men and 1 % of women developed iron-related disease over the years.
+- In a large Australian study, about 28 % of homozygous men[[4]] and 1 % of women developed iron-related disease over the years.
 - Sex, **alcohol**, excess weight and fatty liver, other genetic variants and diet all play a part.
 
-The C282Y variant probably arose in a single ancestor in northern Europe about 6,000 years ago, and is especially common in Ireland, Scotland, Brittany and Scandinavia. It has been suggested that absorbing more iron may have been an advantage at times of poor diets.
+The C282Y variant probably arose in a single ancestor in northern Europe about 6,000 years ago[[2]], and is especially common in Ireland, Scotland, Brittany and Scandinavia. It has been suggested that absorbing more iron may have been an advantage at times of poor diets.
 
 ## Symptoms
 
@@ -57,7 +57,7 @@ If iron keeps building up, it can cause:
 
 Diagnosis starts with a **blood test**:
 
-- **Transferrin saturation** (how much of the protein that carries iron is occupied) is the earliest sign. A value above 45 % raises suspicion.
+- **Transferrin saturation** (how much of the protein that carries iron is occupied) is the earliest sign. A value above 45 % raises suspicion[[1]].
 - **Ferritin** reflects the body's iron stores. Note that it also rises with inflammation, alcohol, obesity or fatty liver, so a high ferritin alone is not enough to diagnose haemochromatosis.
 
 If both are raised, ***HFE* genetic testing** is done. Being C282Y homozygous with high iron confirms the diagnosis. Sometimes an **MRI scan** is used to measure liver iron, and a liver biopsy is needed only in particular cases, such as suspected cirrhosis. Guidelines recommend assessing liver fibrosis when ferritin is above 1,000 µg/L.
@@ -68,7 +68,7 @@ When someone is diagnosed, their **brothers and sisters** should be tested, as t
 
 The treatment is old, simple and very effective: **venesection**, which means **removing blood** regularly, just like a blood donation. Each session of about 450–500 ml removes around 200–250 mg of iron, because the body uses it to make new red blood cells.
 
-- In the **initial phase**, blood is taken every week or two until ferritin falls to about 50 µg/L. This can take months or more than a year.
+- In the **initial phase**, blood is taken every week or two until ferritin falls to about 50 µg/L[[1]]. This can take months or more than a year.
 - In the **maintenance phase**, a few sessions a year are enough.
 - In many countries, including the UK, this blood can be donated if the person meets donor requirements.
 

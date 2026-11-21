@@ -23,19 +23,19 @@ Los **lisosomas** son pequeños sacos llenos de enzimas que descomponen molécul
 
 Falta la enzima **hexosaminidasa A**, por variantes en el gen ***HEXA*** del cromosoma 15. Se acumula un lípido, el gangliósido GM2, en las **neuronas**.
 
-- En la forma infantil clásica, el bebé se desarrolla con normalidad hasta los 3-6 meses. Después pierde lo aprendido, se sobresalta con los ruidos y pierde la vista. En el fondo del ojo aparece una **mancha rojo cereza**. Suele fallecer antes de los 4-5 años.
+- En la forma infantil clásica, el bebé se desarrolla con normalidad hasta los 3-6 meses[[1]]. Después pierde lo aprendido, se sobresalta con los ruidos y pierde la vista. En el fondo del ojo aparece una **mancha rojo cereza**. Suele fallecer antes de los 4-5 años.
 - Hay formas juveniles y del adulto, más lentas.
 
-Era especialmente frecuente en **judíos asquenazíes**, con 1 portador de cada 30 personas. Desde los años setenta, los programas comunitarios de **cribado de portadores** antes del matrimonio o el embarazo redujeron los casos en más de un 90 %, y fueron un modelo para el [cribado de portadores](../../embarazo-y-reproduccion/planificar-un-embarazo/) actual. No tiene tratamiento curativo, y se investiga la terapia génica.
+Era especialmente frecuente en **judíos asquenazíes**, con 1 portador de cada 30 personas[[2]]. Desde los años setenta, los programas comunitarios de **cribado de portadores** antes del matrimonio o el embarazo redujeron los casos en más de un 90 %, y fueron un modelo para el [cribado de portadores](../../embarazo-y-reproduccion/planificar-un-embarazo/) actual. No tiene tratamiento curativo, y se investiga la terapia génica.
 
 ## Enfermedad de Gaucher
 
-Es la **enfermedad lisosomal más frecuente**. Falta la enzima glucocerebrosidasa por variantes en ***GBA1***, y la sustancia se acumula en los macrófagos del **bazo, el hígado y la médula ósea**.
+Es la **enfermedad lisosomal más frecuente**[[1]]. Falta la enzima glucocerebrosidasa por variantes en ***GBA1***, y la sustancia se acumula en los macrófagos del **bazo, el hígado y la médula ósea**.
 
 - **Tipo 1**, el más común: bazo muy grande, anemia, plaquetas bajas, dolores y fracturas óseas. No afecta al cerebro.
 - **Tipos 2 y 3**: afectan también al sistema nervioso.
 
-Fue la primera enfermedad lisosomal con **terapia de reemplazo enzimático**, en **1991**: una infusión intravenosa cada dos semanas que transformó el pronóstico del tipo 1. Hoy también hay fármacos orales de **reducción de sustrato**, como el eliglustat. Ser portador de una variante de *GBA1* es el factor de riesgo genético más importante conocido para la enfermedad de **Parkinson**.
+Fue la primera enfermedad lisosomal con **terapia de reemplazo enzimático**, en **1991**[[1]]: una infusión intravenosa cada dos semanas que transformó el pronóstico del tipo 1. Hoy también hay fármacos orales de **reducción de sustrato**, como el eliglustat. Ser portador de una variante de *GBA1* es el factor de riesgo genético más importante conocido para la enfermedad de **Parkinson**[[3]].
 
 ## Enfermedad de Fabry
 

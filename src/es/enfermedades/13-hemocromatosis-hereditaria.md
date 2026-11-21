@@ -28,17 +28,17 @@ El hierro es imprescindible para fabricar hemoglobina, pero en exceso es tóxico
 
 En la hemocromatosis, el hígado **no fabrica suficiente hepcidina**. La puerta queda abierta y el hierro sigue entrando aunque sobre. La proteína HFE forma parte del sistema que detecta cuánto hierro hay en la sangre, y cuando falla, la señal para producir hepcidina se debilita.
 
-En 1996, el equipo de John Feder identificó el gen ***HFE*** y su variante principal, **C282Y**, que cambia una cisteína por una tirosina en la posición 282 de la proteína. Otra variante frecuente, **H63D**, tiene un efecto mucho más leve. Existen formas más raras, que no dependen de *HFE*, causadas por variantes en los genes de la hemojuvelina (*HJV*), la propia hepcidina (*HAMP*), el receptor de transferrina 2 (*TFR2*) o la ferroportina (*SLC40A1*). Algunas de ellas, llamadas **hemocromatosis juvenil**, dan síntomas graves antes de los 30 años.
+En 1996, el equipo de John Feder identificó el gen ***HFE***[[3]] y su variante principal, **C282Y**, que cambia una cisteína por una tirosina en la posición 282 de la proteína. Otra variante frecuente, **H63D**, tiene un efecto mucho más leve. Existen formas más raras, que no dependen de *HFE*, causadas por variantes en los genes de la hemojuvelina (*HJV*), la propia hepcidina (*HAMP*), el receptor de transferrina 2 (*TFR2*) o la ferroportina (*SLC40A1*). Algunas de ellas, llamadas **hemocromatosis juvenil**, dan síntomas graves antes de los 30 años.
 
 ## Una herencia con matices
 
 La hemocromatosis por *HFE* es **autosómica recesiva**: hace falta heredar la variante de los dos progenitores. Pero tener dos copias de C282Y (ser "homocigoto") **no significa enfermar**. Es un ejemplo clásico de **penetrancia incompleta**:
 
 - Muchos homocigotos tienen la ferritina algo elevada, pero solo una minoría desarrolla daño en órganos.
-- En un gran estudio australiano, alrededor del 28 % de los hombres homocigotos y el 1 % de las mujeres desarrollaron enfermedad relacionada con el hierro a lo largo de los años.
+- En un gran estudio australiano, alrededor del 28 % de los hombres homocigotos[[4]] y el 1 % de las mujeres desarrollaron enfermedad relacionada con el hierro a lo largo de los años.
 - Influyen el sexo, el **alcohol**, el sobrepeso y el hígado graso, otras variantes genéticas y la dieta.
 
-La variante C282Y se originó probablemente en un único antepasado del norte de Europa hace unos 6.000 años, y es especialmente frecuente en Irlanda, Escocia, Bretaña y Escandinavia. Se ha propuesto que absorber más hierro pudo ser una ventaja en épocas de dietas pobres.
+La variante C282Y se originó probablemente en un único antepasado del norte de Europa hace unos 6.000 años[[2]], y es especialmente frecuente en Irlanda, Escocia, Bretaña y Escandinavia. Se ha propuesto que absorber más hierro pudo ser una ventaja en épocas de dietas pobres.
 
 ## Síntomas
 
@@ -57,7 +57,7 @@ Si el hierro sigue acumulándose, puede causar:
 
 El diagnóstico empieza por un **análisis de sangre**:
 
-- El **índice de saturación de transferrina** (cuánto de la proteína que transporta el hierro está ocupada) es la señal más precoz. Un valor por encima del 45 % hace sospechar.
+- El **índice de saturación de transferrina** (cuánto de la proteína que transporta el hierro está ocupada) es la señal más precoz. Un valor por encima del 45 % hace sosp[[1]]echar.
 - La **ferritina** refleja los depósitos de hierro del cuerpo. Ojo: también sube con la inflamación, el alcohol, la obesidad o el hígado graso, por lo que una ferritina alta no basta para diagnosticar hemocromatosis.
 
 Si los dos están elevados, se hace el **estudio genético de *HFE***. Ser homocigoto C282Y con hierro alto confirma el diagnóstico. A veces se usa una **resonancia magnética** para medir el hierro del hígado, y una biopsia hepática solo es necesaria en casos concretos, por ejemplo si se sospecha cirrosis. Las guías recomiendan valorar el grado de fibrosis hepática cuando la ferritina supera los 1.000 µg/L.
@@ -68,7 +68,7 @@ Cuando se diagnostica a alguien, conviene estudiar a sus **hermanos**, que tiene
 
 El tratamiento es antiguo, sencillo y muy eficaz: la **flebotomía**, es decir, **sacar sangre** de forma periódica, igual que en una donación. Cada extracción de unos 450-500 ml elimina alrededor de 200-250 mg de hierro, porque el cuerpo lo usa para fabricar glóbulos rojos nuevos.
 
-- En la **fase inicial** se hacen extracciones semanales o cada dos semanas hasta que la ferritina baja a unos 50 µg/L. Puede durar meses o más de un año.
+- En la **fase inicial** se hacen extracciones semanales o cada dos semanas hasta que la ferritina baja a unos 50 µg/L[[1]]. Puede durar meses o más de un año.
 - En la **fase de mantenimiento** basta con unas pocas extracciones al año.
 - En muchos países, incluida España en algunas comunidades, la sangre de estas personas puede donarse si cumplen los requisitos de donante.
 

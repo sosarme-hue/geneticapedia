@@ -20,7 +20,7 @@ El **síndrome de Marfan** es una enfermedad hereditaria del **tejido conectivo*
 Afecta sobre todo a tres sistemas:
 
 - **Cardiovascular**: la pared de la **aorta**, la gran arteria que sale del corazón, es más débil y tiende a dilatarse (aneurisma), sobre todo en su raíz. Si no se vigila, puede romperse o desgarrarse (**disección aórtica**), una urgencia mortal. También es frecuente el prolapso de la válvula mitral.
-- **Ocular**: el cristalino puede desplazarse (**ectopia del cristalino**, en alrededor del 60 % de los casos), y hay más miopía, desprendimiento de retina, glaucoma y cataratas precoces.
+- **Ocular**: el cristalino puede desplazarse (**ectopia del cristalino**, en alrededor del 60 % de los casos[[2]]), y hay más miopía, desprendimiento de retina, glaucoma y cataratas precoces.
 - **Esquelético**: estatura alta, brazos largos (la envergadura supera a la altura), dedos largos y finos (**aracnodactilia**), articulaciones muy flexibles, pecho hundido o en quilla, escoliosis y pies planos.
 
 Otros signos posibles son estrías en la piel sin cambios de peso, neumotórax espontáneo y ectasia dural (ensanchamiento de la membrana que rodea la médula).
@@ -31,15 +31,15 @@ La expresión es muy **variable**, incluso dentro de una misma familia: hay pers
 
 Se debe a variantes en el gen ***FBN1***, en el cromosoma 15, que contiene las instrucciones de la **fibrilina 1**. Esta proteína forma microfibrillas que dan estructura a las fibras elásticas y, además, **regula** una molécula señalizadora llamada **TGF-beta**. Cuando la fibrilina falla, el tejido es más débil y el exceso de señal de TGF-beta contribuye al daño de la aorta. Este hallazgo, de principios de los 2000, abrió nuevas vías de tratamiento.
 
-Se han descrito más de 3.000 variantes distintas de *FBN1*.
+Se han descrito más de 3.000 variantes distintas de *FBN1*[[6]].
 
 ## Herencia
 
-Es **autosómica dominante**: cada hijo de una persona afectada tiene un **50 %** de probabilidad de heredarla. Alrededor de un **25 %** de los casos se debe a una **variante nueva**, sin antecedentes en la familia.
+Es **autosómica dominante**: cada hijo de una persona afectada tiene un **50 %** de probabilidad de heredarla. Alrededor de un **25 %** de los casos[[2]] se debe a una **variante nueva**, sin antecedentes en la familia.
 
 ## Diagnóstico
 
-Se usan los **criterios de Gante revisados** (2010), que combinan:
+Se usan los **criterios de Gante revisados** (2010)[[1]], que combinan:
 
 - **Dilatación de la raíz aórtica**, medida con ecocardiograma y ajustada a la edad y el tamaño corporal (puntuación Z).
 - **Ectopia del cristalino**, que se busca con una exploración con lámpara de hendidura y pupila dilatada.
@@ -56,8 +56,8 @@ Hay que distinguirlo de otras enfermedades con signos parecidos, como el **sínd
 La esperanza de vida, que en los años setenta rondaba los 45 años, es hoy **casi normal** gracias a la vigilancia y la cirugía preventiva.
 
 - **Ecocardiograma** al diagnóstico, a los seis meses y después al menos una vez al año, o más a menudo si la aorta crece. A veces se complementa con resonancia o TAC de toda la aorta.
-- **Fármacos que reducen el estrés sobre la aorta**: **betabloqueantes** y **antagonistas del receptor de la angiotensina II** (como el losartán). Un metaanálisis de los grandes ensayos, publicado en 2022, mostró que ambos frenan el crecimiento de la raíz aórtica y que su efecto es aditivo.
-- **Cirugía preventiva** de la raíz aórtica cuando alcanza un diámetro de alrededor de **50 mm** en adultos, o antes si crece deprisa, hay antecedentes de disección en la familia o se planea un embarazo. Las técnicas que **conservan la válvula aórtica** evitan tomar anticoagulantes de por vida.
+- **Fármacos que reducen el estrés sobre la aorta**: **betabloqueantes** y **antagonistas del receptor de la angiotensina II** (como el losartán). Un metaanálisis[[3]] de los grandes ensayos, publicado en 2022, mostró que ambos frenan el crecimiento de la raíz aórtica y que su efecto es aditivo.
+- **Cirugía preventiva** de la raíz aórtica cuando alcanza un diámetro de alrededor de **50 mm** en adultos[[4]], o antes si crece deprisa, hay antecedentes de disección en la familia o se planea un embarazo. Las técnicas que **conservan la válvula aórtica** evitan tomar anticoagulantes de por vida.
 - **Revisiones oftalmológicas** anuales y control de la escoliosis.
 
 ### Actividad física
@@ -66,7 +66,7 @@ Se recomienda mantenerse activo con **ejercicio aeróbico moderado** (caminar, n
 
 ### Embarazo
 
-El embarazo aumenta el riesgo de disección aórtica, sobre todo si la raíz mide más de 40-45 mm. Debe **planificarse** con cardiología y obstetricia, con controles frecuentes y un parto en un hospital con cirugía cardíaca. Se recomienda consejo genético para valorar opciones reproductivas.
+El embarazo aumenta el riesgo de disección aórtica, sobre todo si la raíz mide más de 40-45 mm[[2]]. Debe **planificarse** con cardiología y obstetricia, con controles frecuentes y un parto en un hospital con cirugía cardíaca. Se recomienda consejo genético para valorar opciones reproductivas.
 
 ## Señales de alarma
 

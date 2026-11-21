@@ -18,7 +18,7 @@ img_pie: Rett syndrome almost always affects girls.
 
 ## What it is
 
-It was described in 1966 by Austrian paediatrician **Andreas Rett**, who noticed two girls in his waiting room making the same hand movement, as if washing their hands. The condition has a very characteristic course:
+It was described in 1966[[1]] by Austrian paediatrician **Andreas Rett**, who noticed two girls in his waiting room making the same hand movement, as if washing their hands. The condition has a very characteristic course:
 
 1. **First 6-18 months**: development seems normal or nearly normal.
 2. **Regression**, between age 1 and 4: the girl **loses the words** she had learnt and the **purposeful use of her hands**, which is replaced by repetitive **wringing, washing or hand-to-mouth** movements. Autism-like features appear.
@@ -29,19 +29,19 @@ Other common problems include **epilepsy**, **breathing** irregularities such as
 
 ## Cause
 
-In **1999**, Huda Zoghbi's team discovered that almost all cases are due to variants in the ***MECP2*** gene. Its protein binds to methylated DNA and regulates thousands of genes in mature neurons. Without it, neurons do not die, but **do not work properly**.
+In **1999**, Huda Zoghbi's team[[1]] discovered that almost all cases are due to variants in the ***MECP2*** gene. Its protein binds to methylated DNA and regulates thousands of genes in mature neurons. Without it, neurons do not die, but **do not work properly**.
 
 The gene is on the **X chromosome**. Girls have two X chromosomes, and in each cell one is switched off at random by [X inactivation](../../heredity/epigenetics/). So they have some cells with the healthy copy and others with the altered one, and severity varies with the proportion. Boys, with only one X, usually have a very severe encephalopathy in the first months of life, although some have different forms.
 
-More than 95 % of cases are **new** variants, almost always on the X chromosome in the father's sperm. The risk of it happening again in another child is under 1 %.
+More than 95 % of cases are **new** variants[[1]], almost always on the X chromosome in the father's sperm. The risk of it happening again in another child is under 1 %.
 
 ## A finding that brought hope
 
-In **2007**, **Adrian Bird**'s team in Edinburgh created mice lacking MECP2 that developed Rett-like symptoms. When they **reactivated the gene** in already ill mice, the symptoms **largely disappeared**. It showed that the neurons are not permanently damaged and that the disease could be reversible.
+In **2007**, **Adrian Bird**'s team[[2]] in Edinburgh created mice lacking MECP2 that developed Rett-like symptoms. When they **reactivated the gene** in already ill mice, the symptoms **largely disappeared**. It showed that the neurons are not permanently damaged and that the disease could be reversible.
 
 ## Treatment
 
-- In **2023** the United States approved **trofinetide**, the first specific drug, which modestly improves symptoms and communication. Diarrhoea is a common side effect.
+- In **2023** the United States approved **trofinetide**[[3]], the first specific drug, which modestly improves symptoms and communication. Diarrhoea is a common side effect.
 - Usual care is multidisciplinary: antiseizure medication, physiotherapy, occupational therapy, **augmentative communication** with boards or eye-gaze devices, and management of scoliosis and nutrition.
 - Several **gene therapies** in clinical trials deliver a copy of *MECP2* with a system to regulate its amount, because **too much MECP2 is also harmful**: duplication of the gene causes another syndrome in boys.
 

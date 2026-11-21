@@ -18,15 +18,15 @@ health: si
 
 **Familial hypercholesterolaemia** is an inherited disease in which LDL cholesterol, the so-called "bad cholesterol", is very high **from birth**. LDL is deposited in artery walls and forms plaques (**atherosclerosis**). Because the arteries are exposed to high levels all life long, the risk of **heart attack** and stroke appears much earlier than usual: without treatment, half of affected men have a coronary event before 50-55, and a third of women before 60.
 
-It is one of the **most common** genetic diseases: about **1 in 250-300** people have the heterozygous form. In Spain more than 100,000 people are estimated to be affected and **fewer than 20 %** are diagnosed.
+It is one of the **most common** genetic diseases: about **1 in 250-300** people[[1]] have the heterozygous form. In Spain more than 100,000 people are estimated to be affected and **fewer than 20 %** are diagnosed.
 
 ## Genetic cause
 
 The liver removes LDL from the blood thanks to a **receptor** on the surface of its cells, which captures it and takes it inside. In familial hypercholesterolaemia this system fails:
 
-- ***LDLR*** (over 85-90 % of genetically confirmed cases): the receptor is missing or faulty. More than 3,000 variants are known.
+- ***LDLR*** (over 85-90 % of genetically confirmed cases)[[6]]: the receptor is missing or faulty. More than 3,000 variants are known.
 - ***APOB***: the LDL protein recognised by the receptor is altered, so LDL does not "hook on".
-- ***PCSK9***: **gain-of-function** variants in a protein that destroys receptors, leaving fewer.
+- ***PCSK9***: **gain-of-function** variants[[4]] in a protein that destroys receptors, leaving fewer.
 
 Studying families with hypercholesterolaemia led Michael Brown and Joseph Goldstein to discover the LDL receptor, for which they received the **1985 Nobel Prize in Medicine**. And the discovery of *PCSK9* in French families in 2003 led to a new class of drugs within just twelve years.
 
@@ -36,11 +36,11 @@ There are also people with very high LDL in whom no variant is found: many have 
 
 It is **autosomal dominant**: each child of an affected person has a **50 %** chance of inheriting it. So when one person is diagnosed, their parents, siblings and children should be tested.
 
-The rare **homozygous** form, with two altered copies (about 1 in 300,000 people), causes extremely high levels, often above 500 mg/dl, skin xanthomas from childhood and severe cardiovascular disease before age 20 without intensive treatment.
+The rare **homozygous** form, with two altered copies (about 1 in 300,000 people)[[1]], causes extremely high levels, often above 500 mg/dl, skin xanthomas from childhood and severe cardiovascular disease before age 20 without intensive treatment.
 
 ## When to suspect it
 
-- **Very high LDL** with no other cause: above 190 mg/dl in adults or 150-160 mg/dl in children.
+- **Very high LDL** with no other cause: above 190 mg/dl in adults[[5]] or 150-160 mg/dl in children.
 - **Heart attack or angina** in young relatives: men before 55, women before 60.
 - **Relatives** with very high cholesterol.
 - **Tendon xanthomas**, especially in the Achilles tendon and the tendons on the back of the hands.
@@ -50,13 +50,13 @@ The rare **homozygous** form, with two altered copies (about 1 in 300,000 people
 
 1. **Rule out secondary causes** of high cholesterol: hypothyroidism, kidney or liver disease, some medicines.
 2. **Clinical criteria**, such as the *Dutch Lipid Clinic Network* score, which rates LDL level, family and personal history and physical findings. A high score makes the diagnosis "probable" or "definite".
-3. **Genetic testing** of *LDLR*, *APOB* and *PCSK9*: confirms the diagnosis in 60-80 % of cases with clear clinical criteria, helps estimate risk and, above all, enables **cascade screening**: targeted testing of relatives for the same variant.
+3. **Genetic testing** of *LDLR*, *APOB* and *PCSK9*: confirms the diagnosis in 60-80 % of cases with clear clinical criteria[[6]], helps estimate risk and, above all, enables **cascade screening**: targeted testing of relatives for the same variant.
 
 Cascade screening is one of the most **cost-effective** public health interventions in genetics: for each index case, several previously unaware affected relatives are usually found. Some countries, such as Slovenia, also check cholesterol in all children.
 
 ## Treatment
 
-The aim is to lower LDL as early as possible and keep it low for life. European guidelines recommend targets according to risk, for example below 70 mg/dl, or below 55 mg/dl in people at high risk or with cardiovascular disease.
+The aim is to lower LDL as early as possible and keep it low for life. European guidelines recommend targets according to risk, for example below 70 mg/dl[[2]], or below 55 mg/dl in people at high risk or with cardiovascular disease.
 
 - **Lifestyle**: a heart-healthy diet (Mediterranean-style, low in saturated fat), regular physical activity, healthy weight and, above all, **not smoking**. It helps, but on its own is not enough.
 - **High-intensity statins** (atorvastatin, rosuvastatin): the mainstay of treatment.
@@ -67,7 +67,7 @@ The aim is to lower LDL as early as possible and keep it low for life. European 
 
 ### In children
 
-Diagnosis can be made in childhood. A healthy diet and habits are recommended from an early age, and statins from **8-10 years**. A 20-year follow-up in the Netherlands showed that children treated with statins from childhood had, by age 40, a cardiovascular risk similar to that of their unaffected siblings, whereas their parents, diagnosed late, had suffered many events.
+Diagnosis can be made in childhood. A healthy diet and habits are recommended from an early age, and statins from **8-10 years**[[3]]. A 20-year follow-up in the Netherlands showed that children treated with statins from childhood had, by age 40, a cardiovascular risk similar to that of their unaffected siblings, whereas their parents, diagnosed late, had suffered many events.
 
 ## Current research
 

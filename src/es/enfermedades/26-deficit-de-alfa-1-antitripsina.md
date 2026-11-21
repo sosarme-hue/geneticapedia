@@ -22,14 +22,14 @@ La **alfa-1 antitripsina** es una proteína que fabrica el hígado y viaja por l
 
 El gen ***SERPINA1*** tiene muchas variantes, nombradas con letras según cómo se mueven en un análisis. La normal es la **M**. Las dos más importantes son:
 
-- **Z**: la proteína se pliega mal, se queda **atascada dentro del hígado** y apenas sale a la sangre. Las personas **ZZ** tienen niveles en sangre de un 10-15 % de lo normal.
+- **Z**: la proteína se pliega mal, se queda **atascada dentro del hígado** y apenas sale a la sangre. Las personas **ZZ** tienen niveles en sangre de un 10-15 % de lo no[[1]]rmal.
 - **S**: produce algo menos de proteína. Sola causa poco problema, pero la combinación **SZ** sí aumenta el riesgo.
 
-La herencia es **codominante**: cada copia aporta su parte. España y Portugal tienen la **mayor frecuencia de la variante S del mundo**, con alrededor de 1 de cada 10 personas portadoras, y la Z es más común en el norte de Europa.
+La herencia es **codominante**: cada copia aporta su parte. España y Portugal tienen la **mayor frecuencia de la variante S del mundo**[[2]], con alrededor de 1 de cada 10 personas portadoras, y la Z es más común en el norte de Europa.
 
 ## Los pulmones
 
-Las personas **ZZ** pueden desarrollar **enfisema** a los 30 o 40 años, mucho antes que la EPOC habitual, con falta de aire y tos. El **tabaco** es el factor decisivo: en los fumadores ZZ el enfisema aparece unos 10-15 años antes y su esperanza de vida se reduce mucho, mientras que muchos no fumadores ZZ viven casi con normalidad. También influyen la exposición a polvo o humos en el trabajo.
+Las personas **ZZ** pueden desarrollar **enfisema** a los 30 o 40 años[[1]], mucho antes que la EPOC habitual, con falta de aire y tos. El **tabaco** es el factor decisivo: en los fumadores ZZ el enfisema aparece unos 10-15 años antes y su esperanza de vida se reduce mucho, mientras que muchos no fumadores ZZ viven casi con normalidad. También influyen la exposición a polvo o humos en el trabajo.
 
 ## El hígado
 
@@ -46,7 +46,7 @@ Se mide el **nivel de alfa-1 antitripsina en sangre** y, si es bajo, se estudia 
 
 - **No fumar**, nunca. Es la medida más importante.
 - Vacunas frente a la gripe, el neumococo y otras infecciones respiratorias; rehabilitación respiratoria.
-- **Tratamiento sustitutivo** con alfa-1 antitripsina purificada de plasma, en infusión intravenosa semanal, para algunas personas con enfisema y niveles muy bajos. Ralentiza la pérdida de pulmón.
+- **Tratamiento sustitutivo** con alfa-1 antitripsina purificada de plasma, en infusión intravenosa semanal[[3]], para algunas personas con enfisema y niveles muy bajos. Ralentiza la pérdida de pulmón.
 - Trasplante de pulmón o de hígado en casos avanzados.
 - En investigación: **ARN de interferencia** como el fazirsirán, que apaga la producción de proteína Z en el hígado, y terapias de [edición genética](../../tratamientos/crispr-explicado/) para corregir la variante Z.
 

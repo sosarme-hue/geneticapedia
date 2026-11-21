@@ -30,7 +30,7 @@ This is the most common. The **rods** die first, then the cones:
 
 The back of the eye shows pigment deposits shaped like **bone spicules**, which give the condition its name. It progresses over decades, at a speed that depends greatly on the gene.
 
-It can be inherited in an [autosomal dominant](../../heredity/inheritance-patterns/) way (about 30-40 % of cases), **recessive** (50-60 %) or **X-linked** (5-15 %, mainly through the *RPGR* gene, with men more severely affected). A quarter of cases come with other symptoms, as in **Usher syndrome**, which combines retinitis pigmentosa and deafness.
+It can be inherited in an [autosomal dominant](../../heredity/inheritance-patterns/) way (about 30-40 % of cases)[[3]], **recessive** (50-60 %) or **X-linked** (5-15 %, mainly through the *RPGR* gene, with men more severely affected). A quarter of cases come with other symptoms, as in **Usher syndrome**, which combines retinitis pigmentosa and deafness.
 
 ## Leber congenital amaurosis
 
@@ -40,14 +40,14 @@ This is the **most severe and earliest** form: the baby is born with very poor v
 
 The ***RPE65*** gene makes an enzyme needed to regenerate visual pigment. In people with two variants in this gene, the photoreceptors survive for a while but do not work. An **adeno-associated virus** injected under the retina delivers a healthy copy of the gene.
 
-The drug, **voretigene neparvovec**, was approved in the United States in **2017** and in Europe in **2018**: it was the first [gene therapy](../../treatments/gene-therapy/) for an inherited disease in the United States. It improves vision in dim light, although it only works for this gene, which causes a small share of cases, and while living cells remain.
+The drug, **voretigene neparvovec**, was approved in the United States in **2017** and in Europe in **2018**[[2]]: it was the first [gene therapy](../../treatments/gene-therapy/) for an inherited disease in the United States. It improves vision in dim light, although it only works for this gene, which causes a small share of cases, and while living cells remain.
 
 Trials are under way for other genes, such as *RPGR* and *CEP290*, including [CRISPR](../../treatments/crispr-explained/) gene editing inside the eye, as well as gene-independent approaches such as **optogenetics** and artificial retinas.
 
 ## Diagnosis and follow-up
 
 - Examination of the back of the eye, visual fields, optical coherence tomography and **electroretinography**, which measures the retina's electrical response.
-- **Genetic testing** with a retinal gene panel finds the cause in about 60-70 % of cases. Knowing the gene gives a prognosis, the risk for relatives and access to trials.
+- **Genetic testing** with a retinal gene panel finds the cause in about 60-70 % of cases[[3]]. Knowing the gene gives a prognosis, the risk for relatives and access to trials.
 - Low-vision aids, protection from bright light and, when vision falls a lot, rehabilitation and services for blind people.
 
 ## What to ask at your appointment

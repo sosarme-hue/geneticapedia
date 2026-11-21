@@ -20,7 +20,7 @@ img_pie: Saber que una familia tiene una variante de alto riesgo permite ofrecer
 
 Todo cáncer nace de cambios en el ADN de algunas células, que empiezan a dividirse sin control. Pero casi siempre son cambios **adquiridos** a lo largo de la vida, por azar al copiarse el ADN, por el envejecimiento o por factores como el tabaco, el alcohol, la radiación ultravioleta o algunas infecciones. Esos cambios están **solo en el tumor** y no se transmiten a los hijos.
 
-Solo alrededor del **5 al 10 %** de los cánceres se deben a una variante **heredada**, presente desde el nacimiento en todas las células, que aumenta mucho el riesgo. Y en otro 15-20 % hay una agregación familiar, más casos de los esperables, por una mezcla de muchos genes de efecto pequeño y ambiente compartido.
+Solo alrededor del **5 al 10 %** de los cánceres[[5]] se deben a una variante **heredada**, presente desde el nacimiento en todas las células, que aumenta mucho el riesgo. Y en otro 15-20 % hay una agregación familiar, más casos de los esperables, por una mezcla de muchos genes de efecto pequeño y ambiente compartido.
 
 ## Por qué una variante heredada aumenta el riesgo
 
@@ -34,9 +34,9 @@ Por eso, aunque la variante se hereda de forma **dominante**, lo que se hereda e
 
 Los genes *BRCA1* (cromosoma 17) y *BRCA2* (cromosoma 13) intervienen en la reparación de roturas del ADN. *BRCA1* fue localizado en 1990 por [Mary-Claire King](../../personajes/mary-claire-king/).
 
-- Afectan a alrededor de **1 de cada 300-400** personas, más en algunas poblaciones, como la judía asquenazí (1 de cada 40).
-- **Riesgo de cáncer de mama** a lo largo de la vida en mujeres: en torno al **72 %** con *BRCA1* y al **69 %** con *BRCA2* hasta los 80 años, frente a alrededor del 12 % en la población general.
-- **Riesgo de cáncer de ovario**: en torno al **44 %** con *BRCA1* y al **17 %** con *BRCA2*.
+- Afectan a alrededor de **1 de cada 300-400** personas[[7]], más en algunas poblaciones, como la judía asquenazí (1 de cada 40).
+- **Riesgo de cáncer de mama** a lo largo de la vida en mujeres: en torno al **72 %** con *BRCA1* y al **69 %** con *BRCA2* hasta los 80 años, frente a alrededor del 12 %[[1]] en la población general.
+- **Riesgo de cáncer de ovario**: en torno al **44 %** con *BRCA1* y al **17 %** con *BRCA2*.[[1]]
 - También aumentan el riesgo de cáncer de **próstata** (sobre todo *BRCA2*, con formas más agresivas), de **páncreas** y de cáncer de **mama en varones**.
 
 Otros genes de riesgo moderado o alto de cáncer de mama son *PALB2*, *CHEK2*, *ATM*, *RAD51C*, *RAD51D*, *TP53* o *CDH1*.
@@ -45,7 +45,7 @@ Otros genes de riesgo moderado o alto de cáncer de mama son *PALB2*, *CHEK2*, *
 
 Lo causan variantes en genes de **reparación de errores de emparejamiento** del ADN: *MLH1*, *MSH2*, *MSH6*, *PMS2* y *EPCAM*.
 
-- Es la causa hereditaria más frecuente de **cáncer colorrectal** y de **endometrio**. Afecta a alrededor de **1 de cada 300** personas, aunque la mayoría no lo sabe.
+- Es la causa hereditaria más frecuente de **cáncer colorrectal** y de **endometrio**. Afecta a alrededor de **1 de cada 300** personas[[2]], aunque la mayoría no lo sabe.
 - El riesgo varía mucho según el gen: es más alto con *MLH1* y *MSH2* y más bajo con *PMS2*.
 - También aumenta el riesgo de cáncer de ovario, estómago, intestino delgado, vías urinarias y vías biliares.
 - Los tumores tienen una "firma" característica, la **inestabilidad de microsatélites**, que se busca de forma sistemática en todos los cánceres colorrectales y de endometrio para detectar familias con Lynch.
@@ -84,8 +84,8 @@ Cada vez más, el estudio genético se hace también **en el momento del diagnó
 
 Saber que se tiene una variante de alto riesgo permite:
 
-- **Vigilancia intensificada**: en portadoras de *BRCA*, resonancia magnética de mama anual desde los 25-30 años y mamografía desde los 30-35; en el síndrome de Lynch, **colonoscopia cada 1-2 años** desde los 25 años, lo que reduce de forma clara el riesgo de morir por cáncer colorrectal.
-- **Cirugías reductoras de riesgo**: la extirpación de **ovarios y trompas** (salpingo-ooforectomía) tras completar el deseo reproductivo, en torno a los 35-40 años con *BRCA1* y 40-45 con *BRCA2*, reduce el riesgo de cáncer de ovario en más del 80 % y la mortalidad global. La **mastectomía** reductora de riesgo reduce el de mama en más del 90 %; es una decisión personal que se toma con calma y apoyo.
+- **Vigilancia intensificada**: en portadoras de *BRCA*, resonancia magnética de mama anual desde los 25-30 años[[4]] y mamografía desde los 30-35; en el síndrome de Lynch, **colonoscopia cada 1-2 años** desde los 25 años, lo que reduce de forma clara el riesgo de morir por cáncer colorrectal.
+- **Cirugías reductoras de riesgo**: la extirpación de **ovarios y trompas** (salpingo-ooforectomía) tras completar el deseo reproductivo, en torno a los 35-40 años[[4]] con *BRCA1* y 40-45 con *BRCA2*, reduce el riesgo de cáncer de ovario en más del 80 % y la mortalidad global. La **mastectomía** reductora de riesgo reduce el de mama en más del 90 %; es una decisión personal que se toma con calma y apoyo.
 - **Prevención con fármacos**: la **aspirina** diaria reduce el riesgo de cáncer colorrectal en el síndrome de Lynch, según un ensayo clínico de largo plazo.
 - **Tratamientos dirigidos**: los **inhibidores de PARP** (olaparib y otros) aprovechan el fallo de reparación del ADN de los tumores con *BRCA* y se usan en cáncer de ovario, mama, páncreas y próstata. Los tumores de Lynch, con muchas mutaciones, suelen responder muy bien a la **inmunoterapia**.
 - **Decisiones reproductivas**: diagnóstico prenatal o preimplantacional, si la persona lo desea.

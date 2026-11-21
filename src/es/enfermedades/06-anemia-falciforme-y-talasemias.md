@@ -33,7 +33,7 @@ Se debe a un cambio de **una sola letra** en el gen ***HBB***: una adenina susti
 
 La hemoglobina alterada (**HbS**) se agrupa en fibras rígidas cuando hay poco oxígeno y deforma los glóbulos rojos en forma de **hoz** (*falx*, en latín). Esos glóbulos rígidos y pegajosos:
 
-- se rompen antes de tiempo (viven unos 10-20 días en lugar de 120), causando **anemia** crónica;
+- se rompen antes de tiempo (viven unos 10-20 días en lugar de 120)[[1]], causando **anemia** crónica;
 - **obstruyen los vasos pequeños**, lo que produce **crisis de dolor** muy intensas y daño en casi cualquier órgano.
 
 ### Síntomas y complicaciones
@@ -52,11 +52,11 @@ Es una enfermedad que acorta la vida: en los países de bajos ingresos, la mayor
 
 Es **autosómica recesiva**. Las personas con una sola copia de HbS tienen el **rasgo falciforme**: suelen estar sanas, aunque en condiciones extremas, como deshidratación grave o gran altitud, pueden tener complicaciones.
 
-Cada año nacen en el mundo más de **300.000** niños con anemia falciforme, la mayoría en el **África subsahariana**, la India y Oriente Medio. Con las migraciones, es cada vez más frecuente en Europa: en España se incluye en la **prueba del talón** en todas las comunidades.
+Cada año nacen en el mundo más de **300.000** niños[[3,7]] con anemia falciforme, la mayoría en el **África subsahariana**, la India y Oriente Medio. Con las migraciones, es cada vez más frecuente en Europa: en España se incluye en la **prueba del talón** en todas las comunidades.
 
 ## La relación con la malaria
 
-¿Por qué una variante tan dañina es tan frecuente? Porque las personas **portadoras** están **protegidas frente a la malaria grave**. En las regiones donde la malaria ha sido frecuente durante miles de años, los portadores sobrevivían más y tenían más hijos, y la variante se mantuvo con frecuencias de hasta el 20-30 %. Lo propuso el médico Anthony Allison en 1954 y es uno de los ejemplos más claros de **selección natural** en humanos. Algo parecido ocurre con las talasemias.
+¿Por qué una variante tan dañina es tan frecuente? Porque las personas **portadoras** están **protegidas frente a la malaria grave**[[6]]. En las regiones donde la malaria ha sido frecuente durante miles de años, los portadores sobrevivían más y tenían más hijos, y la variante se mantuvo con frecuencias de hasta el 20-30 %. Lo propuso el médico Anthony Allison en 1954 y es uno de los ejemplos más claros de **selección natural** en humanos. Algo parecido ocurre con las talasemias.
 
 !fig malaria-falciforme.jpg | Mapas comparados de la distribución de la malaria y del gen de la anemia falciforme | La distribución geográfica del gen de la hemoglobina S coincide con la de la malaria por *Plasmodium falciparum*.
 
@@ -68,7 +68,7 @@ Hay distintos grados:
 
 - **Portador (rasgo talasémico o talasemia menor)**: anemia leve o ninguna, glóbulos rojos pequeños. Es muy frecuente y se confunde a menudo con **falta de hierro**. No necesita tratamiento, y tomar hierro sin tenerlo bajo puede ser perjudicial. Es importante saberlo antes de un embarazo, por si la pareja también es portadora.
 - **Talasemia intermedia** o no dependiente de transfusiones: anemia moderada.
-- **Talasemia mayor** (beta-talasemia grave o anemia de Cooley): anemia grave desde el primer año de vida, que necesita **transfusiones cada 2-4 semanas** de por vida. Las transfusiones acumulan **hierro** en el corazón, el hígado y las glándulas, por lo que se necesitan **quelantes del hierro**.
+- **Talasemia mayor** (beta-talasemia grave o anemia de Cooley): anemia grave desde el primer año de vida, que necesita **transfusiones cada 2-4 semanas**[[2]] de por vida. Las transfusiones acumulan **hierro** en el corazón, el hígado y las glándulas, por lo que se necesitan **quelantes del hierro**.
 - En la alfa-talasemia, la forma más grave (ausencia de los cuatro genes alfa) suele ser incompatible con la vida antes de nacer.
 
 ## Diagnóstico
@@ -84,7 +84,7 @@ Hay distintos grados:
 ### Anemia falciforme
 
 - **Prevención de infecciones**: penicilina diaria en la infancia y vacunas.
-- **Hidroxiurea**: aumenta la hemoglobina fetal, que impide que la HbS forme fibras. Reduce las crisis de dolor, el síndrome torácico agudo, las transfusiones y la mortalidad. Es el tratamiento de base desde los 9 meses de edad.
+- **Hidroxiurea**: aumenta la hemoglobina fetal[[1]], que impide que la HbS forme fibras. Reduce las crisis de dolor, el síndrome torácico agudo, las transfusiones y la mortalidad. Es el tratamiento de base desde los 9 meses de edad.
 - **Ecografía Doppler transcraneal** anual entre los 2 y los 16 años para detectar el riesgo de ictus, y transfusiones periódicas si es alto.
 - **Tratamiento del dolor** rápido y adecuado en las crisis.
 - **Trasplante de médula ósea** de un hermano compatible: puede curar, sobre todo en niños.
@@ -99,7 +99,7 @@ Hay distintos grados:
 
 Las hemoglobinopatías han sido pioneras de la medicina genética:
 
-- **Exagamglogén autotemcel** (Casgevy), aprobado en el Reino Unido en noviembre de 2023, en EE. UU. en diciembre de 2023 y en la Unión Europea a principios de 2024, es el **primer medicamento basado en CRISPR**. Se extraen células madre de la sangre del paciente, se edita con CRISPR un "interruptor" del gen *BCL11A* para volver a encender la **hemoglobina fetal** y se reinfunden. En los ensayos, más del 90 % de los pacientes con anemia falciforme quedó libre de crisis graves durante al menos un año, y la gran mayoría de los pacientes con talasemia dejó de necesitar transfusiones.
+- **Exagamglogén autotemcel** (Casgevy), aprobado en el Reino Unido en noviembre de 2023, en EE. UU. en diciembre de 2023 y en la Unión Europea a principios de 2024[[4,5]], es el **primer medicamento basado en CRISPR**. Se extraen células madre de la sangre del paciente, se edita con CRISPR un "interruptor" del gen *BCL11A* para volver a encender la **hemoglobina fetal** y se reinfunden. En los ensayos, más del 90 % de los pacientes con anemia falciforme quedó libre de crisis graves durante al menos un año, y la gran mayoría de los pacientes con talasemia dejó de necesitar transfusiones.
 - **Terapias génicas con lentivirus**, que añaden un gen de hemoglobina funcional a las células madre.
 
 Son tratamientos complejos: exigen **quimioterapia** previa para vaciar la médula, con efectos sobre la fertilidad, ingresos largos y un precio de millones de euros por paciente. El gran reto es que lleguen a los países donde la enfermedad es más frecuente.

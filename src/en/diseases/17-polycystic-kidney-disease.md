@@ -20,7 +20,7 @@ img_pie: The kidneys, which in polycystic kidney disease can come to weigh sever
 
 **Autosomal dominant polycystic kidney disease** (ADPKD) is the **most common inherited kidney disease** in the world. From birth, **cysts** begin to form in the kidneys: fluid-filled sacs that grow slowly over decades. Over time the kidneys may reach several times their normal size, weigh several kilos each and lose their function.
 
-It accounts for about **5–10 % of people on dialysis or with a kidney transplant** in Europe. But it is very variable: some people reach kidney failure at 40, while others keep working kidneys into old age.
+It accounts for about **5–10 % of people on dialysis or with a kidney transplant** in Europe[[1]]. But it is very variable: some people reach kidney failure at 40, while others keep working kidneys into old age.
 
 ## Cause
 
@@ -29,8 +29,8 @@ The ***PKD1*** and ***PKD2*** genes make **polycystin-1** and **polycystin-2**, 
 As in [hereditary cancer](../hereditary-cancer/) and [neurofibromatosis](../neurofibromatosis-type-1/), each cyst is thought to start when a cell also loses its healthy copy of the gene, or when the amount of working protein falls below a threshold.
 
 - **Autosomal dominant inheritance**: each child of an affected person has a 50 % chance of inheriting it.
-- Variants in ***PKD1***, especially those that truncate the protein, cause earlier disease: kidney failure arrives on average at around **55–60**, compared with about **75–80** with *PKD2*.
-- About 10 % of cases have no family history, because of new variants or relatives with undiagnosed mild forms.
+- Variants in ***PKD1***, especially those that truncate the protein, cause earlier disease: kidney failure arrives on average at around **55–60**[[1]], compared with about **75–80** with *PKD2*.
+- About 10 % of cases have no family history[[1]], because of new variants or relatives with undiagnosed mild forms.
 - Other genes, such as *GANAB* or *DNAJB11*, cause rare, mild forms.
 
 ## Symptoms
@@ -46,12 +46,12 @@ For many years there are no symptoms. The first usually appear between **30 and 
 Outside the kidney:
 
 - **Liver cysts** in most adults. They are usually harmless, but in some women the liver grows a great deal (oestrogen encourages this).
-- **Brain aneurysms** in 9–12 %, more in families where one has already occurred. Their rupture is the most feared complication.
+- **Brain aneurysms** in 9–12 %[[1]], more in families where one has already occurred. Their rupture is the most feared complication.
 - Heart valve changes and hernias.
 
 ## Diagnosis
 
-In someone with a family history, **ultrasound** is usually enough. There are age-based criteria: for example, between 15 and 39, three or more cysts in total in the two kidneys confirm the diagnosis. A normal scan from age 40 practically rules it out.
+In someone with a family history, **ultrasound** is usually enough. There are age-based criteria: for example, between 15 and 39[[4]], three or more cysts in total in the two kidneys confirm the diagnosis. A normal scan from age 40 practically rules it out.
 
 **Genetic testing** is used when imaging is inconclusive, when there is no family history, when a young relative wants to donate a kidney, or to plan a pregnancy with [preimplantation testing](../../diagnosis/carrier-and-preimplantation-testing/).
 
@@ -59,8 +59,8 @@ To estimate the outlook, **total kidney volume** is measured on MRI and adjusted
 
 ## Treatment
 
-- **Controlling blood pressure**: a low target is aimed for, especially in young people, with drugs that block the renin–angiotensin system. A 2014 trial showed that lower blood pressure slowed kidney growth.
-- **Tolvaptan**: a drug that blocks the antidiuretic hormone (vasopressin) in the kidney and so lowers cyclic AMP. In the TEMPO 3:4 trial it reduced kidney growth and loss of function. It has been approved in Europe since 2015 for adults with rapidly progressing disease. It causes a large urine output, so people must drink several litres a day, and it requires regular liver tests.
+- **Controlling blood pressure**: a low target is aimed for, especially in young people, with drugs that block the renin–angiotensin system. A 2014 trial showed that lower blood pressure slowed kidney growth[[3]].
+- **Tolvaptan**: a drug that blocks the antidiuretic hormone (vasopressin) in the kidney and so lowers cyclic AMP. In the TEMPO 3:4 trial it reduced kidney growth and loss of function[[2]]. It has been approved in Europe since 2015 for adults with rapidly progressing disease. It causes a large urine output, so people must drink several litres a day, and it requires regular liver tests.
 - **Drinking plenty of water**, cutting salt and moderating protein, keeping a healthy weight and not smoking.
 - **Dialysis and kidney transplantation** when the kidneys fail. Transplant results in these patients are very good, because the disease does not come back in the new kidney.
 - **Screening for brain aneurysms** with MR angiography in people with a family history of aneurysm or brain haemorrhage, or in high-risk jobs.

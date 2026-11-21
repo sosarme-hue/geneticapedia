@@ -35,10 +35,10 @@ Almost all cases are **new** in the family and the recurrence risk is low, excep
 
 ## Prader-Willi syndrome
 
-It was described in 1956 by the Swiss doctors Andrea Prader, Alexis Labhart and Heinrich Willi. It has two phases:
+It was described in 1956[[1]] by the Swiss doctors Andrea Prader, Alexis Labhart and Heinrich Willi. It has two phases:
 
 1. **At birth**: the baby is very **floppy (hypotonic)**, barely sucks and often needs tube feeding.
-2. **From age 2-4**: **hyperphagia** appears, a hunger that is never satisfied because the hypothalamus does not send the fullness signal. Without control of access to food, it leads to **severe obesity**, the main cause of complications.
+2. **From age 2-4**[[3]]: **hyperphagia** appears, a hunger that is never satisfied because the hypothalamus does not send the fullness signal. Without control of access to food, it leads to **severe obesity**, the main cause of complications.
 
 There is also short stature, small hands and feet, hypogonadism, mild or moderate intellectual disability and behavioural problems such as tantrums or obsessive behaviour.
 
@@ -46,11 +46,11 @@ There is also short stature, small hands and feet, hypogonadism, mild or moderat
 
 ## Angelman syndrome
 
-It was described in 1965 by British paediatrician Harry Angelman. Children have:
+It was described in 1965[[2]] by British paediatrician Harry Angelman. Children have:
 
 - **Severe intellectual disability** and almost no **spoken language**, although they understand more than they can express and many communicate with signs or tablets.
 - **Balance** problems and jerky movements.
-- **Epilepsy** in more than 80 %.
+- **Epilepsy** in more than 80 %[[2]].
 - A very **happy** demeanour, with frequent laughter and a fascination with water.
 - **Sleep** problems.
 
@@ -58,7 +58,7 @@ It was described in 1965 by British paediatrician Harry Angelman. Children have:
 
 ## Diagnosis
 
-A **methylation test** of the 15q11-q13 region detects more than 99 % of Prader-Willi cases and about 80 % of Angelman cases. The mechanism is then studied, because it changes the risk for other children. In Angelman, if methylation is normal, *UBE3A* is sequenced.
+A **methylation test** of the 15q11-q13 region detects more than 99 % of Prader-Willi cases[[1]] and about 80 % of Angelman cases[[2]]. The mechanism is then studied, because it changes the risk for other children. In Angelman, if methylation is normal, *UBE3A* is sequenced.
 
 ## What to ask at your appointment
 

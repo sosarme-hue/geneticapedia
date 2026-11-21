@@ -24,10 +24,10 @@ It is the only complete loss of a chromosome compatible with life, but only part
 
 ## Types and cause
 
-- **45,X monosomy**: about 40–50 % of cases. All cells have a single X.
+- **45,X monosomy**: about 40–50 % of cases[[2]]. All cells have a single X.
 - **Mosaicism** (for example 45,X/46,XX): some cells have two X chromosomes. This usually gives a milder picture, and some women have spontaneous periods and even pregnancies.
 - **Structural changes in the X**: an X with a duplicated arm (isochromosome), a ring X, or an X with a missing piece.
-- **Y chromosome material** in some cells: found in 5–10 % and raises the risk of a gonadal tumour (gonadoblastoma), so removal of the gonads is recommended.
+- **Y chromosome material** in some cells: found in 5–10 %[[1]] and raises the risk of a gonadal tumour (gonadoblastoma), so removal of the gonads is recommended.
 
 Loss of the X does not depend on the mother's age, unlike Down syndrome. In most cases the missing X is the **father's**.
 
@@ -37,9 +37,9 @@ Whether a woman has an extra or a missing X matters less than one might think, b
 
 ## Features
 
-- **Short stature**: the most consistent feature. Without treatment, average adult height is about 20 cm less than that of other women in the population, around 143–147 cm.
+- **Short stature**: the most consistent feature. Without treatment, average adult height is about 20 cm less than that of other women in the population, around 143–147 c[[2]]m.
 - **Ovarian insufficiency**: the ovaries form, but the eggs are lost rapidly, often before birth. Most do not start puberty without treatment and are **infertile**.
-- **Heart and aorta**: 25–50 % have a malformation, mainly a **bicuspid aortic valve** and **coarctation of the aorta**. The most serious risk is **dilatation and dissection of the aorta**, which requires lifelong monitoring.
+- **Heart and aorta**: 25–50 % have a malformation[[1]], mainly a **bicuspid aortic valve** and **coarctation of the aorta**. The most serious risk is **dilatation and dissection of the aorta**, which requires lifelong monitoring.
 - **Kidneys**: a horseshoe kidney or other changes in a third.
 - **Lymphoedema** of the hands and feet at birth, a broad or "webbed" neck, a low hairline, small nails.
 - **Ears**: frequent ear infections in childhood and hearing loss in adulthood.
@@ -50,13 +50,13 @@ Whether a woman has an extra or a missing X matters less than one might think, b
 
 It can be suspected **before birth**, from increased nuchal translucency, a cystic hygroma or a heart defect on ultrasound, or from [prenatal cell-free DNA screening](../../diagnosis/newborn-and-prenatal-screening/), which must always be confirmed with a diagnostic test. After birth it is suspected because of lymphoedema or the heart defect, and in childhood above all because of **short stature** or **puberty that does not come**. A significant number of cases are diagnosed late, in adolescence.
 
-Confirmation is by a blood **karyotype**, counting at least 30 cells to detect mosaicism. If Y material is suspected, it is looked for with molecular techniques.
+Confirmation is by a blood **karyotype**, counting at least 30 cells[[1]] to detect mosaicism. If Y material is suspected, it is looked for with molecular techniques.
 
 ## Treatment and follow-up
 
-The 2024 international guidelines recommend lifelong follow-up by multidisciplinary teams:
+The 2024 international guidelines[[1]] recommend lifelong follow-up by multidisciplinary teams:
 
-- **Growth hormone**: started as soon as height falls behind, often at age 4–6. On average it adds about 5–8 cm to adult height.
+- **Growth hormone**: started as soon as height falls behind, often at age 4–6. On average it adds about 5–8 cm to adult height[[1]].
 - **Oestrogen**: started at around 11–12 in low, increasing doses to induce a puberty similar to that of classmates, and continued until the usual age of menopause to protect bones and heart.
 - **Fertility**: in adolescents with mosaicism, egg preservation may be considered. Many women with Turner syndrome have become mothers through **egg donation**, but pregnancy carries a high cardiovascular risk and requires a heart assessment beforehand.
 - **Heart**: an echocardiogram or MRI at diagnosis and regular checks of the aorta and blood pressure.
