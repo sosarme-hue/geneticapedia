@@ -60,6 +60,16 @@ It was described in 1965 by British paediatrician Harry Angelman. Children have:
 
 A **methylation test** of the 15q11-q13 region detects more than 99 % of Prader-Willi cases and about 80 % of Angelman cases. The mechanism is then studied, because it changes the risk for other children. In Angelman, if methylation is normal, *UBE3A* is sequenced.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which mechanism causes it: deletion, uniparental disomy or an imprinting defect?
+- Which eating and weight plan does he or she need?
+- Is growth hormone appropriate?
+- What educational and behavioural support will help most?
+- Depending on the mechanism, what is the risk in a future pregnancy?
+
 ## Where to learn more
 
 - Spanish Prader-Willi Syndrome Association

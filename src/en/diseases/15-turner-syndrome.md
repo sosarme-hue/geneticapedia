@@ -66,6 +66,16 @@ The 2024 international guidelines recommend lifelong follow-up by multidisciplin
 
 Women with Turner syndrome study, work, have partners and live independently. Life expectancy is somewhat below average, mainly because of cardiovascular complications, which is why good follow-up makes a difference. Early diagnosis also allows growth hormone to be started in time and puberty to be planned.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which heart, kidney, hearing and thyroid checks does she need?
+- When should growth hormone and oestrogen start?
+- What fertility options are there, and when should we discuss them?
+- Which heart precautions are needed if she seeks a pregnancy in the future?
+- Who will coordinate her follow-up in adult life?
+
 ## Where to learn more
 
 - Turner Syndrome Support Society (UK)

@@ -46,6 +46,16 @@ In the clinical trial, treated children grew about **1.6 cm more per year** than
 
 Not everyone with achondroplasia sees short stature as something to be treated. Some associations argue that what matters is **accessibility** and **acceptance**, and that treatment decisions should be made with full information and without pressure. Other families value the treatment. It is a decision for each family with their medical team.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which checks are needed in the early years, especially of the junction between the skull and the spine?
+- Is he or she a candidate for vosoritide, and what can we expect from it?
+- What should we do about ears, sleep and weight?
+- How do we adapt the home and school?
+- If one parent has achondroplasia, what is the risk in each pregnancy?
+
 ## Where to learn more
 
 - Fundación ALPE Acondroplasia (Spain)

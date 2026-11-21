@@ -74,6 +74,16 @@ Confirmation is by a blood **karyotype**. Hormone tests show low testosterone an
 
 Most men with Klinefelter syndrome study, work, have partners and lead normal lives. The biggest problem is that **many are not diagnosed** and miss years of testosterone treatment and the chance to preserve fertility. Raising awareness among paediatricians, endocrinologists and urologists is a priority for patient organisations.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Do I need testosterone treatment, and from when?
+- What fertility options do I have, such as testicular sperm extraction?
+- Which bone, metabolic and breast checks should I have?
+- What learning or language support can help a child with this diagnosis?
+- Does it have any implications for my relatives?
+
 ## Where to learn more
 
 - Klinefelter's Syndrome Association (UK)

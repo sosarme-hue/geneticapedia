@@ -80,6 +80,16 @@ No hay tratamiento curativo, pero la intervención temprana marca la diferencia:
 
 Se han ensayado fármacos dirigidos al mecanismo de la enfermedad, como moduladores de receptores de glutamato, con resultados por ahora decepcionantes en humanos. Hay ensayos en marcha con nuevas moléculas, como inhibidores de la enzima PDE4D, con resultados preliminares prometedores, y estrategias para reactivar el gen silenciado.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Cuántas repeticiones CGG tiene el gen *FMR1* y qué significa: premutación o mutación completa?
+- ¿Qué apoyo educativo, logopedia y terapia conductual le convienen?
+- Si soy portadora de la premutación, ¿qué riesgos tengo para mi salud y mi fertilidad?
+- ¿Qué familiares deberían estudiarse?
+- ¿Qué opciones tenemos en un próximo embarazo?
+
 ## Dónde informarse
 
 - Federación Española del Síndrome X Frágil

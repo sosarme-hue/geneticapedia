@@ -80,6 +80,16 @@ There is no cure, but early intervention makes a difference:
 
 Drugs targeting the disease mechanism, such as glutamate receptor modulators, have been tested with disappointing results in humans so far. Trials of new molecules are under way, such as PDE4D enzyme inhibitors, with promising preliminary results, along with strategies to reactivate the silenced gene.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- How many CGG repeats are there in the *FMR1* gene, and what does it mean: premutation or full mutation?
+- Which educational support, speech therapy and behavioural therapy are right?
+- If I carry the premutation, what risks are there for my health and fertility?
+- Which relatives should be tested?
+- What options do we have in a future pregnancy?
+
 ## Where to learn more
 
 - [National Fragile X Foundation](https://fragilex.org/)

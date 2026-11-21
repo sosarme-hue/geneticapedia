@@ -77,6 +77,16 @@ La **esperanza de vida** ha pasado de unos 10 años en 1960 a alrededor de **60 
 - Estudios sobre los genes del cromosoma 21 que más influyen en el aprendizaje y la memoria.
 - En el laboratorio se ha conseguido "silenciar" el cromosoma 21 extra en células en cultivo, una línea de investigación básica todavía muy lejos de una aplicación clínica.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué revisiones de corazón, tiroides, vista y oído necesita mi hijo o hija, y cada cuánto?
+- ¿A qué servicio de atención temprana nos pueden derivar?
+- ¿El cariotipo muestra una trisomía libre, una translocación o un mosaicismo?
+- Si es una translocación, ¿deberíamos hacernos un cariotipo los padres?
+- ¿Qué riesgo tenemos en un próximo embarazo y qué pruebas se nos pueden ofrecer?
+
 ## Dónde informarse
 
 - [Down España](https://www.sindromedown.net/)

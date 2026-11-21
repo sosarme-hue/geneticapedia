@@ -83,6 +83,16 @@ La hemofilia es una de las enfermedades donde la terapia génica ha llegado a la
 
 Son tratamientos para adultos seleccionados, muy caros, y con incógnitas sobre su duración a largo plazo. No todos los pacientes pueden recibirlos, por ejemplo si tienen anticuerpos contra el virus. Algunos se han retirado del mercado por motivos comerciales.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Mi hemofilia es leve, moderada o grave, y qué nivel de factor tengo?
+- ¿Me conviene la profilaxis y con qué tratamiento: factor, emicizumab u otro?
+- ¿Soy candidato a terapia génica y dónde se ofrece?
+- ¿Qué hago si tengo un golpe o una hemorragia, y a qué centro debo acudir?
+- ¿Deberían estudiarse mis hermanas, mis hijas o mi madre para saber si son portadoras?
+
 ## Dónde informarse
 
 - [Federación Española de Hemofilia (Fedhemo)](https://fedhemo.com/)

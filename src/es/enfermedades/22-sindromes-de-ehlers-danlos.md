@@ -48,6 +48,16 @@ Es con diferencia el más frecuente, pero **no tiene una prueba genética**: se 
 - No hay tratamiento curativo. Se recomienda **fisioterapia** para fortalecer los músculos que estabilizan las articulaciones, ejercicio adaptado, control del dolor y apoyo psicológico.
 - Proteger la piel, avisar antes de cirugías y, en el tipo vascular, seguimiento de las arterias.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué tipo de Ehlers-Danlos tengo y se ha confirmado con un estudio genético?
+- Si es el tipo vascular, ¿qué controles de las arterias necesito?
+- ¿Qué ejercicio y qué fisioterapia me ayudan a proteger las articulaciones?
+- ¿Qué hago con el dolor crónico y el cansancio?
+- ¿Qué precauciones conviene tomar en un embarazo o una cirugía?
+
 ## Dónde informarse
 
 - Asociación Nacional de Síndromes de Ehlers-Danlos e Hiperlaxitud (ANSEDH)

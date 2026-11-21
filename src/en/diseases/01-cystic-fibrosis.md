@@ -101,6 +101,16 @@ In the 1960s most children with cystic fibrosis did not reach school age. Today,
 
 **Can they have children?** Yes. Women are usually fertile, and many men can become fathers with assisted reproduction. Genetic counselling and testing of the partner are recommended.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which *CFTR* variants do I have, and am I eligible for a CFTR modulator?
+- How often should I have spirometry, sputum cultures and check-ups at the cystic fibrosis centre?
+- Which exercise and airway clearance techniques suit my situation?
+- Should my siblings or my partner have carrier testing?
+- If we are thinking of having children, what prenatal or preimplantation testing options are there?
+
 ## Where to learn more
 
 - [Spanish Cystic Fibrosis Federation](https://fibrosisquistica.org/)

@@ -1,6 +1,6 @@
 ---
 title: Rett syndrome
-desc: A brain development disorder that affects almost only girls. After a seemingly normal first year, they lose speech and the use of their hands. Mouse experiments showed it can be reversed, and the first drug now exists.
+desc: A brain development disorder that affects almost only girls. After a seemingly normal first year, they lose speech and the use of their hands. Mouse experiments showed it can be reversed, and in 2023 the United States approved the first drug.
 health: si
 img: rett.jpg
 img_alt: Girl with Rett syndrome
@@ -46,6 +46,16 @@ In **2007**, **Adrian Bird**'s team in Edinburgh created mice lacking MECP2 that
 - Several **gene therapies** in clinical trials deliver a copy of *MECP2* with a system to regulate its amount, because **too much MECP2 is also harmful**: duplication of the gene causes another syndrome in boys.
 
 Many women with Rett reach adulthood and live beyond 50.
+
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which variant is there in the *MECP2* gene?
+- Is she a candidate for trofinetide or a clinical trial?
+- Which epilepsy, breathing, spine and heart checks does she need?
+- Which communication therapies, such as eye-gaze devices, can we try?
+- Is it a new variant, and what is the risk for other children?
 
 ## Where to learn more
 

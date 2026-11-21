@@ -76,6 +76,16 @@ There is not yet a treatment that corrects the cause, but **structured follow-up
 
 Myotonic dystrophy is one of the most active targets for **RNA therapies**. Several drugs in clinical trials use **antisense oligonucleotides** or RNA interference attached to antibodies that carry them into muscle, to destroy the toxic RNA and free MBNL1. Early results in 2024 and 2025 showed improved splicing in muscle and signs of functional improvement, and larger trials are under way. [CRISPR gene editing](../../treatments/crispr-explained/) to remove the repeat is also being studied.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- How many CTG repeats do I have, and which type of myotonic dystrophy is it?
+- How often do I need an ECG or Holter monitoring?
+- What precautions should I take before an anaesthetic?
+- What can I do about tiredness, sleepiness or cataracts?
+- What is the risk for my children, and why can it be more severe in the next generation?
+
 ## Where to learn more
 
 - Muscular Dystrophy UK

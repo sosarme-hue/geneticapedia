@@ -1,6 +1,6 @@
 ---
 title: Síndrome de Rett
-desc: Una enfermedad del desarrollo del cerebro que afecta casi solo a niñas. Tras un primer año aparentemente normal, pierden el habla y el uso de las manos. Experimentos en ratones demostraron que es reversible, y ya existe el primer fármaco.
+desc: Una enfermedad del desarrollo del cerebro que afecta casi solo a niñas. Tras un primer año aparentemente normal, pierden el habla y el uso de las manos. Experimentos en ratones demostraron que es reversible, y en 2023 Estados Unidos aprobó el primer fármaco.
 health: si
 img: rett.jpg
 img_alt: Niña con síndrome de Rett
@@ -46,6 +46,16 @@ En **2007**, el equipo de **Adrian Bird** en Edimburgo creó ratones a los que l
 - Hay varias **terapias génicas** en ensayos clínicos que llevan una copia de *MECP2* con un sistema para regular su cantidad, porque **demasiada MECP2 también es perjudicial**: la duplicación del gen causa otro síndrome en niños.
 
 Muchas mujeres con Rett llegan a la edad adulta y viven más de 50 años.
+
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué variante tiene en el gen *MECP2*?
+- ¿Es candidata a la trofinetida o a algún ensayo clínico?
+- ¿Qué controles de epilepsia, respiración, columna y corazón necesita?
+- ¿Qué terapias de comunicación, como los comunicadores con la mirada, podemos probar?
+- ¿Es una variante nueva y qué riesgo hay para otros hijos?
 
 ## Dónde informarse
 

@@ -52,6 +52,16 @@ Se mide el **nivel de alfa-1 antitripsina en sangre** y, si es bajo, se estudia 
 
 España tiene un **registro nacional**, el REDAAT, que forma parte del registro internacional EARCO.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué genotipo tengo (PiZZ, PiSZ u otro) y cuál es mi nivel de alfa-1 antitripsina?
+- ¿Me corresponde el tratamiento sustitutivo por vía intravenosa?
+- ¿Cada cuánto debo revisar el pulmón y el hígado?
+- ¿Qué vacunas necesito y cómo evito el humo y otras exposiciones?
+- ¿Deberían hacerse el análisis mis hermanos e hijos?
+
 ## Dónde informarse
 
 - Asociación Alfa-1 de España

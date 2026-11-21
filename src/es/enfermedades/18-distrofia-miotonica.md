@@ -76,6 +76,16 @@ No hay todavía un tratamiento que corrija la causa, pero un **seguimiento estru
 
 La distrofia miotónica es una de las dianas más activas de las **terapias de ARN**. Varios fármacos en ensayos clínicos usan **oligonucleótidos antisentido** o ARN de interferencia unidos a anticuerpos que los llevan al músculo, para destruir el ARN tóxico y liberar a MBNL1. Los primeros resultados, entre 2024 y 2025, mostraron que el *splicing* mejoraba en el músculo y había señales de mejoría funcional, y ya hay ensayos más grandes en marcha. También se estudia la [edición genética con CRISPR](../../tratamientos/crispr-explicado/) para eliminar la repetición.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Cuántas repeticiones CTG tengo y qué tipo de distrofia miotónica es?
+- ¿Cada cuánto necesito un electrocardiograma o un holter?
+- ¿Qué precauciones debo tomar antes de una anestesia?
+- ¿Qué puedo hacer contra el cansancio, la somnolencia o las cataratas?
+- ¿Qué riesgo hay para mis hijos y por qué puede ser más grave en la siguiente generación?
+
 ## Dónde informarse
 
 - Federación ASEM (Federación Española de Enfermedades Neuromusculares)

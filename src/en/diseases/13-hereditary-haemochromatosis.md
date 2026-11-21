@@ -80,6 +80,16 @@ People are also advised to **avoid alcohol** if there is liver damage, not to ta
 
 If treated **before cirrhosis or diabetes develops**, life expectancy is **normal**. Tiredness and some liver changes improve, although joint damage and established cirrhosis do not go away. **Early detection** is therefore the key. Population screening is debated, but at present testing is mainly recommended for relatives and for people with abnormal iron tests.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- What are my ferritin and transferrin saturation, and do I have two copies of C282Y?
+- Do I need venesections, how often and down to what level?
+- Is there damage to my liver, heart or pancreas, and how do we check?
+- Should I change anything about my diet or alcohol?
+- Should my siblings be tested?
+
 ## Where to learn more
 
 - Haemochromatosis UK

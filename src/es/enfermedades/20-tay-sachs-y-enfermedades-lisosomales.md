@@ -49,6 +49,16 @@ Falta la alfa-glucosidasa ácida por variantes en ***GAA***, y se acumula **gluc
 
 Se mide la **actividad de la enzima** en sangre o en una gota de sangre seca, y se confirma con el estudio del gen. Muchas de estas enfermedades se diagnostican tarde, tras años de síntomas inespecíficos.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué enfermedad lisosomal es exactamente y qué enzima falta?
+- ¿Existe tratamiento enzimático sustitutivo, de reducción de sustrato o un ensayo clínico para ella?
+- ¿Qué cuidados de soporte y qué equipo nos acompañarán?
+- ¿Qué riesgo hay en un próximo embarazo?
+- ¿Deberían hacerse el estudio de portadores otros familiares?
+
 ## Dónde informarse
 
 - Asociación Española de Enfermos y Familiares de la Enfermedad de Gaucher (AEEFEG)

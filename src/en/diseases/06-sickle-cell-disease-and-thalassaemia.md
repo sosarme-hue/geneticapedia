@@ -104,6 +104,16 @@ Haemoglobin disorders have been pioneers of genetic medicine:
 
 These are complex treatments: they require prior **chemotherapy** to clear the bone marrow, with effects on fertility, long hospital stays and a price of millions of euros per patient. The great challenge is to make them available in the countries where the disease is most common.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which form do I have exactly: sickle cell disease, beta-thalassaemia major or intermedia, or trait?
+- Do I need hydroxyurea, transfusions or iron chelation?
+- Am I a candidate for a bone marrow transplant or gene therapy, such as CRISPR editing?
+- Which vaccines and measures protect me from infections and pain crises?
+- Should my partner be tested before a pregnancy?
+
 ## Where to learn more
 
 - [Orphanet: sickle cell anaemia](https://www.orpha.net/en/disease/detail/232)

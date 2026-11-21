@@ -1,6 +1,6 @@
 ---
 title: Neurofibromatosis type 1
-desc: One of the most common dominant genetic conditions, with café-au-lait spots and benign tumours on nerves. There is now a first targeted drug for its most difficult tumours.
+desc: One of the most common dominant genetic conditions, with café-au-lait spots and benign tumours on nerves. Since 2020 there has been a targeted drug, selumetinib, for its most difficult tumours.
 health: si
 img: nf1-sintomas.jpg
 img_alt: Skin signs of neurofibromatosis type 1
@@ -56,10 +56,20 @@ Diagnosis is based on **clinical criteria**, updated by an international consens
 
 There is no cure, but **organised follow-up** in experienced clinics improves the lives of people with NF1: yearly checks of the skin, eyesight, spine, blood pressure and school progress.
 
-- **Selumetinib**: a MEK inhibitor, blocking one part of the RAS-MAPK pathway. In 2020 it became the **first drug approved** for children with symptomatic plexiform neurofibromas that cannot be operated on. In the trial, the tumour shrank in about two thirds of children, with less pain. Its use has since been extended to adults, and in 2025 another MEK inhibitor, **mirdametinib**, was approved.
+- **Selumetinib**: a MEK inhibitor, blocking one part of the RAS-MAPK pathway. In 2020 it became the **first drug approved** in the United States (in the European Union, in 2021) for children with symptomatic plexiform neurofibromas that cannot be operated on. In the trial, the tumour shrank in about two thirds of children, with less pain. Its use has since been extended to adults, and in 2025 another MEK inhibitor, **mirdametinib**, was approved.
 - **Surgery**: for neurofibromas that cause problems or disfigurement, and for suspicious tumours.
 - **Laser or electrosurgery** for cutaneous neurofibromas.
 - **School and psychological support**, very important in childhood.
+
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- How often are eye, blood pressure, skin and development checks needed?
+- Are there plexiform neurofibromas, and is a MEK inhibitor an option?
+- Which symptoms should prompt us to see a doctor without waiting for the next check-up?
+- What support at school might be needed?
+- Is the variant new or inherited, and what is the risk for other children?
 
 ## Where to learn more
 

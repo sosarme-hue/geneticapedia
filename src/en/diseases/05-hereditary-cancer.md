@@ -94,6 +94,16 @@ Knowing you carry a high-risk variant makes it possible to:
 
 Consumer genetic tests that check a few variants, for example three *BRCA* variants common in Ashkenazi Jews, **do not rule out** hereditary cancer: they can give false reassurance. With a suggestive family history, testing should be done in a genetic counselling unit.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Given my family history, do I meet the criteria for genetic testing?
+- Which genes are in the panel, and what happens if a variant of uncertain significance turns up?
+- If I carry a variant, which screening or risk-reducing surgery is recommended, and from what age?
+- Does the result change the treatment of a cancer I already have?
+- How do I tell my relatives, and which of them should be tested?
+
 ## Where to learn more
 
 - [Spanish Society of Medical Oncology (SEOM)](https://seom.org/)

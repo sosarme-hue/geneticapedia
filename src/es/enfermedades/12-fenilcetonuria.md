@@ -65,6 +65,16 @@ Se investigan la terapia génica y la edición genética para restaurar la enzim
 
 Las mujeres con fenilcetonuria que se quedan embarazadas con niveles altos de fenilalanina pueden tener hijos con microcefalia, discapacidad intelectual y cardiopatías, aunque los bebés no tengan la enfermedad. Por eso es fundamental **planificar el embarazo** y mantener un control estricto desde **antes de la concepción**.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué niveles de fenilalanina debemos mantener y cada cuánto hay que medirlos?
+- ¿Podría responder a la sapropterina u a otro tratamiento además de la dieta?
+- ¿Qué fórmulas y alimentos especiales cubre la sanidad pública?
+- ¿Cómo debe ser la dieta en la adolescencia y en la edad adulta?
+- Si una mujer con fenilcetonuria quiere quedarse embarazada, ¿cuándo debe empezar a controlar la dieta?
+
 ## Dónde informarse
 
 - Federación Española de Enfermos Metabólicos Hereditarios (FEEMH)

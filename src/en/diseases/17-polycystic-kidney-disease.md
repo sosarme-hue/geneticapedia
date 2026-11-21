@@ -67,6 +67,16 @@ To estimate the outlook, **total kidney volume** is measured on MRI and adjusted
 
 Drugs that target the metabolism of cyst cells and RNA therapies to boost polycystin production are being investigated.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- How is my kidney function, and how large are my kidneys?
+- Am I eligible for tolvaptan or another treatment to slow the disease?
+- Which blood pressure target should I aim for?
+- Do I need a scan to rule out brain aneurysms?
+- Should my children or siblings be tested, and at what age?
+
 ## Where to learn more
 
 - Polycystic Kidney Disease Charity (UK)

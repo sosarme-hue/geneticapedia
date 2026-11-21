@@ -48,6 +48,16 @@ It is by far the most common, but **there is no genetic test**: it is diagnosed 
 - There is no cure. **Physiotherapy** to strengthen the muscles that stabilise joints, adapted exercise, pain management and psychological support are recommended.
 - Protecting the skin, warning surgeons beforehand and, in the vascular type, monitoring the arteries.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which type of Ehlers-Danlos do I have, and has it been confirmed by genetic testing?
+- If it is the vascular type, which artery checks do I need?
+- Which exercise and physiotherapy help protect my joints?
+- What can I do about chronic pain and fatigue?
+- What precautions should be taken in pregnancy or surgery?
+
 ## Where to learn more
 
 - ANSEDH, Spanish National Association for Ehlers-Danlos Syndromes and Hypermobility

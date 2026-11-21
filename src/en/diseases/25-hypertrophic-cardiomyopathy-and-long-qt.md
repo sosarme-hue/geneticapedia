@@ -55,6 +55,16 @@ When a young person dies suddenly and unexpectedly, it is recommended to:
 
 This identifies relatives at risk who can be protected.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- What is my risk of sudden death, and do I need an implantable defibrillator?
+- Which medicines should I avoid if I have long QT?
+- Which sport can I do, and at what intensity?
+- Am I eligible for a newer treatment, such as cardiac myosin inhibitors?
+- Which relatives should have an ECG, an echocardiogram or genetic testing?
+
 ## Where to learn more
 
 - Spanish Heart Foundation

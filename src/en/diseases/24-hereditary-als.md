@@ -1,6 +1,6 @@
 ---
 title: Hereditary ALS
-desc: Between 5 and 10 % of cases of amyotrophic lateral sclerosis run in families. The C9orf72 and SOD1 genes are the most common, and for SOD1 there is now the first gene-targeted drug.
+desc: Between 5 and 10 % of cases of amyotrophic lateral sclerosis run in families. The C9orf72 and SOD1 genes are the most common, and since 2023 there has been a gene-targeted drug for SOD1, tofersen.
 health: si
 img: ela-neuronas.jpg
 img_alt: Neurons and muscles affected in ALS
@@ -48,6 +48,16 @@ The rest of ALS care is the same for everyone: riluzole, multidisciplinary clini
 ## Should you be tested?
 
 Today it is recommended to offer **genetic testing to every person with ALS**, with or without family history, because it can change treatment and help relatives. For healthy relatives, testing is a very personal decision, as in [Huntington's disease](../huntingtons-disease/): with incomplete penetrance, a positive result does not say whether or when someone will become ill. It should always be done with [genetic counselling](../../diagnosis/genetic-counselling/).
+
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Has a genetic cause been found, such as *C9orf72* or *SOD1*?
+- If it is *SOD1*, am I eligible for tofersen?
+- Which multidisciplinary team will follow me, and how are breathing and nutrition managed?
+- Are there clinical trials I could take part in?
+- Should my relatives be tested, and with what support?
 
 ## Where to learn more
 

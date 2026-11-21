@@ -49,6 +49,16 @@ Acid alpha-glucosidase is missing because of variants in ***GAA***, and **glycog
 
 **Enzyme activity** is measured in blood or a dried blood spot, and confirmed by studying the gene. Many of these diseases are diagnosed late, after years of vague symptoms.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which lysosomal disease is it exactly, and which enzyme is missing?
+- Is there enzyme replacement, substrate reduction therapy or a clinical trial for it?
+- Which supportive care and which team will be with us?
+- What is the risk in a future pregnancy?
+- Should other relatives have carrier testing?
+
 ## Where to learn more
 
 - Spanish Association of Gaucher Disease Patients and Families (AEEFEG)

@@ -1,6 +1,6 @@
 ---
 title: Neurofibromatosis tipo 1
-desc: Una de las enfermedades genéticas dominantes más frecuentes, con manchas café con leche y tumores benignos en los nervios. Ahora existe el primer fármaco dirigido para sus tumores más difíciles.
+desc: Una de las enfermedades genéticas dominantes más frecuentes, con manchas café con leche y tumores benignos en los nervios. Desde 2020 hay un fármaco dirigido, el selumetinib, para sus tumores más difíciles.
 health: si
 img: nf1-sintomas.jpg
 img_alt: Manifestaciones cutáneas de la neurofibromatosis tipo 1
@@ -56,10 +56,20 @@ El **estudio genético** detecta la variante en más del 95 % de los casos. Es �
 
 No hay cura, pero un **seguimiento ordenado** en unidades con experiencia mejora la vida de las personas con NF1: revisiones anuales de la piel, la vista, la columna, la tensión arterial y el desarrollo escolar.
 
-- **Selumetinib**: un inhibidor de MEK, una pieza de la vía RAS-MAPK. En 2020 se convirtió en el **primer fármaco aprobado** para niños con neurofibromas plexiformes sintomáticos que no se pueden operar. En el ensayo, el tumor se redujo en alrededor de dos tercios de los niños, con menos dolor. Su uso se ha extendido después a adultos, y en 2025 se aprobó otro inhibidor de MEK, **mirdametinib**.
+- **Selumetinib**: un inhibidor de MEK, una pieza de la vía RAS-MAPK. En 2020 se convirtió en el **primer fármaco aprobado** en Estados Unidos (en la Unión Europea, en 2021) para niños con neurofibromas plexiformes sintomáticos que no se pueden operar. En el ensayo, el tumor se redujo en alrededor de dos tercios de los niños, con menos dolor. Su uso se ha extendido después a adultos, y en 2025 se aprobó otro inhibidor de MEK, **mirdametinib**.
 - **Cirugía**: para neurofibromas que molestan o desfiguran, y para tumores sospechosos.
 - **Láser o electrocirugía** para los neurofibromas cutáneos.
 - **Apoyo escolar** y psicológico, muy importante en la infancia.
+
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Con qué frecuencia necesita revisiones de la vista, la tensión arterial, la piel y el desarrollo?
+- ¿Hay neurofibromas plexiformes y es candidato a un tratamiento con inhibidores de MEK?
+- ¿Qué síntomas deben hacernos consultar sin esperar a la próxima revisión?
+- ¿Qué apoyo escolar puede necesitar?
+- ¿Es una variante nueva o heredada, y qué riesgo hay para otros hijos?
 
 ## Dónde informarse
 

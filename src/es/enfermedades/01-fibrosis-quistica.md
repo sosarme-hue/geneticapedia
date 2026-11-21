@@ -101,6 +101,16 @@ En los años sesenta, la mayoría de los niños con fibrosis quística no llegab
 
 **¿Pueden tener hijos?** Sí. Las mujeres suelen ser fértiles y muchos varones pueden ser padres mediante técnicas de reproducción asistida. Se recomienda consejo genético y estudiar a la pareja.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué variantes del gen *CFTR* tengo y me corresponde algún modulador de CFTR?
+- ¿Con qué frecuencia debo hacer espirometría, cultivos de esputo y controles en la unidad de fibrosis quística?
+- ¿Qué ejercicio y qué fisioterapia respiratoria me convienen en mi situación?
+- ¿Deberían hacerse el estudio de portadores mis hermanos o mi pareja?
+- Si pensamos en tener hijos, ¿qué opciones de diagnóstico prenatal o preimplantacional existen?
+
 ## Dónde informarse
 
 - [Federación Española de Fibrosis Quística](https://fibrosisquistica.org/)

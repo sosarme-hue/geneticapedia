@@ -52,6 +52,16 @@ The **blood level of alpha-1 antitrypsin** is measured and, if low, the gene or 
 
 Spain has a **national registry**, REDAAT, which is part of the international EARCO registry.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which genotype do I have (PiZZ, PiSZ or another), and what is my alpha-1 antitrypsin level?
+- Am I eligible for intravenous augmentation therapy?
+- How often should my lungs and liver be checked?
+- Which vaccines do I need, and how do I avoid smoke and other exposures?
+- Should my siblings and children be tested?
+
 ## Where to learn more
 
 - Alpha-1 Spain Association

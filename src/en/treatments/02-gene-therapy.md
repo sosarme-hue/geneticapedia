@@ -38,7 +38,7 @@ DNA does not enter cells on its own. **Vectors** are used, almost always viruses
 - In **haemophilia B**, a single infusion has allowed most patients to stop preventive factor injections for years.
 - In **metachromatic leukodystrophy**, treating children before symptoms largely prevents neurological decline.
 
-## Safety: recent lessons
+## Safety: lessons up to 2025
 
 High doses of AAV can damage the liver or trigger serious immune reactions. In 2025, deaths from acute liver failure were reported in patients treated with a gene therapy for **Duchenne muscular dystrophy**, which led to restrictions on its use in some groups and a review of its benefit–risk balance. In Europe, the European Medicines Agency did not authorise that product. These are reminders that such therapies require expert centres and long-term follow-up.
 

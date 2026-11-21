@@ -66,6 +66,16 @@ Las guías internacionales de 2024 recomiendan un seguimiento por equipos de var
 
 Las mujeres con síndrome de Turner estudian, trabajan, tienen pareja y viven de forma independiente. La esperanza de vida es algo menor que la media, sobre todo por las complicaciones cardiovasculares, y por eso un buen seguimiento marca la diferencia. Un diagnóstico precoz permite además empezar a tiempo la hormona de crecimiento y planificar la pubertad.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué revisiones de corazón, riñón, oído y tiroides necesita?
+- ¿Cuándo empezar la hormona de crecimiento y los estrógenos?
+- ¿Qué opciones de fertilidad existen y cuándo conviene hablar de ellas?
+- ¿Qué precauciones de corazón hacen falta si en el futuro busca un embarazo?
+- ¿Quién coordinará su seguimiento al pasar a la edad adulta?
+
 ## Dónde informarse
 
 - Asociación Síndrome de Turner de España

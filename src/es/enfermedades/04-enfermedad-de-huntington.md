@@ -87,6 +87,16 @@ La investigación busca **reducir la cantidad de huntingtina** o frenar la expan
 - **Moléculas orales** que modifican el procesamiento del ARN de *HTT*.
 - Fármacos dirigidos a los genes de **reparación del ADN** que favorecen la expansión.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- Antes de hacerme la prueba predictiva, ¿qué apoyo psicológico y de consejo genético me ofrecen?
+- ¿Cuántas repeticiones CAG tengo y qué significa ese número en mi caso?
+- ¿Qué puedo hacer para cuidar mi salud y mi planificación personal y laboral?
+- ¿Hay ensayos clínicos en los que pueda participar?
+- Si quiero tener hijos, ¿qué opciones de diagnóstico preimplantacional o prenatal existen?
+
 ## Dónde informarse
 
 - [Asociación Corea de Huntington Española](https://e-huntington.org/)

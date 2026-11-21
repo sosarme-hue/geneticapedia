@@ -67,6 +67,16 @@ Para estimar el pronóstico se mide el **volumen total de los riñones** con res
 
 Se investigan fármacos que actúan sobre el metabolismo de las células de los quistes y terapias con ARN para aumentar la producción de policistina.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Cómo está mi función renal y qué tamaño tienen mis riñones?
+- ¿Me corresponde el tolvaptán u otro tratamiento para frenar la enfermedad?
+- ¿Qué objetivo de tensión arterial debo tener?
+- ¿Necesito una prueba para descartar aneurismas cerebrales?
+- ¿Deberían estudiarse mis hijos o hermanos, y a qué edad?
+
 ## Dónde informarse
 
 - Asociación para la Información y la Investigación de las Enfermedades Renales Genéticas (AIRG-E)

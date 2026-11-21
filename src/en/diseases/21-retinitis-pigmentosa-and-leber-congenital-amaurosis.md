@@ -1,6 +1,6 @@
 ---
 title: Retinitis pigmentosa and Leber congenital amaurosis
-desc: Inherited retinal dystrophies are the leading cause of genetic blindness. More than 300 genes can be involved, and one of them got the first gene therapy approved for an inherited disease.
+desc: Inherited retinal dystrophies are the leading cause of genetic blindness. More than 300 genes can be involved, and for one of them the United States approved, in 2017, the first gene therapy for an inherited disease.
 health: si
 img: retinosis-fondo.jpg
 img_alt: Fundus with retinitis pigmentosa
@@ -36,7 +36,7 @@ It can be inherited in an [autosomal dominant](../../heredity/inheritance-patter
 
 This is the **most severe and earliest** form: the baby is born with very poor vision or loses it in the first months, with wobbling eye movements (**nystagmus**) and poor pupil responses. About 25 genes are known, such as *CEP290*, *GUCY2D* and *RPE65*. It is almost always autosomal recessive. It should not be confused with **Leber hereditary optic neuropathy**, a disease of the optic nerve caused by changes in [mitochondrial DNA](../../heredity/inheritance-patterns/).
 
-## The first gene therapy
+## The first gene therapy (2017)
 
 The ***RPE65*** gene makes an enzyme needed to regenerate visual pigment. In people with two variants in this gene, the photoreceptors survive for a while but do not work. An **adeno-associated virus** injected under the retina delivers a healthy copy of the gene.
 
@@ -49,6 +49,16 @@ Trials are under way for other genes, such as *RPGR* and *CEP290*, including [CR
 - Examination of the back of the eye, visual fields, optical coherence tomography and **electroretinography**, which measures the retina's electrical response.
 - **Genetic testing** with a retinal gene panel finds the cause in about 60-70 % of cases. Knowing the gene gives a prognosis, the risk for relatives and access to trials.
 - Low-vision aids, protection from bright light and, when vision falls a lot, rehabilitation and services for blind people.
+
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which gene is involved, and does that change the outlook or the treatment?
+- Am I a candidate for gene therapy or a clinical trial?
+- Which low-vision aids and visual rehabilitation are available to me?
+- Can I keep driving, and how often should I be checked?
+- How is it inherited in my family, and what is the risk for my children?
 
 ## Where to learn more
 

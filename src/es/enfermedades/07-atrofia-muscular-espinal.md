@@ -75,6 +75,16 @@ Por eso la AME se está incorporando a la **prueba del talón** en muchos paíse
 - El electromiograma y la biopsia muscular, que se usaban antes, hoy apenas son necesarios.
 - **Estudio de portadores** en familiares y en parejas que lo soliciten.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué tipo de AME es y cuántas copias de *SMN2* tiene?
+- ¿Qué tratamiento está indicado en nuestro caso y cuándo puede empezar?
+- ¿Qué seguimiento respiratorio, nutricional y ortopédico necesita?
+- ¿Está incluida la AME en el cribado neonatal de nuestra comunidad autónoma?
+- ¿Qué riesgo hay en un próximo embarazo y deberían estudiarse otros familiares?
+
 ## Dónde informarse
 
 - [FundAME, Fundación Atrofia Muscular Espinal](https://fundame.net/)

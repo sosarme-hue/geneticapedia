@@ -55,6 +55,16 @@ Cuando una persona joven muere de forma súbita e inexplicada, se recomienda:
 
 Así se identifica a familiares en riesgo que pueden protegerse.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Cuál es mi riesgo de muerte súbita y necesito un desfibrilador implantable?
+- ¿Qué fármacos debo evitar si tengo un QT largo?
+- ¿Qué deporte puedo hacer y con qué intensidad?
+- ¿Me corresponde algún tratamiento nuevo, como los inhibidores de la miosina cardiaca?
+- ¿Qué familiares deberían hacerse un electrocardiograma, una ecocardiografía o el estudio genético?
+
 ## Dónde informarse
 
 - Fundación Española del Corazón

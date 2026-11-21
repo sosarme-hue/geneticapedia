@@ -1,6 +1,6 @@
 ---
 title: ELA hereditaria
-desc: Entre el 5 y el 10 % de los casos de esclerosis lateral amiotrófica son familiares. Los genes C9orf72 y SOD1 son los más frecuentes, y para SOD1 ya existe el primer fármaco dirigido a un gen.
+desc: Entre el 5 y el 10 % de los casos de esclerosis lateral amiotrófica son familiares. Los genes C9orf72 y SOD1 son los más frecuentes, y para SOD1 hay desde 2023 un fármaco dirigido al gen, el tofersen.
 health: si
 img: ela-neuronas.jpg
 img_alt: Neuronas y músculos afectados en la ELA
@@ -48,6 +48,16 @@ El resto del tratamiento de la ELA es el mismo para todos: riluzol, unidades mul
 ## ¿Hacerse la prueba?
 
 Hoy se recomienda ofrecer el **estudio genético a toda persona con ELA**, tenga o no antecedentes, porque puede cambiar el tratamiento y ayudar a la familia. Para los familiares sanos, hacerse la prueba es una decisión muy personal, igual que en la [enfermedad de Huntington](../enfermedad-de-huntington/): con penetrancia incompleta, un resultado positivo no dice si se enfermará ni cuándo. Debe hacerse siempre con [consejo genético](../../diagnostico/consejo-genetico/).
+
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Se ha encontrado una causa genética, como *C9orf72* o *SOD1*?
+- Si es *SOD1*, ¿me corresponde el tofersen?
+- ¿Qué unidad multidisciplinar me va a seguir y cómo se organizan la respiración y la nutrición?
+- ¿Hay ensayos clínicos en los que pueda participar?
+- ¿Deberían mis familiares hacerse la prueba, y con qué apoyo?
 
 ## Dónde informarse
 

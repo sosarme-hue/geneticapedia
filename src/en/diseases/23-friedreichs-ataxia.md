@@ -50,6 +50,16 @@ The rest of treatment is **supportive**: physiotherapy, speech therapy, cardiac 
 
 A specific genetic test measures the size of the GAA repeat on both copies of *FXN*. If only one expansion is found, the gene is sequenced to look for another variant. Siblings of an affected person can be tested after [genetic counselling](../../diagnosis/genetic-counselling/).
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Am I eligible for omaveloxolone or another treatment?
+- How often do I need heart and blood sugar checks?
+- Which physiotherapy and assistive devices suit me?
+- Are there open clinical trials near me?
+- Should my siblings or my partner have carrier testing?
+
 ## Where to learn more
 
 - FEDAES, Federation of Ataxias of Spain

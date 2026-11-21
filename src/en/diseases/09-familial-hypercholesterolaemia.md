@@ -73,6 +73,16 @@ Diagnosis can be made in childhood. A healthy diet and habits are recommended fr
 
 Single-infusion **base editing** treatments that switch off the *PCSK9* gene in the liver, aiming to lower LDL for life, are being tested. Early results in humans show substantial reductions, but safety is still being studied.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Do my LDL cholesterol levels suggest familial hypercholesterolaemia, and should I have genetic testing?
+- Which LDL target should I reach, and with which treatment?
+- At what age should my children have their cholesterol checked?
+- Do I need any test to see whether my arteries are already affected?
+- How do we organise testing for my relatives (cascade screening)?
+
 ## Where to learn more
 
 - [Spanish Familial Hypercholesterolaemia Foundation](https://www.colesterolfamiliar.org/)

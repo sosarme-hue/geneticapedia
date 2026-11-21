@@ -75,6 +75,16 @@ That is why SMA is being added to the **heel-prick test** in many countries. The
 - Electromyography and muscle biopsy, used in the past, are now rarely needed.
 - **Carrier testing** for relatives and for couples who request it.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which type of SMA is it, and how many *SMN2* copies are there?
+- Which treatment is indicated in our case, and when can it start?
+- What respiratory, nutritional and orthopaedic follow-up is needed?
+- Is SMA included in newborn screening where we live?
+- What is the risk in a future pregnancy, and should other relatives be tested?
+
 ## Where to learn more
 
 - [FundAME, Spanish SMA Foundation](https://fundame.net/)

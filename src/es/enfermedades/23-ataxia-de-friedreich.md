@@ -50,6 +50,16 @@ El resto del tratamiento es de **soporte**: fisioterapia, logopedia, seguimiento
 
 Una prueba genética específica mide el tamaño de la repetición GAA en las dos copias de *FXN*. Si solo hay una expansión, se secuencia el gen en busca de otra variante. Los hermanos de una persona afectada pueden hacerse la prueba tras [consejo genético](../../diagnostico/consejo-genetico/).
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Me corresponde la omaveloxolona u otro tratamiento?
+- ¿Cada cuánto necesito revisiones de corazón y de azúcar en sangre?
+- ¿Qué fisioterapia y qué ayudas técnicas me convienen?
+- ¿Hay ensayos clínicos abiertos en España?
+- ¿Deberían hacerse el estudio de portadores mis hermanos o mi pareja?
+
 ## Dónde informarse
 
 - Federación de Ataxias de España (FEDAES)

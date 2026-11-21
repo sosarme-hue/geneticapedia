@@ -72,6 +72,16 @@ Pregnancy increases the risk of aortic dissection, especially if the root measur
 
 **Sudden, severe chest or back pain**, "like tearing", in a person with Marfan syndrome is an **emergency**: call 112 (or your local emergency number) and mention the diagnosis.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- What is the diameter of my aorta, and how often should I have an echocardiogram or MRI?
+- Should I take a beta blocker or an angiotensin receptor blocker?
+- Which sports and exertion should I avoid?
+- What precautions do I need if I become pregnant?
+- Should my first-degree relatives be tested?
+
 ## Where to learn more
 
 - [The Marfan Foundation](https://marfan.org/)

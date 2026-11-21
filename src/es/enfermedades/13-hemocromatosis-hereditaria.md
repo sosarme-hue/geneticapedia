@@ -80,6 +80,16 @@ También se recomienda **evitar el alcohol** si hay daño hepático, no tomar su
 
 Si se trata **antes de que haya cirrosis o diabetes**, la esperanza de vida es **normal**. El cansancio y algunas alteraciones del hígado mejoran, aunque el daño articular y la cirrosis ya establecida no desaparecen. Por eso la clave es la **detección precoz**. Se discute si convendría un cribado en la población general, pero hoy se recomienda sobre todo buscarla en familiares y en personas con alteraciones del hierro.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Cuál es mi ferritina y mi saturación de transferrina, y tengo dos copias de C282Y?
+- ¿Necesito sangrías, con qué frecuencia y hasta qué cifra?
+- ¿Hay daño en el hígado, el corazón o el páncreas y cómo lo comprobamos?
+- ¿Debo cambiar algo en la dieta o con el alcohol?
+- ¿Deberían hacerse el análisis mis hermanos?
+
 ## Dónde informarse
 
 - Asociación Española de Hemocromatosis (AEH)

@@ -77,6 +77,16 @@ It is suspected from the baby's features and confirmed by a blood **karyotype**,
 - Studies of which chromosome 21 genes most influence learning and memory.
 - In the laboratory, the extra chromosome 21 has been "silenced" in cultured cells, a line of basic research still very far from clinical use.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which heart, thyroid, eye and hearing checks does my child need, and how often?
+- Which early intervention service can we be referred to?
+- Does the karyotype show a free trisomy, a translocation or mosaicism?
+- If it is a translocation, should we as parents have a karyotype?
+- What is our risk in a future pregnancy and which tests can we be offered?
+
 ## Where to learn more
 
 - [Down España](https://www.sindromedown.net/)

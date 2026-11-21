@@ -51,7 +51,7 @@ Existen clínicas que ofrecen «terapias génicas» o «con células madre» no 
 - En la **hemofilia B**, una sola infusión ha permitido a la mayoría de los pacientes dejar las inyecciones preventivas de factor durante años.
 - En la **leucodistrofia metacromática**, tratar a los niños antes de los síntomas evita en gran medida el deterioro neurológico.
 
-## Seguridad: lo que se ha aprendido recientemente
+## Seguridad: lo aprendido hasta 2025
 
 Las dosis altas de AAV pueden dañar el hígado o desencadenar reacciones inmunitarias graves. En 2025 se comunicaron muertes por insuficiencia hepática aguda en pacientes tratados con una terapia génica para la **distrofia muscular de Duchenne**, lo que llevó a restringir su uso en algunos grupos y a revisar su relación beneficio-riesgo. En Europa la Agencia Europea de Medicamentos no autorizó ese producto. Son recordatorios de que estas terapias exigen centros expertos y seguimiento a largo plazo.
 

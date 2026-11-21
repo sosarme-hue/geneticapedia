@@ -65,6 +65,16 @@ Gene therapy and gene editing to restore the enzyme in the liver are being studi
 
 Women with phenylketonuria who become pregnant with high phenylalanine levels may have babies with microcephaly, intellectual disability and heart defects, even though the babies do not have the disease. So it is vital to **plan pregnancy** and keep strict control from **before conception**.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which phenylalanine levels should we keep, and how often should they be measured?
+- Could sapropterin or another treatment help on top of the diet?
+- Which special formulas and foods does the public health system cover?
+- What should the diet look like in adolescence and adulthood?
+- If a woman with phenylketonuria wants to become pregnant, when should she start controlling her diet?
+
 ## Where to learn more
 
 - [European Society for Phenylketonuria (ESPKU)](https://www.espku.org/)

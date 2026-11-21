@@ -60,6 +60,16 @@ Lo describió en 1965 el pediatra británico Harry Angelman. Los niños tienen:
 
 Un **test de metilación** de la región 15q11-q13 detecta más del 99 % de los casos de Prader-Willi y alrededor del 80 % de los de Angelman. Después se estudia el mecanismo, porque cambia el riesgo para otros hijos. En Angelman, si la metilación es normal, se secuencia *UBE3A*.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué mecanismo lo causa: deleción, disomía uniparental o un defecto de impronta?
+- ¿Qué plan de alimentación y de control del peso necesita?
+- ¿Le conviene la hormona de crecimiento?
+- ¿Qué apoyo educativo y conductual le ayudará más?
+- Según el mecanismo, ¿qué riesgo hay en un próximo embarazo?
+
 ## Dónde informarse
 
 - Asociación Española del Síndrome de Prader-Willi

@@ -1,6 +1,6 @@
 ---
 title: Retinosis pigmentaria y amaurosis congénita de Leber
-desc: Las distrofias hereditarias de la retina son la principal causa de ceguera genética. Más de 300 genes pueden estar implicados, y una de ellas tuvo la primera terapia génica aprobada para una enfermedad hereditaria.
+desc: Las distrofias hereditarias de la retina son la principal causa de ceguera genética. Más de 300 genes pueden estar implicados, y para una de ellas se aprobó en 2017, en Estados Unidos, la primera terapia génica para una enfermedad hereditaria.
 health: si
 img: retinosis-fondo.jpg
 img_alt: Fondo de ojo con retinosis pigmentaria
@@ -36,7 +36,7 @@ Puede heredarse de forma [autosómica dominante](../../herencia/patrones-de-here
 
 Es la forma **más grave y precoz**: el bebé nace con una visión muy baja o la pierde en los primeros meses, con movimientos oscilantes de los ojos (**nistagmo**) y poca reacción de las pupilas. Se conocen unos 25 genes, como *CEP290*, *GUCY2D* y *RPE65*. Casi siempre es autosómica recesiva. No hay que confundirla con la **neuropatía óptica hereditaria de Leber**, que es una enfermedad del nervio óptico causada por cambios en el [ADN mitocondrial](../../herencia/patrones-de-herencia/).
 
-## La primera terapia génica
+## La primera terapia génica (2017)
 
 El gen ***RPE65*** fabrica una enzima necesaria para regenerar el pigmento visual. En las personas con dos variantes en este gen, los fotorreceptores sobreviven un tiempo pero no funcionan. Un **virus adenoasociado** inyectado bajo la retina lleva una copia sana del gen.
 
@@ -49,6 +49,16 @@ Hay ensayos en marcha para otros genes, como *RPGR* y *CEP290*, incluida una edi
 - Exploración del fondo de ojo, campo visual, tomografía de coherencia óptica y **electrorretinograma**, que mide la respuesta eléctrica de la retina.
 - **Estudio genético** con un panel de genes de retina: encuentra la causa en un 60-70 % de los casos. Saber el gen permite dar un pronóstico, calcular el riesgo para la familia y saber si hay algún ensayo disponible.
 - Ayudas para baja visión, protección frente a la luz intensa y, cuando la visión cae mucho, rehabilitación y servicios de la **ONCE**.
+
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué gen está alterado y eso cambia el pronóstico o el tratamiento?
+- ¿Soy candidato a terapia génica o a algún ensayo clínico?
+- ¿Qué ayudas de baja visión y qué rehabilitación visual tengo a mi alcance?
+- ¿Puedo seguir conduciendo y cada cuánto debo revisarme?
+- ¿Cómo se hereda en mi familia y qué riesgo tienen mis hijos?
 
 ## Dónde informarse
 

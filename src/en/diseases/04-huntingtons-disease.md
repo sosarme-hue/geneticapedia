@@ -87,6 +87,16 @@ Research aims to **lower the amount of huntingtin** or slow repeat expansion:
 - **Oral molecules** that modify how *HTT* RNA is processed.
 - Drugs targeting the **DNA repair** genes that promote expansion.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Before predictive testing, what psychological support and genetic counselling are offered?
+- How many CAG repeats do I have, and what does that number mean for me?
+- What can I do to look after my health and plan my personal and working life?
+- Are there clinical trials I could take part in?
+- If I want children, what preimplantation or prenatal testing options are there?
+
 ## Where to learn more
 
 - [Spanish Huntington's Disease Association](https://e-huntington.org/)

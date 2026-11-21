@@ -496,3 +496,18 @@ a.card:hover .cimg img{transform:scale(1.05)}
   .toc ol{columns:1}
   .terms{grid-template-columns:1fr;gap:8px}
 }
+.prose h2[id^="que-preguntar"]+p+ul,.prose h2[id^="what-to-ask"]+p+ul{background:var(--soft2);border-radius:10px;padding:12px 18px 12px 36px;line-height:1.6}
+.prose h2[id^="que-preguntar"]+p+ul li+li,.prose h2[id^="what-to-ask"]+p+ul li+li{margin-top:6px}
+/* ampliación de fotos */
+img.zoomable{cursor:zoom-in}
+img.zoomable:focus-visible{outline:3px solid var(--accent2);outline-offset:3px}
+.lbox{position:fixed;inset:0;z-index:100;background:rgba(8,12,24,.92);display:flex;align-items:center;justify-content:center;padding:48px 16px 16px}
+.lbox[hidden]{display:none}
+.lbox figure{margin:0;max-width:min(1400px,100%);max-height:100%;display:flex;flex-direction:column;align-items:center}
+.lbox img{max-width:100%;max-height:calc(100vh - 140px);object-fit:contain;border-radius:6px;background:#fff;cursor:zoom-out}
+.lbox figcaption{color:#e8ecf5;font-size:14px;line-height:1.45;margin-top:10px;max-width:900px;text-align:center}
+.lbox figcaption a{color:#a6c0f5}
+.lbx{position:absolute;top:10px;right:14px;width:42px;height:42px;border-radius:50%;border:0;background:rgba(255,255,255,.14);color:#fff;font-size:28px;line-height:1;cursor:pointer}
+.lbx:hover,.lbx:focus-visible{background:rgba(255,255,255,.28)}
+html.lbox-on{overflow:hidden}
+.lbox .credit{color:#c3cbe0}

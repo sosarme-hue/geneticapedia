@@ -78,6 +78,16 @@ A carrier mother has, in each pregnancy, a 50 % chance of an affected son (if ma
 
 It is a fast-moving field with a great deal of hope, but it is wise to seek information from specialist units and reliable sources.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Which variant is there in the *DMD* gene, and is he eligible for any targeted treatment or clinical trial?
+- When should corticosteroids start, and how do we monitor their side effects?
+- Which heart and breathing checks does he need, and how often?
+- Which physiotherapy and assistive devices will help most?
+- Should his mother, and his sisters or aunts, be tested to find out whether they are carriers?
+
 ## Where to learn more
 
 - [Duchenne Parent Project Spain](https://www.duchenne-spain.org/)

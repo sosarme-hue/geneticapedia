@@ -78,6 +78,16 @@ Una madre portadora tiene, en cada embarazo, un 50 % de probabilidad de tener un
 
 Es un campo en rápido cambio y con mucha esperanza, pero conviene informarse en unidades especializadas y en fuentes fiables.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué variante tiene en el gen *DMD* y es candidata a algún tratamiento dirigido o ensayo clínico?
+- ¿Cuándo conviene empezar con corticoides y cómo vigilamos sus efectos?
+- ¿Qué controles de corazón y de respiración necesita, y cada cuánto?
+- ¿Qué fisioterapia y qué ayudas técnicas le van a ayudar más?
+- ¿Debería estudiarse la madre, y las hermanas o tías, para saber si son portadoras?
+
 ## Dónde informarse
 
 - [Duchenne Parent Project España](https://www.duchenne-spain.org/)

@@ -46,6 +46,16 @@ En el ensayo clínico, los niños tratados crecieron unos **1,6 cm más al año*
 
 No todas las personas con acondroplasia ven la talla baja como algo que haya que tratar. Algunas asociaciones defienden que lo importante es la **accesibilidad** y la **aceptación**, y que las decisiones sobre el tratamiento deben tomarse con información completa y sin presión. Otras familias valoran el tratamiento. Es una decisión de cada familia con su equipo médico.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué controles necesita en los primeros años, sobre todo de la unión entre el cráneo y la columna?
+- ¿Es candidato al vosoritide y qué se puede esperar de él?
+- ¿Qué hacemos con los oídos, el sueño y el peso?
+- ¿Cómo adaptamos la casa y el colegio?
+- Si uno de los padres tiene acondroplasia, ¿qué riesgo hay en cada embarazo?
+
 ## Dónde informarse
 
 - Fundación ALPE Acondroplasia

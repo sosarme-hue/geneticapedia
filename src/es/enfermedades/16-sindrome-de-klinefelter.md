@@ -74,6 +74,16 @@ La confirmación se hace con un **cariotipo** en sangre. El análisis hormonal m
 
 La mayoría de los hombres con síndrome de Klinefelter estudian, trabajan, forman pareja y llevan una vida normal. El mayor problema es que **muchos no están diagnosticados** y pierden años de tratamiento con testosterona y la oportunidad de preservar la fertilidad. Sensibilizar a pediatras, endocrinólogos y urólogos es una prioridad de las asociaciones de pacientes.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Necesito tratamiento con testosterona y desde cuándo?
+- ¿Qué opciones de fertilidad tengo, como la extracción de espermatozoides del testículo?
+- ¿Qué controles de huesos, metabolismo y mamas me corresponden?
+- ¿Qué apoyo para el aprendizaje o el lenguaje puede ayudar a un niño con este diagnóstico?
+- ¿Tiene alguna consecuencia para mis familiares?
+
 ## Dónde informarse
 
 - Asociación Española del Síndrome de Klinefelter y otras aneuploidías de los cromosomas sexuales

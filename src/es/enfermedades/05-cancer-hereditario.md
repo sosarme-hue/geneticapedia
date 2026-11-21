@@ -94,6 +94,16 @@ Saber que se tiene una variante de alto riesgo permite:
 
 Los tests genéticos de consumo que analizan unas pocas variantes, por ejemplo tres variantes de *BRCA* frecuentes en población judía asquenazí, **no descartan** un cáncer hereditario: pueden dar una falsa tranquilidad. Ante una historia familiar sugestiva, el estudio debe hacerse en una unidad de consejo genético.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- Con mis antecedentes familiares, ¿cumplo los criterios para un estudio genético?
+- ¿Qué genes incluye el panel y qué pasa si sale una variante de significado incierto?
+- Si soy portador o portadora, ¿qué seguimiento o cirugía preventiva se me recomienda y a qué edad?
+- ¿El resultado cambia el tratamiento de un cáncer que ya tengo?
+- ¿Cómo informo a mis familiares y quién de ellos debería hacerse la prueba?
+
 ## Dónde informarse
 
 - [SEOM: cáncer hereditario](https://seom.org/)

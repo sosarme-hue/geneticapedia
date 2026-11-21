@@ -73,6 +73,16 @@ El diagnóstico se puede hacer desde la infancia. Se recomienda dieta y hábitos
 
 Se ensayan tratamientos de **edición genética de bases** que apagan el gen *PCSK9* en el hígado con una sola infusión, con el objetivo de reducir el LDL de por vida. Los primeros resultados en humanos muestran reducciones importantes, pero aún se está estudiando su seguridad.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Mis cifras de colesterol LDL sugieren una hipercolesterolemia familiar y me conviene el estudio genético?
+- ¿Qué objetivo de LDL debo alcanzar y con qué tratamiento?
+- ¿A qué edad deberían medir el colesterol a mis hijos?
+- ¿Necesito alguna prueba para ver si ya hay afectación de las arterias?
+- ¿Cómo organizamos el estudio de mis familiares (cribado en cascada)?
+
 ## Dónde informarse
 
 - [Fundación Hipercolesterolemia Familiar](https://www.colesterolfamiliar.org/)

@@ -72,6 +72,16 @@ El embarazo aumenta el riesgo de disección aórtica, sobre todo si la raíz mid
 
 Un **dolor torácico o de espalda brusco e intenso**, "como un desgarro", en una persona con síndrome de Marfan es una **urgencia**: hay que llamar al 112 e informar del diagnóstico.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Cuál es el diámetro de mi aorta y cada cuánto debo hacerme una ecocardiografía o resonancia?
+- ¿Debo tomar un betabloqueante o un antagonista de la angiotensina?
+- ¿Qué deportes y esfuerzos debo evitar?
+- ¿Qué precauciones necesito si me quedo embarazada?
+- ¿Deberían estudiarse mis familiares de primer grado?
+
 ## Dónde informarse
 
 - [Sociedad Española de Síndrome de Marfan (SIMA)](https://www.marfan.es/)

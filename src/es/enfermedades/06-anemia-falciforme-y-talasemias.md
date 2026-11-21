@@ -104,6 +104,16 @@ Las hemoglobinopatías han sido pioneras de la medicina genética:
 
 Son tratamientos complejos: exigen **quimioterapia** previa para vaciar la médula, con efectos sobre la fertilidad, ingresos largos y un precio de millones de euros por paciente. El gran reto es que lleguen a los países donde la enfermedad es más frecuente.
 
+## Qué preguntar en consulta
+
+Preguntas que puedes llevar apuntadas. No todas tendrán respuesta el primer día, y tu equipo puede añadir otras.
+
+- ¿Qué forma tengo exactamente: anemia falciforme, beta-talasemia mayor o intermedia, o rasgo?
+- ¿Necesito hidroxiurea, transfusiones o quelación del hierro?
+- ¿Soy candidato a trasplante de médula o a terapia génica, como la edición con CRISPR?
+- ¿Qué vacunas y qué medidas me protegen de las infecciones y de las crisis de dolor?
+- ¿Debería estudiarse mi pareja antes de un embarazo?
+
 ## Dónde informarse
 
 - [Orphanet: drepanocitosis](https://www.orpha.net/es/disease/detail/232)

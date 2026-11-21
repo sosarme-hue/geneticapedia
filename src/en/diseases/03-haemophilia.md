@@ -83,6 +83,16 @@ Haemophilia is one of the diseases where gene therapy has reached the clinic. A 
 
 These are treatments for selected adults, very expensive and with open questions about their long-term durability. Not every patient can receive them, for example if they have antibodies against the virus. Some have been withdrawn from the market for commercial reasons.
 
+## What to ask at your appointment
+
+Questions you can take with you. Not all of them will have an answer on day one, and your care team may add others.
+
+- Is my haemophilia mild, moderate or severe, and what is my factor level?
+- Is prophylaxis right for me, and with which treatment: factor, emicizumab or another?
+- Am I a candidate for gene therapy, and where is it offered?
+- What should I do after a knock or a bleed, and which centre should I go to?
+- Should my sisters, daughters or mother be tested to find out whether they are carriers?
+
 ## Where to learn more
 
 - [Spanish Haemophilia Federation (Fedhemo)](https://fedhemo.com/)
