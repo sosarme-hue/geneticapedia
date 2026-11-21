@@ -276,6 +276,44 @@ def build(lang, g, allsec, search):
     corecards = "".join(f'<a class="card big" href="{base}{s[0]}/"><span class="tag">{esc(s[1])}</span><h3>{esc(s[2])}</h3><p>{esc(s[3])}</p><span class="more">{n(s[0])} {"fichas" if lang=="es" else "entries"} →</span></a>' for s in secs[:3])
     basecards = "".join(f'<a class="card" href="{base}{s[0]}/"><span class="tag">{esc(s[1])}</span><h3>{esc(s[2])}</h3><p>{esc(s[3])}</p><span class="more">{n(s[0])} {"artículos" if lang=="es" else "articles"} →</span></a>' for s in secs[3:] if allsec.get(s[0]))
     scicards = "".join(f'<a class="card" href="{u}" rel="noopener"><span class="tag">{l["consult"]} · {esc(src)}</span><h3>{esc(h)}</h3><p>{esc(d)}</p><span class="more">{esc(src)} ↗</span></a>' for h, d, u, src in l["sci"])
+    # mosaico animado de la portada (fotos de los artículos que van rotando)
+    def _dims(fn):
+        m = re.search(r'width="(\d+)" height="(\d+)"', g["wh_attr"](fn))
+        return (int(m.group(1)), int(m.group(2))) if m else None
+    pool, seen = [], set()
+    for s in secs:
+        for it in allsec.get(s[0], []):
+            fn = it.get("img")
+            if not fn or fn.endswith(".svg") or fn in seen or re.search(r"herencia|karyotype|cariotipo|expansion|cromosoma-adn|epigenetica|^info-", fn) or not g["has_img"](fn):
+                continue
+            seen.add(fn)
+            d = _dims(fn)
+            if not d or min(d) < 380:
+                continue
+            u = g["IMG"].get(fn, {}).get("url")
+            src = u.replace("w=1080", "w=760") if u else f"{r}assets/img/{fn}"
+            pool.append({"i": src, "a": round(d[0] / d[1], 2), "t": it["title"], "k": s[1], "u": f"{base}{s[0]}/{it['slug']}/",
+                         "c": re.sub("<[^>]+>", "", g["credit"](fn, lang))})
+    def _tile(p, cls=""):
+        pos = ' style="object-position:center 22%"' if p["a"] < 1 else ""
+        return (f'<a class="visual{cls}" href="{esc(p["u"])}"><img src="{esc(p["i"])}" alt="{esc(p["t"])}" title="{esc(p["c"])}" decoding="async"{pos}>'
+                f'<span><small>{esc(p["k"])}</small>{esc(p["t"])}</span></a>')
+    first = {"i": f"{r}assets/img/watson-crick-mccarty.jpg", "a": 1.27, "t": l["photo_t"], "k": "1953" if lang == "es" else "1953",
+             "u": f"{base}{l['photo_c'].split('href=\"')[1].split('\"')[0]}", "c": ""}
+    picks = [p for want in ("adn-estructura.jpg", "gemelos-mauch.jpg") for p in pool if p["i"].endswith("/" + want)][:2]
+    if len(picks) < 2:
+        picks = [p for p in pool if p["a"] >= 1.25][:2]
+    mosaic = ('<div class="heroimgs" data-pool="' + esc(json.dumps(pool, ensure_ascii=False)) + '">'
+              + _tile(first).replace('decoding="async"', 'decoding="async" fetchpriority="high" style="object-position:62% 40%"').replace(' title=""', '')
+              + "".join(_tile(p) for p in picks) + "</div>")
+    npers = next((len(allsec.get(s[0], [])) for s in secs if s[0] in ("personajes", "people")), 0)
+    ntot = sum(len(v) for k, v in allsec.items())
+    stats = "".join(f'<span><strong data-n="{v}">{v}</strong> {esc(lbl)}</span>' for v, lbl in (
+        (n(secs[0][0]), "enfermedades explicadas" if lang == "es" else "diseases explained"),
+        (npers, "personajes de la genética" if lang == "es" else "people in genetics"),
+        (ntot, "artículos con fuentes" if lang == "es" else "articles with sources"),
+        (2, "idiomas, gratis y sin registro" if lang == "es" else "languages, free, no sign-up")))
+    ticker = "".join(f'<a href="{base}{secs[0][0]}/{it["slug"]}/" tabindex="-1">{esc(it["title"])}</a>' for it in allsec.get(secs[0][0], []))
     body = f"""<section class="wrap hero">
   <div>
     <span class="eyebrow">{l['eyebrow']}</span>
@@ -285,9 +323,10 @@ def build(lang, g, allsec, search):
     <div class="actions"><a class="btn primary" href="{base}{secs[0][0]}/">{l['start']}</a><a class="btn" href="{base}{secs[1][0]}/">{l['play']}</a></div>
     <p class="hnote">{l['note']}</p>
   </div>
-  <figure class="arch"><img src="{r}assets/img/watson-crick-mccarty.jpg" width="1100" height="864" alt="{l['photo_alt']}" decoding="async" fetchpriority="high" style="object-position:62% 40%"><figcaption><b>{l['photo_t']}</b>{l['photo_c']}</figcaption></figure>
+  <div class="mosaic">{mosaic}<p class="hcred">{l['photo_c']}</p></div>
 </section>
-<div class="wrap"><div class="trust">{''.join(f'<span><b>{x}</b></span>' for x in l['trust'][:-1])}<span>{l['trust'][-1]}</span></div></div>
+<div class="wrap"><div class="stats">{stats}</div></div>
+<div class="ticker" aria-hidden="true"><div class="track">{ticker}{ticker}</div></div>
 
 <section class="section wrap" id="mapa">
   <div class="shead"><div><span class="eyebrow">{l['core_e']}</span><h2>{l['core_h']}</h2></div><p>{l['core_p']}</p></div>
