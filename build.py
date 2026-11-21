@@ -122,11 +122,42 @@ def avail(lang):
     return AVAIL[lang]
 
 
+NAV_MAIN = [0, 1, 2]
+NAV_GROUPS = {
+    "es": [("Ciencia básica", [4, 5, 14, 11, 13]), ("Salud y familia", [9, 6, 7, 8]),
+           ("Historia y sociedad", ["historia", 3, 10, 12]), ("Recursos", ["glosario", "quiz", "blog", 15, "fuentes"])],
+    "en": [("Core science", [4, 5, 14, 11, 13]), ("Health and family", [9, 6, 7, 8]),
+           ("History and society", ["history", 3, 10, 12]), ("Resources", ["glossary", "quiz", "blog", 15, "sources"])],
+}
+NAV_TX = {"es": ("Explorar", "Historia", "Todos los temas", "temas", "Buscar"),
+          "en": ("Explore", "History", "All topics", "topics", "Search")}
+
+
 def nav(lang, r):
     base = r + ("en/" if lang == "en" else "")
-    more = [("temas", "Más temas")] if lang == "es" else [("topics", "More topics")]
-    items = [(s[0], s[1]) for s in SECTIONS[lang][:6] if s[0] in avail(lang)] + more + [x for x in EXTRA[lang] if x[0] in avail(lang) and x[0] not in ("fuentes", "sources")]
-    return "".join(f'<a href="{base}{u}/">{esc(t)}</a>' for u, t in items)
+    av = avail(lang)
+    secs = SECTIONS[lang]
+    ext = dict(EXTRA[lang])
+    explore, hist, alltxt, allurl, srch = NAV_TX[lang]
+    hist_u = EXTRA[lang][0][0]
+
+    def item(k):
+        if isinstance(k, int):
+            s = secs[k]
+            return (s[0], s[1]) if s[0] in av else None
+        return (k, ext[k]) if k in av or k in ("fuentes", "sources") else None
+
+    top = [item(i) for i in NAV_MAIN] + [(hist_u, hist) if hist_u in av else None]
+    links = "".join(f'<a class="mtop" href="{base}{u}/">{esc(t)}</a>' for u, t in filter(None, top))
+    cols = ""
+    for title, keys in NAV_GROUPS[lang]:
+        its = [x for x in map(item, keys) if x]
+        lis = "".join(f'<li><a href="{base}{u}/">{esc(t)}</a></li>' for u, t in its)
+        cols += f'<div class="mcol"><p class="mh">{esc(title)}</p><ul>{lis}</ul></div>'
+    panel = (f'<div class="mega" id="mega"><div class="mgrid">{cols}</div>'
+             f'<p class="mall"><a href="{base}{allurl}/">{alltxt} →</a></p></div>')
+    btn = f'<button class="mbtn" type="button" aria-expanded="false" aria-controls="mega">{explore}</button>'
+    return links + btn + panel
 
 
 def page(lang, path, title, desc, body, *, ldtype="WebPage", extra_ld=None, full_title=False, alt=None, og_type="website"):
@@ -135,6 +166,9 @@ def page(lang, path, title, desc, body, *, ldtype="WebPage", extra_ld=None, full
     r = prefix(path)
     base = r + ("en/" if lang == "en" else "")
     url = SITE + path
+    if len(desc) > 160:
+        cutd = desc[:157].rsplit(" ", 1)[0].rstrip(",;:·—-")
+        desc = cutd + "…"
     if alt is None:
         rel = path[3:] if lang == "en" else path
         if lang == "es":
@@ -156,7 +190,7 @@ def page(lang, path, title, desc, body, *, ldtype="WebPage", extra_ld=None, full
         hreflang = (f'<link rel="alternate" hreflang="es" href="{SITE}{es_url}"><link rel="alternate" hreflang="en" href="{SITE}{en_url}">'
                     f'<link rel="alternate" hreflang="x-default" href="{SITE}{es_url}">')
     other_href = r + (en_url if lang == "es" else es_url) if (es_url is not None and en_url is not None) else r + ("en/" if lang == "es" else "")
-    ft = title if full_title else f"{title} · Geneticapedia"
+    ft = title if full_title or len(title) > 48 else f"{title} · Geneticapedia"
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "Organization", "@id": SITE + "#org", "name": "Geneticapedia", "url": SITE, "logo": SITE + "assets/favicon.svg"},
         {"@type": "WebSite", "@id": SITE + "#web", "name": "Geneticapedia", "url": SITE, "inLanguage": ["es", "en"], "publisher": {"@id": SITE + "#org"}},
@@ -201,9 +235,9 @@ def page(lang, path, title, desc, body, *, ldtype="WebPage", extra_ld=None, full
 <footer class="foot"><div class="wrap">
   <div class="cols">
     <div><a class="brand" href="{base}"><span class="sym" aria-hidden="true"><img src="{r}assets/favicon.svg" alt="" width="26" height="26" style="display:block"></span>Geneticapedia</a><p style="margin-top:10px">{t['foot']}</p><div class="help">{t['help']}</div></div>
-    <div><h4>{t['sec']}</h4>{sections_links}</div>
-    <div><h4>{t['proj']}</h4>{proj_links}</div>
-    <div><h4>{t['net']}</h4>{net_links}</div>
+    <div><h2 class="fh">{t['sec']}</h2>{sections_links}</div>
+    <div><h2 class="fh">{t['proj']}</h2>{proj_links}</div>
+    <div><h2 class="fh">{t['net']}</h2>{net_links}</div>
   </div>
   <p style="margin:22px 0 0">{t['author']} <a style="display:inline" href="{base}{PROJECT[lang][0][0]}/">{PROJECT[lang][0][1]}</a></p><p style="margin:6px 0 0">{t['tagline']}</p><p style="margin:6px 0 0">{t['lic']}</p>
 </div></footer>
@@ -262,11 +296,31 @@ def isrc(fn, r="@@R@@"):
     return esc(u) if u else f"{r}assets/img/{fn}"
 
 
+_DIM = {}
+
+
+def wh_attr(fn):
+    c = IMG.get(fn, {})
+    if c.get("w") and c.get("h"):
+        return f' width="{c["w"]}" height="{c["h"]}"'
+    p = os.path.join(ROOT, "assets", "img", fn)
+    if fn not in _DIM:
+        _DIM[fn] = None
+        if os.path.exists(p) and not fn.endswith(".svg"):
+            try:
+                from PIL import Image
+                with Image.open(p) as im:
+                    _DIM[fn] = im.size
+            except Exception:
+                pass
+    d = _DIM[fn]
+    return f' width="{d[0]}" height="{d[1]}"' if d else ""
+
+
 def figure(fn, alt, cap, lang, cls="fig"):
     if not has_img(fn):
         return ""
-    c = IMG.get(fn, {})
-    wh = f' width="{c["w"]}" height="{c["h"]}"' if c else ""
+    wh = wh_attr(fn)
     return f'<figure class="{cls}"><img src="{isrc(fn)}" alt="{esc(alt)}"{wh} loading="lazy" decoding="async"><figcaption>{esc(cap)} {credit(fn, lang)}</figcaption></figure>'
 
 
@@ -390,22 +444,23 @@ def article_page(lang, sec, item, siblings, search):
     if item.get("vida"):
         rows = ([("Vida", "vida"), ("País", "pais"), ("Campo", "campo"), ("Aportación clave", "aporte"), ("Reconocimientos", "premio")] if lang == "es" else
                 [("Life", "vida"), ("Country", "pais"), ("Field", "campo"), ("Key contribution", "aporte"), ("Honours", "premio")])
-        img = f'<img src="{isrc(item["img"])}" alt="{esc(item["title"])}" loading="lazy">' if has_img(item.get("img")) else ""
+        img = f'<img src="{isrc(item["img"])}" alt="{esc(item["title"])}"{wh_attr(item["img"])} loading="lazy" decoding="async">' if has_img(item.get("img")) else ""
         cred = f'<p class="fcred">{credit(item["img"], lang)}</p>' if has_img(item.get("img")) else ""
-        ficha = f'<div class="box ficha">{img}<h4>{esc(item["title"])}</h4><dl>' + "".join(f'<dt>{a}</dt><dd>{esc(item[k])}</dd>' for a, k in rows if item.get(k)) + f'</dl>{cred}</div>'
+        ficha = f'<div class="box ficha">{img}<h2 class="bh">{esc(item["title"])}</h2><dl>' + "".join(f'<dt>{a}</dt><dd>{esc(item[k])}</dd>' for a, k in rows if item.get(k)) + f'</dl>{cred}</div>'
     elif item.get("img"):
         hero = figure(item["img"], item.get("img_alt", item["title"]), item.get("img_pie", ""), lang, "fig hero")
     sib = "".join(f'<li><a href="{base}{sec[0]}/{s["slug"]}/">{esc(s["title"])}</a></li>' for s in siblings if s["slug"] != item["slug"])
     crumbs = f'<nav class="crumbs" aria-label="breadcrumb"><a href="{base}">{t["home"]}</a> › <a href="{base}{sec[0]}/">{esc(sec[1])}</a></nav>'
     body = f"""<header class="phead wrap">{crumbs}<span class="eyebrow">{esc(sec[1])}</span><h1>{esc(item['title'])}</h1><p class="lead">{esc(item['desc'])}</p></header>
 <div class="wrap article{' has-ficha' if ficha else ''}"><article class="prose">{disc}{hero}{body_html}<p class="meta">{t['by']} · {t['upd']}: {item.get('updated', TODAY)} · {t['err']} <a href="mailto:{MAIL}">{MAIL}</a></p></article>
-<aside class="aside">{ficha}<div class="box"><h4>{t['more']}: {esc(sec[1])}</h4><ul>{sib}</ul></div></aside></div>"""
+<aside class="aside">{ficha}<div class="box"><h2 class="bh">{t['more']}: {esc(sec[1])}</h2><ul>{sib}</ul></div></aside></div>"""
     body = body.replace("@@R@@", r)
     ldtype = "MedicalWebPage" if item.get("health") == "si" else "Article"
     extra = {"headline": item["title"], "author": {"@type": "Person", "name": "Alejandro Rosàs", "jobTitle": "Médico de familia" if lang == "es" else "Family physician"}, "datePublished": item.get("updated", TODAY)}
     if ldtype == "MedicalWebPage":
         extra["lastReviewed"] = item.get("updated", TODAY)
-    write(path, page(lang, path, item["title"], item["desc"], body, ldtype=ldtype, extra_ld=extra, og_type="article", alt=item.get("alt")))
+    ptitle = item["title"] + (", biografía" if lang == "es" else ": biography") if item.get("vida") else item["title"]
+    write(path, page(lang, path, ptitle, item["desc"], body, ldtype=ldtype, extra_ld=extra, og_type="article", alt=item.get("alt")))
     search.append({"t": item["title"], "d": item["desc"], "u": path[len(lp):], "k": sec[1], "n": strip_tags(body_html.replace("@@R@@", ""))[:600]})
 
 
@@ -416,14 +471,14 @@ def section_index(lang, sec, items, search):
     r = prefix(path)
     def thumb(it):
         if has_img(it.get("img")):
-            return f'<img class="cimg" src="{isrc(it["img"], r)}" alt="" loading="lazy">'
+            return f'<img class="cimg" src="{isrc(it["img"], r)}" alt="" width="640" height="360" loading="lazy" decoding="async">'
         if it.get("vida"):
             ini = "".join(w[0] for w in it["title"].split()[:2])
             return f'<span class="cimg ph" aria-hidden="true">{esc(ini)}</span>'
         return ""
     def sub(it):
         return f'<span class="tag">{esc(it["vida"])}</span>' if it.get("vida") else ""
-    cards = "".join(f'<a class="card{" person" if it.get("vida") else ""}" href="./{it["slug"]}/">{thumb(it)}<span class="num">{i:02d}</span>{sub(it)}<h3>{esc(it["title"])}</h3><p>{esc(it["desc"])}</p><span class="more">{t["read"]}</span></a>' for i, it in enumerate(items, 1))
+    cards = "".join(f'<a class="card{" person" if it.get("vida") else ""}" href="./{it["slug"]}/">{thumb(it)}<span class="num">{i:02d}</span>{sub(it)}<h2 class="ch">{esc(it["title"])}</h2><p>{esc(it["desc"])}</p><span class="more">{t["read"]}</span></a>' for i, it in enumerate(items, 1))
     body = f"""<header class="phead wrap"><span class="eyebrow">{esc(sec[1])}</span><h1>{esc(sec[2])}</h1><p class="lead">{esc(sec[3])}</p></header>
 <section class="wrap section" style="padding-top:0"><div class="grid">{cards}</div></section>"""
     write(path, page(lang, path, sec[2], sec[3], body, ldtype="CollectionPage"))

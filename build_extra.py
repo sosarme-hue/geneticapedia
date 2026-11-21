@@ -128,7 +128,7 @@ def build(lang, g, allsec, search):
         others = "".join(f'<li><a href="../{o["slug"]}/">{esc(o["title"])}</a></li>' for o in posts if o is not p)
         out = f"""<header class="phead wrap">{crumbs}<span class="eyebrow">Blog · {(brief_l + " · ") if p.get("tipo") == "breve" else ""}<time datetime="{p['date']}">{l['date_fmt'](p['date'])}</time></span><h1>{esc(p['title'])}</h1><p class="lead">{esc(p['desc'])}</p></header>
 <div class="wrap article"><article class="prose">{h}<p class="meta">{t['by']} · {t['err']} <a href="mailto:{MAIL}">{MAIL}</a></p></article>
-<aside class="aside"><div class="box"><h4>{t['posts']}</h4><ul>{others}</ul><p style="margin:10px 0 0"><a href="../">{t['allposts']} →</a></p></div></aside></div>"""
+<aside class="aside"><div class="box"><h2 class="bh">{t['posts']}</h2><ul>{others}</ul><p style="margin:10px 0 0"><a href="../">{t['allposts']} →</a></p></div></aside></div>"""
         write(path, page(lang, path, p["title"], p["desc"], out, ldtype="BlogPosting", og_type="article", alt=p.get("alt"),
                          extra_ld={"headline": p["title"], "datePublished": p["date"], "author": {"@type": "Person", "name": "Alejandro Rosàs"}}))
         search.append({"t": p["title"], "d": p["desc"], "u": path[len(lp):], "k": "Blog", "n": g["strip_tags"](h)[:400]})
@@ -169,8 +169,7 @@ def build(lang, g, allsec, search):
             return ""
         if fn not in used_imgs:
             used_imgs.append(fn)
-        c = g["IMG"].get(fn, {})
-        wh = f' width="{c["w"]}" height="{c["h"]}"' if c.get("w") and c.get("h") else ""
+        wh = g["wh_attr"](fn)
         return f'<figure class="tlimg"><img src="{g["isrc"](fn, "../" * path.count("/"))}" alt="{esc(x[1])}"{wh} loading="lazy" decoding="async"></figure>'
     def _li(i):
         x = tl[i]
