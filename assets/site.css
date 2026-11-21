@@ -511,3 +511,8 @@ img.zoomable:focus-visible{outline:3px solid var(--accent2);outline-offset:3px}
 .lbx:hover,.lbx:focus-visible{background:rgba(255,255,255,.28)}
 html.lbox-on{overflow:hidden}
 .lbox .credit{color:#c3cbe0}
+sup.cite{font-size:.7em;line-height:0;margin-left:1px;font-weight:700}
+sup.cite a{text-decoration:none;color:var(--accent);padding:0 1px}
+sup.cite a:hover{text-decoration:underline}
+.refs li{scroll-margin-top:80px}
+.refs li:target{background:var(--goldsoft);border-radius:4px}
