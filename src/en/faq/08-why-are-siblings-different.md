@@ -1,6 +1,9 @@
 ---
 title: Why are brothers and sisters different?
 desc: Because each child receives a different mix of their parents' genes. Two siblings share on average half of their variants.
+img: hermanos.jpg
+img_alt: Three siblings sitting on the grass
+img_pie: Each sibling receives a different mix of their parents' genes.
 ---
 ## Short answer
 

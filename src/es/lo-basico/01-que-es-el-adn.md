@@ -1,6 +1,9 @@
 ---
 title: Qué es el ADN
 desc: La molécula que guarda las instrucciones para construir y mantener un ser vivo, explicada desde cero.
+img: adn-estructura.jpg
+img_alt: Estructura de la doble hélice de ADN
+img_pie: La doble hélice: dos cadenas unidas por pares de bases A-T y C-G.
 ---
 ## Una receta escrita con cuatro letras
 

@@ -2,6 +2,9 @@
 title: Li-Fraumeni syndrome
 desc: A very high inherited predisposition to several cancers from childhood, caused by variants in TP53, the so-called "guardian of the genome". A yearly whole-body MRI helps catch them early.
 health: si
+img: familia-generaciones.jpg
+img_alt: Family of several generations
+img_pie: Li-Fraumeni is suspected when several early cancers appear in the same family.
 ---
 ## At a glance
 

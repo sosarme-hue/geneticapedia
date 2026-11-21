@@ -1,6 +1,9 @@
 ---
 title: Epigenetics
 desc: The chemical marks that switch genes on and off without changing the DNA sequence. What is known and what is exaggerated.
+img: epigenetica.jpg
+img_alt: Epigenetic mechanisms
+img_pie: DNA methylation and histone modification, the main epigenetic marks.
 ---
 ## Above the DNA
 

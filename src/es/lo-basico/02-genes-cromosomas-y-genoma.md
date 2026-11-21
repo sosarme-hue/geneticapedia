@@ -1,6 +1,9 @@
 ---
 title: Genes, cromosomas y genoma
 desc: Tres palabras que se confunden a menudo. Qué es cada una y cómo encajan entre sí.
+img: cromosoma-adn-gen.jpg
+img_alt: Del cromosoma al gen
+img_pie: El ADN se enrolla para formar cromosomas; un gen es un tramo de ese ADN.
 ---
 ## La comparación de la biblioteca
 

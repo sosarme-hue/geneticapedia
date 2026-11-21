@@ -2,6 +2,9 @@
 title: Retinitis pigmentosa and Leber congenital amaurosis
 desc: Inherited retinal dystrophies are the leading cause of genetic blindness. More than 300 genes can be involved, and one of them got the first gene therapy approved for an inherited disease.
 health: si
+img: retinosis-fondo.jpg
+img_alt: Fundus with retinitis pigmentosa
+img_pie: Fundus at a mid stage of retinitis pigmentosa, with the typical pigment deposits.
 ---
 ## At a glance
 

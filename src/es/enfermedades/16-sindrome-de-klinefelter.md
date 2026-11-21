@@ -2,6 +2,9 @@
 title: Síndrome de Klinefelter
 desc: La alteración cromosómica más frecuente en hombres, con un cromosoma X de más. Muchos no lo saben nunca, y a menudo se descubre por infertilidad. Diagnosticarlo a tiempo permite tratar la falta de testosterona.
 health: si
+img: cariotipo-xxy.jpg
+img_alt: Cariotipo 47,XXY
+img_pie: Cariotipo con un cromosoma X de más (47,XXY), la causa del síndrome de Klinefelter.
 ---
 ## En pocas palabras
 

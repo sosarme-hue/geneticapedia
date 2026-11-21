@@ -2,6 +2,9 @@
 title: Neurofibromatosis type 1
 desc: One of the most common dominant genetic conditions, with café-au-lait spots and benign tumours on nerves. There is now a first targeted drug for its most difficult tumours.
 health: si
+img: nf1-sintomas.jpg
+img_alt: Skin signs of neurofibromatosis type 1
+img_pie: Café-au-lait spots and neurofibromas, the most visible signs of NF1.
 ---
 ## At a glance
 

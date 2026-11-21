@@ -1,6 +1,9 @@
 ---
 title: Identificación de víctimas
 desc: Tras catástrofes, atentados y guerras, el ADN devuelve el nombre a quienes lo perdieron. De los nietos robados en Argentina a las fosas de la Guerra Civil española.
+img: pipeta-lab.jpg
+img_alt: Científica pipeteando en un laboratorio
+img_pie: Identificar víctimas exige comparar perfiles genéticos con los de sus familiares.
 ---
 ## En pocas palabras
 

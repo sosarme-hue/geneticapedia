@@ -2,6 +2,9 @@
 title: What is a rare disease?
 desc: Each one affects very few people, but together they add up to millions. Most are genetic, start in childhood and take years to diagnose.
 health: si
+img: cebra.jpg
+img_alt: Zebra on the savannah
+img_pie: The zebra is the symbol of rare diseases: 'when you hear hoofbeats, think horses… but sometimes it is a zebra'.
 ---
 ## At a glance
 

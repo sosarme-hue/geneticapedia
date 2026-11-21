@@ -2,6 +2,9 @@
 title: Qué es una enfermedad rara
 desc: Cada una afecta a muy pocas personas, pero juntas suman millones. La mayoría son genéticas, empiezan en la infancia y tardan años en diagnosticarse.
 health: si
+img: cebra.jpg
+img_alt: Cebra en la sabana
+img_pie: La cebra es el símbolo de las enfermedades raras: «cuando oigas cascos, piensa en caballos… pero a veces es una cebra».
 ---
 ## En pocas palabras
 

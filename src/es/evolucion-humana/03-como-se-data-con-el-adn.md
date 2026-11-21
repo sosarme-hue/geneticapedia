@@ -1,6 +1,9 @@
 ---
 title: Cómo se data con el ADN
 desc: El reloj molecular, el ADN antiguo y los fragmentos neandertales permiten fechar acontecimientos que ningún documento recogió. Cómo funcionan y cuáles son sus límites.
+img: excavacion.jpg
+img_alt: Arqueólogos excavando un yacimiento
+img_pie: El ADN antiguo y la datación permiten poner fecha a lo que sale de las excavaciones.
 ---
 ## En pocas palabras
 

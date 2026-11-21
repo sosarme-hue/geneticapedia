@@ -2,6 +2,9 @@
 title: Retinosis pigmentaria y amaurosis congénita de Leber
 desc: Las distrofias hereditarias de la retina son la principal causa de ceguera genética. Más de 300 genes pueden estar implicados, y una de ellas tuvo la primera terapia génica aprobada para una enfermedad hereditaria.
 health: si
+img: retinosis-fondo.jpg
+img_alt: Fondo de ojo con retinosis pigmentaria
+img_pie: Fondo de ojo en una fase intermedia de retinosis pigmentaria, con los depósitos de pigmento típicos.
 ---
 ## En pocas palabras
 

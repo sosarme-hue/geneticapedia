@@ -2,6 +2,9 @@
 title: Does public healthcare cover genetic tests?
 desc: Yes, when there is a medical reason. In Spain genetic tests are part of the National Health System's common portfolio and are requested through specialists.
 health: si
+img: pasillo-hospital.jpg
+img_alt: Hospital corridor
+img_pie: Public healthcare covers genetic tests when there is a medical reason.
 ---
 ## Short answer
 

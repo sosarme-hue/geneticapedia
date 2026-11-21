@@ -2,6 +2,9 @@
 title: Planning a pregnancy when a condition runs in the family
 desc: What to do before trying for a baby if there is a genetic condition in your family or your partner's. When to ask for genetic counselling, which tests exist and what reproductive options there are.
 health: si
+img: embarazo-ecografia.jpg
+img_alt: Pregnant woman holding an ultrasound scan
+img_pie: Planning ahead allows time for tests and for knowing the options before pregnancy.
 ---
 ## At a glance
 

@@ -1,6 +1,9 @@
 ---
 title: Genetic discrimination
 desc: Can an insurer or an employer use your genes against you? What the laws protect in Spain, Europe and the United States, and where the gaps are.
+img: entrevista.jpg
+img_alt: Job interview
+img_pie: The law bans the use of genetic information to discriminate at work.
 ---
 ## At a glance
 

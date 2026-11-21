@@ -2,6 +2,9 @@
 title: ¿Se hereda el cáncer?
 desc: Casi nunca. Solo entre un 5 y un 10 % de los cánceres se deben a una variante heredada. Cuándo sospecharlo y qué hacer.
 health: si
+img: consulta-medica.jpg
+img_alt: Médico hablando con un paciente
+img_pie: Si hay varios casos de cáncer en la familia, conviene comentarlo con el médico.
 ---
 ## Respuesta corta
 

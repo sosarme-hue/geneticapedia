@@ -1,6 +1,9 @@
 ---
 title: Genes, chromosomes and genome
 desc: Three words that are often confused. What each one is and how they fit together.
+img: cromosoma-adn-gen.jpg
+img_alt: From chromosome to gene
+img_pie: DNA coils up to form chromosomes; a gene is a stretch of that DNA.
 ---
 ## The library comparison
 

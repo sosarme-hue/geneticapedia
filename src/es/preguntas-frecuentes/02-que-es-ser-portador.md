@@ -2,6 +2,9 @@
 title: ¿Qué es ser portador de una enfermedad genética?
 desc: Tener una copia alterada de un gen sin tener la enfermedad. Todos somos portadores de algo; solo importa si tu pareja lo es de lo mismo.
 health: si
+img: fq-herencia.jpg
+img_alt: Esquema de herencia recesiva con dos portadores
+img_pie: Dos portadores sanos tienen un 25 % de probabilidad de tener un hijo afectado en cada embarazo.
 ---
 ## Respuesta corta
 

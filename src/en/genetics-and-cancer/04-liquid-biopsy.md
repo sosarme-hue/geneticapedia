@@ -2,6 +2,9 @@
 title: Liquid biopsy
 desc: A blood test that looks for fragments of tumour DNA. It is already used to choose treatments and watch for relapse, and is being studied as a way to detect cancer before it causes symptoms.
 health: si
+img: tubos-sangre.jpg
+img_alt: Blood tubes in a laboratory
+img_pie: A liquid biopsy looks for tumour DNA in a simple blood sample.
 ---
 ## At a glance
 

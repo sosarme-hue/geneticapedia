@@ -2,6 +2,9 @@
 title: Is it risky to have children with a cousin?
 desc: The risk of a genetic condition or malformation increases, but less than people often think: from about 2–3 % to about 4–6 % for first cousins.
 health: si
+img: arbol-genealogico.jpg
+img_alt: Medical consultation with a family
+img_pie: Genetic counselling helps to assess the risk when partners are related.
 ---
 ## Short answer
 

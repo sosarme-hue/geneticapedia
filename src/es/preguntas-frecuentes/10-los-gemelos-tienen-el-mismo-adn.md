@@ -1,6 +1,9 @@
 ---
 title: ¿Los gemelos tienen el mismo ADN?
 desc: Los gemelos idénticos tienen un ADN casi igual, pero no exactamente. Los mellizos se parecen genéticamente como cualquier par de hermanos.
+img: gemelos-mauch.jpg
+img_alt: Gemelos idénticos
+img_pie: Los gemelos idénticos comparten casi todo su ADN, pero no son copias exactas.
 ---
 ## Respuesta corta
 

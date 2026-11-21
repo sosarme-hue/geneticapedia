@@ -2,6 +2,9 @@
 title: Neurofibromatosis tipo 1
 desc: Una de las enfermedades genéticas dominantes más frecuentes, con manchas café con leche y tumores benignos en los nervios. Ahora existe el primer fármaco dirigido para sus tumores más difíciles.
 health: si
+img: nf1-sintomas.jpg
+img_alt: Manifestaciones cutáneas de la neurofibromatosis tipo 1
+img_pie: Manchas café con leche y neurofibromas, los signos más visibles de la NF1.
 ---
 ## En pocas palabras
 

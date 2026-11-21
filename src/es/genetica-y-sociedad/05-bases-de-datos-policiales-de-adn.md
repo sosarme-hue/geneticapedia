@@ -1,6 +1,9 @@
 ---
 title: Bases de datos policiales de ADN
 desc: Millones de perfiles genéticos ayudan a resolver delitos en todo el mundo. Qué se guarda en España, quién puede consultarlo y qué límites han puesto los tribunales.
+img: coche-policia.jpg
+img_alt: Coche de policía con las luces encendidas
+img_pie: Las bases de datos policiales de ADN guardan perfiles de detenidos y condenados.
 ---
 ## En pocas palabras
 

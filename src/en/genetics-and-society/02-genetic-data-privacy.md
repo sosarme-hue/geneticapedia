@@ -1,6 +1,9 @@
 ---
 title: Genetic data privacy
 desc: Your DNA is the most personal data there is, and it is almost impossible to anonymise. What protection European law offers and what the risks are.
+img: candado-teclado.jpg
+img_alt: Padlock on a keyboard
+img_pie: Genetic data are especially sensitive: they reveal things about you and your family.
 ---
 ## At a glance
 

@@ -1,6 +1,9 @@
 ---
 title: ¿Vale la pena un test de ancestría?
 desc: Puede ser divertido y encontrar parientes, pero sus porcentajes de origen son estimaciones, no son pruebas médicas fiables y entregas datos que afectan a toda tu familia.
+img: expansion-sapiens.jpg
+img_alt: Mapa de las migraciones humanas
+img_pie: Los tests de ancestría comparan tu ADN con el de poblaciones de referencia.
 ---
 ## Respuesta corta
 

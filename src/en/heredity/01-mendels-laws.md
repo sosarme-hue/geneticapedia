@@ -1,6 +1,9 @@
 ---
 title: Mendel's laws
 desc: How a friar in Brno discovered the basic rules of heredity by crossing pea plants.
+img: guisantes-vainas.jpg
+img_alt: Peas and pods
+img_pie: Mendel discovered the laws of inheritance by crossing thousands of pea plants.
 ---
 ## The friar and the peas
 

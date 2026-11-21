@@ -1,6 +1,9 @@
 ---
 title: Can genes be patented?
 desc: The Myriad case, which reached the US Supreme Court in 2013, changed the rules. What can be patented today, what cannot, and the battle over CRISPR patents.
+img: secuenciador.jpg
+img_alt: DNA sequencer
+img_pie: Can a gene be patented? Courts have said no, but techniques can be.
 ---
 ## At a glance
 

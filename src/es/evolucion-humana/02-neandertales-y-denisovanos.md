@@ -1,6 +1,9 @@
 ---
 title: Neandertales y denisovanos
 desc: Nuestros antepasados se cruzaron con otras especies humanas, y llevamos su ADN dentro. Algunas de esas herencias nos ayudan; otras nos hacen más vulnerables.
+img: denisovano-craneo.jpg
+img_alt: Cráneo de Harbin
+img_pie: El cráneo de Harbin, que estudios recientes vinculan con los denisovanos.
 ---
 ## En pocas palabras
 

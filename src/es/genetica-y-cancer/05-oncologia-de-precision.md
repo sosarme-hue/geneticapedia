@@ -2,6 +2,9 @@
 title: Oncología de precisión
 desc: Tratar el cáncer según los cambios genéticos de cada tumor. Del imatinib a los inhibidores de PARP y las células CAR-T, los fármacos dirigidos han cambiado el pronóstico de muchos cánceres.
 health: si
+img: pastillas.jpg
+img_alt: Pastillas
+img_pie: La oncología de precisión elige el fármaco según las alteraciones del tumor.
 ---
 ## En pocas palabras
 

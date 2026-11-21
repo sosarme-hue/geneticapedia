@@ -2,6 +2,9 @@
 title: Síndrome de Li-Fraumeni
 desc: Una predisposición hereditaria muy alta a varios tipos de cáncer desde la infancia, causada por variantes en TP53, el llamado "guardián del genoma". Una resonancia anual de cuerpo entero ayuda a detectarlos a tiempo.
 health: si
+img: familia-generaciones.jpg
+img_alt: Familia de varias generaciones
+img_pie: Li-Fraumeni se sospecha cuando aparecen varios cánceres a edades tempranas en una misma familia.
 ---
 ## En pocas palabras
 

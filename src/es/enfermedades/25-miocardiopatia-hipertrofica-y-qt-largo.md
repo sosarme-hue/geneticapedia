@@ -2,6 +2,9 @@
 title: Miocardiopatía hipertrófica y síndrome de QT largo
 desc: Dos cardiopatías hereditarias que pueden causar muerte súbita en personas jóvenes y aparentemente sanas. Cuando una persona joven muere de forma súbita, estudiar a su familia salva vidas.
 health: si
+img: miocardiopatia.jpg
+img_alt: Corazón con miocardiopatía hipertrófica
+img_pie: Engrosamiento del músculo cardiaco en la miocardiopatía hipertrófica.
 ---
 ## En pocas palabras
 

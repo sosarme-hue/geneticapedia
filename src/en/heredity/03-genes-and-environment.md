@@ -1,6 +1,9 @@
 ---
 title: Genes and environment
 desc: Not everything is written in DNA, and not everything is up to us. What "heritable" really means.
+img: verduras.jpg
+img_alt: Assorted vegetables
+img_pie: Diet, exercise and surroundings shape what our genes do.
 ---
 ## A false fight
 

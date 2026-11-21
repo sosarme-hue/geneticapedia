@@ -1,6 +1,9 @@
 ---
 title: Why biological races do not exist
 desc: Humans are genetically very similar, variation is gradual and most of it lies within each population. What genetics says about "race" and why ancestry still matters in medicine.
+img: manos-diversas.jpg
+img_alt: Hands of diverse people together
+img_pie: Visible differences between populations are a tiny part of our genetic variation.
 ---
 ## At a glance
 

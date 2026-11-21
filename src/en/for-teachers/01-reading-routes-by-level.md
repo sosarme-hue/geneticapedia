@@ -1,6 +1,9 @@
 ---
 title: Reading routes by level
 desc: How to use Geneticapedia in Biology lessons, from age 15 to pre-university and health vocational courses. Ordered article routes with aims and discussion questions.
+img: aula.jpg
+img_alt: Students in class with their teacher
+img_pie: Reading routes designed for each school level.
 ---
 ## Who this guide is for
 

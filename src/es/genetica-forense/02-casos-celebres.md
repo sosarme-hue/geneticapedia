@@ -1,6 +1,9 @@
 ---
 title: Casos célebres resueltos con ADN
 desc: Los Romanov, Ricardo III, inocentes liberados y un error judicial en España: historias en las que el ADN cambió el final.
+img: cinta-policial.jpg
+img_alt: Cinta policial
+img_pie: El ADN ha resuelto crímenes y ha demostrado la inocencia de condenados por error.
 ---
 ## La familia Romanov
 

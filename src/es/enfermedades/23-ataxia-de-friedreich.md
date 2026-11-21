@@ -2,6 +2,9 @@
 title: Ataxia de Friedreich
 desc: La ataxia hereditaria más frecuente. Una repetición de tres letras en el gen de la frataxina daña los nervios y el corazón desde la adolescencia. Desde 2023 existe el primer tratamiento aprobado.
 health: si
+img: frataxina.jpg
+img_alt: Estructura de la proteína frataxina
+img_pie: La frataxina, la proteína que falta en la ataxia de Friedreich.
 ---
 ## En pocas palabras
 

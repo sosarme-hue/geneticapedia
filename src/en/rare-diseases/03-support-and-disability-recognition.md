@@ -2,6 +2,9 @@
 title: Support and disability recognition
 desc: What rights and support exist in Spain for people with a rare or genetic disease and their families, and how to apply.
 health: si
+img: papeles-mesa.jpg
+img_alt: Papers and a pen on a table
+img_pie: Applying for support and disability recognition takes reports and some paperwork.
 ---
 ## At a glance
 

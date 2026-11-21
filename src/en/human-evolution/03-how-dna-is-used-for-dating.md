@@ -1,6 +1,9 @@
 ---
 title: How DNA is used for dating
 desc: The molecular clock, ancient DNA and Neanderthal fragments make it possible to date events that no document recorded. How they work and what their limits are.
+img: excavacion.jpg
+img_alt: Archaeologists excavating a site
+img_pie: Ancient DNA and dating put a date on what comes out of excavations.
 ---
 ## At a glance
 

@@ -1,6 +1,9 @@
 ---
 title: Mutations and variants
 desc: What a change in DNA is, why almost all are harmless and when they cause disease.
+img: mutaciones-cromosomicas.jpg
+img_alt: Types of chromosome mutations
+img_pie: Deletions, duplications, inversions and other chromosome changes.
 ---
 ## A word with a bad reputation
 

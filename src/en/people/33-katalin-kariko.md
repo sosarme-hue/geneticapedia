@@ -6,6 +6,9 @@ pais: Hungary (later a US citizen)
 campo: Biochemistry, RNA
 aporte: Modified messenger RNA that does not trigger inflammation (2005)
 premio: Nobel Prize in Physiology or Medicine (2023), Princess of Asturias Award (2021)
+img: p-kariko.jpg
+img_alt: Katalin Karikó
+img_pie: Katalin Karikó in 2024.
 ---
 ## Who she is
 

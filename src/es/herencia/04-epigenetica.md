@@ -1,6 +1,9 @@
 ---
 title: Epigenética
 desc: Las marcas químicas que encienden y apagan genes sin cambiar la secuencia del ADN. Lo que se sabe y lo que se exagera.
+img: epigenetica.jpg
+img_alt: Mecanismos epigenéticos
+img_pie: Metilación del ADN y modificación de histonas, las principales marcas epigenéticas.
 ---
 ## Por encima del ADN
 

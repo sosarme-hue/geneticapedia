@@ -1,6 +1,9 @@
 ---
 title: Do twins have the same DNA?
 desc: Identical twins have almost the same DNA, but not exactly. Non-identical twins are as genetically similar as any pair of siblings.
+img: gemelos-mauch.jpg
+img_alt: Identical twins
+img_pie: Identical twins share almost all their DNA, but they are not exact copies.
 ---
 ## Short answer
 

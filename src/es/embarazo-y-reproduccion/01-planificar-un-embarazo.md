@@ -2,6 +2,9 @@
 title: Planificar un embarazo cuando hay una enfermedad en la familia
 desc: Qué hacer antes de buscar un hijo si en tu familia o en la de tu pareja hay una enfermedad genética. Cuándo pedir consejo genético, qué pruebas existen y qué opciones reproductivas hay.
 health: si
+img: embarazo-ecografia.jpg
+img_alt: Mujer embarazada con una ecografía
+img_pie: Planificar con tiempo permite hacer pruebas y conocer las opciones antes del embarazo.
 ---
 ## En pocas palabras
 

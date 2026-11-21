@@ -2,6 +2,9 @@
 title: Distrofia miotónica
 desc: La distrofia muscular más frecuente en adultos. Los músculos no se relajan bien tras contraerse, pero afecta también al corazón, los ojos y el cerebro. Y se agrava de una generación a la siguiente.
 health: si
+img: distrofia-miotonica.jpg
+img_alt: Músculos afectados en la distrofia miotónica
+img_pie: Distribución típica de la debilidad muscular en la distrofia miotónica.
 ---
 ## En pocas palabras
 

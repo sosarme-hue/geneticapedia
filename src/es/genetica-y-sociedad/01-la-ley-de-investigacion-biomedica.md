@@ -1,6 +1,9 @@
 ---
 title: La ley de investigación biomédica y los análisis genéticos
 desc: En España, la Ley 14/2007 fija las reglas de los análisis genéticos: consentimiento, consejo genético, derecho a no saber y prohibición de discriminar. Qué dice y por qué importa.
+img: justicia-mazo.jpg
+img_alt: Mazo y estatua de la justicia
+img_pie: La ley regula quién puede hacer pruebas genéticas y cómo se protegen los datos.
 ---
 ## En pocas palabras
 

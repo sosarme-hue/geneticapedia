@@ -2,6 +2,9 @@
 title: Friedreich's ataxia
 desc: The most common inherited ataxia. A three-letter repeat in the frataxin gene damages nerves and the heart from adolescence. Since 2023 there has been a first approved treatment.
 health: si
+img: frataxina.jpg
+img_alt: Structure of the frataxin protein
+img_pie: Frataxin, the protein that is lacking in Friedreich's ataxia.
 ---
 ## At a glance
 

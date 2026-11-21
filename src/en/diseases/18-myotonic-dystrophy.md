@@ -2,6 +2,9 @@
 title: Myotonic dystrophy
 desc: The most common muscular dystrophy in adults. Muscles do not relax properly after contracting, but it also affects the heart, eyes and brain. And it gets worse from one generation to the next.
 health: si
+img: distrofia-miotonica.jpg
+img_alt: Muscles affected in myotonic dystrophy
+img_pie: Typical distribution of muscle weakness in myotonic dystrophy.
 ---
 ## At a glance
 

@@ -2,6 +2,9 @@
 title: Dónde se atienden las enfermedades raras en España
 desc: Unidades de referencia, redes europeas, registros e institutos de investigación. Un mapa de los recursos públicos para las personas con enfermedades raras y sus familias.
 health: si
+img: pasillo-hospital.jpg
+img_alt: Pasillo de hospital
+img_pie: Las unidades de referencia (CSUR) concentran la experiencia en enfermedades poco frecuentes.
 ---
 ## En pocas palabras
 

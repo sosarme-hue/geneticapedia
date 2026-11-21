@@ -1,6 +1,9 @@
 ---
 title: ¿Por qué los hermanos no son iguales?
 desc: Porque cada hijo recibe una mezcla distinta de los genes de sus padres. Dos hermanos comparten de media la mitad de sus variantes.
+img: hermanos.jpg
+img_alt: Tres hermanos sentados en la hierba
+img_pie: Cada hermano recibe una combinación distinta de los genes de sus padres.
 ---
 ## Respuesta corta
 

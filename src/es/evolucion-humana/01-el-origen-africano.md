@@ -1,6 +1,9 @@
 ---
 title: El origen africano de la humanidad
 desc: Todos los seres humanos actuales descendemos de poblaciones que vivieron en África hace unos 300.000 años. El ADN, junto con los fósiles, cuenta cómo salimos de allí y poblamos el planeta.
+img: expansion-sapiens.jpg
+img_alt: Mapa de la expansión del Homo sapiens
+img_pie: Las rutas por las que Homo sapiens salió de África y se extendió por el mundo.
 ---
 ## En pocas palabras
 

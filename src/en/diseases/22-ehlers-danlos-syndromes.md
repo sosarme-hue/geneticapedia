@@ -2,6 +2,9 @@
 title: Ehlers-Danlos syndromes
 desc: A group of 13 connective tissue conditions with very loose joints, stretchy fragile skin and, in some types, a risk of arterial rupture. The most common type still has no known gene.
 health: si
+img: ehlers-danlos-piel.jpg
+img_alt: Hyperelastic skin in Ehlers-Danlos syndrome
+img_pie: Very stretchy skin, one of the features of some types of Ehlers-Danlos.
 ---
 ## At a glance
 

@@ -1,6 +1,9 @@
 ---
 title: Atapuerca and the ancient DNA of Iberia
 desc: From the Sima de los Huesos, with the oldest known human DNA, to the migrations that shaped the present-day population of Spain. What genetics has revealed about Iberian history.
+img: heidelbergensis.jpg
+img_alt: Reconstruction of a Sima de los Huesos hominin
+img_pie: Reconstruction of a hominin like those from the Sima de los Huesos at Atapuerca.
 ---
 ## At a glance
 

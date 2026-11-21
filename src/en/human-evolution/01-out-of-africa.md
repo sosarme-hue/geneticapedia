@@ -1,6 +1,9 @@
 ---
 title: The African origin of humanity
 desc: All living humans descend from populations that lived in Africa about 300,000 years ago. DNA, together with fossils, tells how we left and populated the planet.
+img: expansion-sapiens.jpg
+img_alt: Map of the spread of Homo sapiens
+img_pie: The routes by which Homo sapiens left Africa and spread across the world.
 ---
 ## At a glance
 

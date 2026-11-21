@@ -2,6 +2,9 @@
 title: Patient organisations
 desc: Family associations are often the best source of practical information and support. A directory of the main ones in Spain and Europe, by condition.
 health: si
+img: manos-grupo.jpg
+img_alt: A group stacking hands
+img_pie: Patient organisations offer information, support and a voice before institutions.
 ---
 ## Why contact an association
 

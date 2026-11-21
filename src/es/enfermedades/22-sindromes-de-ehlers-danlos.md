@@ -2,6 +2,9 @@
 title: Síndromes de Ehlers-Danlos
 desc: Un grupo de 13 enfermedades del tejido conectivo con articulaciones muy laxas, piel elástica y frágil y, en algunos tipos, riesgo de rotura de arterias. El tipo más común aún no tiene gen conocido.
 health: si
+img: ehlers-danlos-piel.jpg
+img_alt: Piel hiperelástica en el síndrome de Ehlers-Danlos
+img_pie: Piel muy elástica, uno de los rasgos de algunos tipos de Ehlers-Danlos.
 ---
 ## En pocas palabras
 

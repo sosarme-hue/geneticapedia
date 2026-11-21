@@ -1,6 +1,9 @@
 ---
 title: Atapuerca y el ADN antiguo de la península ibérica
 desc: De la Sima de los Huesos, con el ADN humano más antiguo conocido, a las migraciones que formaron la población actual de España. Lo que la genética ha revelado sobre nuestra propia historia.
+img: heidelbergensis.jpg
+img_alt: Reconstrucción de un homínido de la Sima de los Huesos
+img_pie: Reconstrucción de un homínido como los de la Sima de los Huesos de Atapuerca.
 ---
 ## En pocas palabras
 

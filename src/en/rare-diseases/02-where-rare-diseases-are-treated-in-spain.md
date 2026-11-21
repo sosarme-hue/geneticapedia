@@ -2,6 +2,9 @@
 title: Where rare diseases are treated in Spain
 desc: Reference units, European networks, registries and research institutes. A map of public resources for people with rare diseases and their families.
 health: si
+img: pasillo-hospital.jpg
+img_alt: Hospital corridor
+img_pie: Reference units (CSUR) concentrate expertise in uncommon diseases.
 ---
 ## At a glance
 

@@ -2,6 +2,9 @@
 title: What does it mean to be a carrier of a genetic condition?
 desc: Having one altered copy of a gene without having the condition. We are all carriers of something; it only matters if your partner carries the same thing.
 health: si
+img: fq-herencia.jpg
+img_alt: Diagram of recessive inheritance with two carriers
+img_pie: Two healthy carriers have a 25% chance of an affected child in each pregnancy.
 ---
 ## Short answer
 

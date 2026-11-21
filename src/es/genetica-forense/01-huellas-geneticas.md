@@ -1,6 +1,9 @@
 ---
 title: Huellas genéticas
 desc: Cómo una mañana de 1984 en Leicester nació la identificación por ADN, qué se analiza hoy y por qué la probabilidad de error es tan baja, aunque no nula.
+img: gel-adn.jpg
+img_alt: Gel de electroforesis de ADN
+img_pie: Las bandas de un gel de ADN, la base de las primeras huellas genéticas.
 ---
 ## En pocas palabras
 

@@ -2,6 +2,9 @@
 title: Lynch syndrome
 desc: The most common hereditary cause of bowel and womb cancer. It affects one in 300 people, most without knowing it, and regular colonoscopies can save their lives.
 health: si
+img: herencia-dominante.jpg
+img_alt: Diagram of autosomal dominant inheritance
+img_pie: Lynch syndrome is inherited in a dominant way: each child has a 50% chance of receiving the variant.
 ---
 ## At a glance
 

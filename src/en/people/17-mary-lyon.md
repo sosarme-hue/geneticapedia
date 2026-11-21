@@ -6,6 +6,9 @@ pais: United Kingdom
 campo: Mouse genetics
 aporte: X-chromosome inactivation hypothesis (1961)
 premio: Royal Medal of the Royal Society (1984), Wolf Prize in Medicine (1997)
+img: p-lyon.jpg
+img_alt: Mary Lyon
+img_pie: Mary Lyon, who explained X-chromosome inactivation.
 ---
 ## Who she was
 

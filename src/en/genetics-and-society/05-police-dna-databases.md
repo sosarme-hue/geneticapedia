@@ -1,6 +1,9 @@
 ---
 title: Police DNA databases
 desc: Millions of genetic profiles help solve crimes around the world. What is stored in Spain, who can search it and what limits the courts have set.
+img: coche-policia.jpg
+img_alt: Police car with lights on
+img_pie: Police DNA databases store profiles of people arrested and convicted.
 ---
 ## At a glance
 

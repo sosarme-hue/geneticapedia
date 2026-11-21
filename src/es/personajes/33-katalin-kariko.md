@@ -6,6 +6,9 @@ pais: Hungría (nacionalizada estadounidense)
 campo: Bioquímica, ARN
 aporte: ARN mensajero modificado que no provoca inflamación (2005)
 premio: Nobel de Fisiología o Medicina (2023), Premio Princesa de Asturias (2021)
+img: p-kariko.jpg
+img_alt: Katalin Karikó
+img_pie: Katalin Karikó en 2024.
 ---
 ## Quién fue
 

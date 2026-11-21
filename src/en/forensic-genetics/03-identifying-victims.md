@@ -1,6 +1,9 @@
 ---
 title: Identifying victims
 desc: After disasters, attacks and wars, DNA gives back the names of those who lost them. From the stolen grandchildren of Argentina to the mass graves of the Spanish Civil War.
+img: pipeta-lab.jpg
+img_alt: Scientist pipetting in a laboratory
+img_pie: Identifying victims means comparing DNA profiles with those of their relatives.
 ---
 ## At a glance
 

@@ -1,6 +1,9 @@
 ---
 title: What is DNA?
 desc: The molecule that holds the instructions to build and maintain a living being, explained from scratch.
+img: adn-estructura.jpg
+img_alt: Structure of the DNA double helix
+img_pie: The double helix: two strands joined by A-T and C-G base pairs.
 ---
 ## A recipe written with four letters
 

@@ -1,6 +1,9 @@
 ---
 title: Las leyes de Mendel
 desc: Cómo un monje de Brno descubrió, cruzando guisantes, las reglas básicas de la herencia.
+img: guisantes-vainas.jpg
+img_alt: Guisantes y vainas
+img_pie: Mendel descubrió las leyes de la herencia cruzando miles de plantas de guisante.
 ---
 ## El monje y los guisantes
 

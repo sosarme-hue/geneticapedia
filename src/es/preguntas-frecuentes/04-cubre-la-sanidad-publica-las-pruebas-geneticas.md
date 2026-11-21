@@ -2,6 +2,9 @@
 title: ¿Cubre la sanidad pública las pruebas genéticas?
 desc: Sí, cuando hay una indicación médica. En España las pruebas genéticas están en la cartera común del Sistema Nacional de Salud y se piden a través de los especialistas.
 health: si
+img: pasillo-hospital.jpg
+img_alt: Pasillo de hospital
+img_pie: La sanidad pública cubre las pruebas genéticas cuando hay una indicación médica.
 ---
 ## Respuesta corta
 

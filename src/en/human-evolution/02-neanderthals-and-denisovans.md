@@ -1,6 +1,9 @@
 ---
 title: Neanderthals and Denisovans
 desc: Our ancestors interbred with other human species, and we carry their DNA. Some of these legacies help us; others make us more vulnerable.
+img: denisovano-craneo.jpg
+img_alt: The Harbin skull
+img_pie: The Harbin skull, which recent studies link to the Denisovans.
 ---
 ## At a glance
 

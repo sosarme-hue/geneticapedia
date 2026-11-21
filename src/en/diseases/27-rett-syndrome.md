@@ -2,6 +2,9 @@
 title: Rett syndrome
 desc: A brain development disorder that affects almost only girls. After a seemingly normal first year, they lose speech and the use of their hands. Mouse experiments showed it can be reversed, and the first drug now exists.
 health: si
+img: rett.jpg
+img_alt: Girl with Rett syndrome
+img_pie: Rett syndrome almost always affects girls.
 ---
 ## At a glance
 

@@ -2,6 +2,9 @@
 title: Tay-Sachs and other lysosomal diseases
 desc: More than 70 conditions in which the cell's "recycling centre" fails and substances build up. Tay-Sachs, Gaucher, Fabry and Pompe, and how they are treated today.
 health: si
+img: tay-sachs-mancha.jpg
+img_alt: Cherry-red spot on the retina
+img_pie: The cherry-red spot in the back of the eye is a classic sign of Tay-Sachs disease.
 ---
 ## At a glance
 

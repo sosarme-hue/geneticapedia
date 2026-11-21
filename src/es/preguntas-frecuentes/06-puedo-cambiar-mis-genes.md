@@ -1,6 +1,9 @@
 ---
 title: ¿Puedo cambiar mis genes con la dieta o el ejercicio?
 desc: Tu secuencia de ADN no cambia, pero sí cómo se usan los genes. Lo que la epigenética dice y lo que no.
+img: epigenetica.jpg
+img_alt: Mecanismos epigenéticos
+img_pie: No puedes cambiar tus genes, pero sí influir en cómo se expresan.
 ---
 ## Respuesta corta
 

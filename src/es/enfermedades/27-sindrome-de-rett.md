@@ -2,6 +2,9 @@
 title: Síndrome de Rett
 desc: Una enfermedad del desarrollo del cerebro que afecta casi solo a niñas. Tras un primer año aparentemente normal, pierden el habla y el uso de las manos. Experimentos en ratones demostraron que es reversible, y ya existe el primer fármaco.
 health: si
+img: rett.jpg
+img_alt: Niña con síndrome de Rett
+img_pie: El síndrome de Rett afecta casi siempre a niñas.
 ---
 ## En pocas palabras
 

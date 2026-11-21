@@ -2,6 +2,9 @@
 title: Si mi padre o mi madre tiene una enfermedad genética, ¿la tendré yo?
 desc: Depende del tipo de herencia, y casi nunca es seguro al cien por cien. Te explicamos cómo calcular el riesgo y cuándo hacerse la prueba.
 health: si
+img: padre-hijo.jpg
+img_alt: Un padre de la mano de su hijo
+img_pie: Que un padre tenga una enfermedad genética no significa que su hijo la vaya a tener.
 ---
 ## Respuesta corta
 

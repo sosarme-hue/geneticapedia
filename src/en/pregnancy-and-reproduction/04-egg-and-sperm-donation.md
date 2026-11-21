@@ -2,6 +2,9 @@
 title: Egg and sperm donation
 desc: Using eggs or sperm from a donor is an option when there is a genetic condition a couple do not want to pass on. How donors are selected, which genetic tests they have and what the law says.
 health: si
+img: microscopio-lab.jpg
+img_alt: Microscope in a laboratory
+img_pie: Donated eggs and sperm are tested and stored in specialised laboratories.
 ---
 ## At a glance
 

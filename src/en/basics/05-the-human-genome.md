@@ -1,6 +1,9 @@
 ---
 title: The human genome
 desc: How our complete DNA was read for the first time, what was discovered and what has changed since.
+img: cariotipo-bandas.jpg
+img_alt: Human karyotype with bands
+img_pie: The 23 pairs of human chromosomes, with their banding pattern.
 ---
 ## The Human Genome Project
 

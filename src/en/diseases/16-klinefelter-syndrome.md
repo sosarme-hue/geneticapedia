@@ -2,6 +2,9 @@
 title: Klinefelter syndrome
 desc: The most common chromosomal condition in men, with an extra X chromosome. Many never find out, and it is often discovered because of infertility. Diagnosing it in time allows low testosterone to be treated.
 health: si
+img: cariotipo-xxy.jpg
+img_alt: 47,XXY karyotype
+img_pie: Karyotype with an extra X chromosome (47,XXY), the cause of Klinefelter syndrome.
 ---
 ## At a glance
 

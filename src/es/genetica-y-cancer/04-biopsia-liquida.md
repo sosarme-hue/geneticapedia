@@ -2,6 +2,9 @@
 title: Biopsia líquida
 desc: Un análisis de sangre que busca fragmentos de ADN del tumor. Ya sirve para elegir tratamientos y vigilar recaídas, y se investiga para detectar el cáncer antes de que dé síntomas.
 health: si
+img: tubos-sangre.jpg
+img_alt: Tubos de sangre en un laboratorio
+img_pie: La biopsia líquida busca ADN del tumor en una simple muestra de sangre.
 ---
 ## En pocas palabras
 

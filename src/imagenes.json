@@ -8,6 +8,18 @@
   "page": "https://commons.wikimedia.org/wiki/File:Cell.2024.07.053.gr1_lrg-E.jpg",
   "w": 900
  },
+ "album-fotos.jpg": {
+  "artist": "Laura Fuhrman",
+  "file": "album-fotos.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/person-opening-photo-album-displaying-grayscale-photos-73OJLcahQHg?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "73OJLcahQHg",
+  "url": "https://images.unsplash.com/photo-1528569937393-ee892b976859?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "arbol-genealogico.jpg": {
   "artist": "Vitaly Gariev",
   "file": "arbol-genealogico.jpg",
@@ -32,6 +44,30 @@
   "url": "https://images.unsplash.com/photo-1728895604559-a4e16081504e?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "aula-debate.jpg": {
+  "artist": "National Cancer Institute",
+  "file": "aula-debate.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/woman-standing-in-front-of-children-N_aihp118p8?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "N_aihp118p8",
+  "url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "aula.jpg": {
+  "artist": "Quilia",
+  "file": "aula.jpg",
+  "h": 672,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/students-in-classroom-with-teacher-presenting-zFSo6bnZJTw?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "zFSo6bnZJTw",
+  "url": "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "bolsa-sangre.jpg": {
   "artist": "Aman Chaturvedi",
   "file": "bolsa-sangre.jpg",
@@ -42,6 +78,39 @@
   "source": "Unsplash",
   "unsplash_id": "0ZZo5o00o80",
   "url": "https://images.unsplash.com/photo-1683791895200-201c0c40310f?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "candado-teclado.jpg": {
+  "artist": "Towfiqu barbhuiya",
+  "file": "candado-teclado.jpg",
+  "h": 721,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/a-golden-padlock-sitting-on-top-of-a-keyboard-FnA5pAzqhMM?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "FnA5pAzqhMM",
+  "url": "https://images.unsplash.com/photo-1633265486064-086b219458ec?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "cariotipo-xxy.jpg": {
+  "artist": "User:Nami-ja",
+  "file": "Human_chromosomesXXY01.png",
+  "h": 703,
+  "license": "Public domain",
+  "license_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Human_chromosomesXXY01.png",
+  "w": 900
+ },
+ "cebra.jpg": {
+  "artist": "Jeff Griffith",
+  "file": "cebra.jpg",
+  "h": 723,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/zebra-standing-on-wheat-field-ZqYPM8i60F8?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "ZqYPM8i60F8",
+  "url": "https://images.unsplash.com/photo-1526095179574-86e545346ae6?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
  "cilantro.jpg": {
@@ -68,6 +137,42 @@
   "url": "https://images.unsplash.com/photo-1640958899059-7fd295c17aac?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "cinta-policial.jpg": {
+  "artist": "Hiroshi Kimura",
+  "file": "cinta-policial.jpg",
+  "h": 864,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/yellow-police-tape-rtX4wxMEI2M?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "rtX4wxMEI2M",
+  "url": "https://images.unsplash.com/photo-1557075831-9227ec7d0097?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "coche-policia.jpg": {
+  "artist": "Michael Förtsch",
+  "file": "coche-policia.jpg",
+  "h": 588,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/police-car-with-flashing-emergency-lights-y5LaV9IEC_g?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "y5LaV9IEC_g",
+  "url": "https://images.unsplash.com/photo-1606022831434-91293aebf25a?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "consulta-medica.jpg": {
+  "artist": "National Cancer Institute",
+  "file": "consulta-medica.jpg",
+  "h": 704,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/doctor-talking-to-patient-in-clinic-tl447mekwuQ?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "tl447mekwuQ",
+  "url": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "crispr-cas9.jpg": {
   "artist": "Warren Umoh",
   "file": "crispr-cas9.jpg",
@@ -80,6 +185,36 @@
   "url": "https://images.unsplash.com/photo-1637929476734-bd7f5f78e40a?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "ehlers-danlos-piel.jpg": {
+  "artist": "Whitaker JK, Alexander P, Chau DY, Tint NL",
+  "file": "Hyperelastic_skin_in_a_case_of_Ehlers-Danlos_syndrome_(cropped).png",
+  "h": 293,
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Hyperelastic_skin_in_a_case_of_Ehlers-Danlos_syndrome_%28cropped%29.png",
+  "w": 214
+ },
+ "ela-neuronas.jpg": {
+  "artist": "PaulWicks",
+  "file": "ALS_Affected_neurons_and_muscles.png",
+  "h": 799,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:ALS_Affected_neurons_and_muscles.png",
+  "w": 900
+ },
+ "embarazo-ecografia.jpg": {
+  "artist": "Volodymyr Hryshchenko",
+  "file": "embarazo-ecografia.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/pregnant-person-holding-ultrasound-scan-87ev1NvhDsU?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "87ev1NvhDsU",
+  "url": "https://images.unsplash.com/photo-1654931800911-7a9cfb3b7c17?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "embrion-celulas.jpg": {
   "artist": "ekem, Courtesy: RWJMS IVF Program",
   "file": "Embryo, 8 cells.jpg",
@@ -89,6 +224,30 @@
   "page": "https://commons.wikimedia.org/wiki/File:Embryo%2C_8_cells.jpg",
   "w": 640
  },
+ "entrevista.jpg": {
+  "artist": "Mina Rad",
+  "file": "entrevista.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/a-man-and-a-woman-shaking-hands-in-front-of-a-laptop-qFSQFSmfZkA?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "qFSQFSmfZkA",
+  "url": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "excavacion.jpg": {
+  "artist": "Regös Környei",
+  "file": "excavacion.jpg",
+  "h": 716,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/archaeologists-excavating-a-field-with-tools-and-trenches-RogalLzvKk8?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "RogalLzvKk8",
+  "url": "https://images.unsplash.com/photo-1762331876236-fd81f3575534?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "falciforme-frotis.jpg": {
   "artist": "SpicyMilkBoy",
   "file": "Sickle cell anemia smear.jpg",
@@ -97,6 +256,18 @@
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Sickle_cell_anemia_smear.jpg",
   "w": 900
+ },
+ "familia-generaciones.jpg": {
+  "artist": "Jennifer Kalenberg",
+  "file": "familia-generaciones.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/family-joyfully-anticipates-a-new-babys-arrival-FEWg2B2o2wY?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "FEWg2B2o2wY",
+  "url": "https://images.unsplash.com/photo-1742522211724-3425d697bbf0?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
  },
  "fiv-embrion.jpg": {
   "artist": "Trnava University",
@@ -119,6 +290,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Autorecessive.svg",
   "w": 900
  },
+ "frataxina.jpg": {
+  "artist": "Emw",
+  "file": "Protein_FXN_PDB_1ekg.png",
+  "h": 580,
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Protein_FXN_PDB_1ekg.png",
+  "w": 900
+ },
  "fresas.jpg": {
   "artist": "Natasha Skov",
   "file": "fresas.jpg",
@@ -131,6 +311,18 @@
   "url": "https://images.unsplash.com/photo-1594282241894-4da286138f44?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "guisantes-vainas.jpg": {
+  "artist": "Summan Mehmood",
+  "file": "guisantes-vainas.jpg",
+  "h": 810,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/fresh-green-peas-in-pods-and-shelled-on-white-cloth-N_GxRvqGX4M?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "N_GxRvqGX4M",
+  "url": "https://images.unsplash.com/photo-1780667162311-3cdba0716533?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "herencia-dominante.jpg": {
   "artist": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest: None Mikael Häggström, M.D.",
   "file": "Autosomal dominant inheritance for structural protein.png",
@@ -139,6 +331,18 @@
   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Autosomal_dominant_inheritance_for_structural_protein.png",
   "w": 900
+ },
+ "hermanos.jpg": {
+  "artist": "Charlein Gracia",
+  "file": "hermanos.jpg",
+  "h": 723,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/three-children-sitting-on-grass--Ux5mdMJNEA?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "-Ux5mdMJNEA",
+  "url": "https://images.unsplash.com/photo-1527490087278-9c75be0b8052?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
  },
  "info-crispr-en.svg": {
   "artist": "Geneticapedia",
@@ -242,6 +446,18 @@
   "url": "https://images.unsplash.com/photo-1606206591513-adbfbdd7a177?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "justicia-mazo.jpg": {
+  "artist": "Sasun Bughdaryan",
+  "file": "justicia-mazo.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/statue-of-justice-gavel-and-open-book-on-table-YFz39MOmxnQ?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "YFz39MOmxnQ",
+  "url": "https://images.unsplash.com/photo-1774898988393-5c752e4d55e9?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "karyotype-t21.jpg": {
   "artist": "U.S. Department of Energy Human Genome Program.",
   "file": "21 trisomy - Down syndrome.png",
@@ -272,6 +488,30 @@
   "page": "https://commons.wikimedia.org/wiki/File:Malaria_versus_sickle-cell_trait_distributions.png",
   "w": 900
  },
+ "manos-diversas.jpg": {
+  "artist": "Rineshkumar Ghirao",
+  "file": "manos-diversas.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/team-stacking-hands-together-in-unity-UdDjFekHQuk?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "UdDjFekHQuk",
+  "url": "https://images.unsplash.com/photo-1630068846062-3ffe78aa5049?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "manos-grupo.jpg": {
+  "artist": "Hannah Busing",
+  "file": "manos-grupo.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/group-stacking-hands-in-colorful-sweaters-Zyx1bK9mqmA?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "Zyx1bK9mqmA",
+  "url": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "medicamentos-arn.jpg": {
   "artist": "Braňo",
   "file": "medicamentos-arn.jpg",
@@ -282,6 +522,18 @@
   "source": "Unsplash",
   "unsplash_id": "Mm1VIPqd0OA",
   "url": "https://images.unsplash.com/photo-1628595351029-c2bf17511435?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "microscopio-lab.jpg": {
+  "artist": "Trnava University",
+  "file": "microscopio-lab.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/laboratory-workbench-with-microscope-and-equipment-_9xRHrMOjeg?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "_9xRHrMOjeg",
+  "url": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
  "mosquito.jpg": {
@@ -303,6 +555,15 @@
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Illustration_of_the_motor_neuron_tract_descending_from_primary_motor_cortex%2C_via_spinal_cord%2C_to_skeletal_muscle.jpg",
+  "w": 900
+ },
+ "nf1-sintomas.jpg": {
+  "artist": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest: None Mikael Häggström, M.D. et. al (source i",
+  "file": "Symptoms_of_neurofibromatosis_type_1_-_censored_version.png",
+  "h": 1099,
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Symptoms_of_neurofibromatosis_type_1_-_censored_version.png",
   "w": 900
  },
  "ojo-iris.jpg": {
@@ -617,6 +878,42 @@
   "page": "https://commons.wikimedia.org/wiki/File:Fzhang_at_summit.jpg",
   "w": 842
  },
+ "padre-hijo.jpg": {
+  "artist": "Andrik Langfield",
+  "file": "padre-hijo.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/a-person-holding-the-hand-of-a-child-Up9rQ3pk9XQ?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "Up9rQ3pk9XQ",
+  "url": "https://images.unsplash.com/photo-1644941002474-6ee8ab0ee8cb?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "papeles-mesa.jpg": {
+  "artist": "2H Media",
+  "file": "papeles-mesa.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/a-wooden-table-topped-with-papers-and-a-pen-VnK5iT01HYQ?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "VnK5iT01HYQ",
+  "url": "https://images.unsplash.com/photo-1632152133952-98b268dc4b86?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "pasillo-hospital.jpg": {
+  "artist": "Hush Naidoo Jade Photography",
+  "file": "pasillo-hospital.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/person-walking-on-hallway-in-blue-scrub-suit-near-incubator-ZCO_5Y29s8k?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "ZCO_5Y29s8k",
+  "url": "https://images.unsplash.com/photo-1517120026326-d87759a7b63b?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "pastillas.jpg": {
   "artist": "freestocks",
   "file": "pastillas.jpg",
@@ -628,6 +925,36 @@
   "unsplash_id": "nss2eRzQwgw",
   "url": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
+ },
+ "pipeta-lab.jpg": {
+  "artist": "Julia Koblitz",
+  "file": "pipeta-lab.jpg",
+  "h": 677,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/scientist-using-pipette-with-test-tubes-in-lab-RlOAwXt2fEA?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "RlOAwXt2fEA",
+  "url": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "retinosis-fondo.jpg": {
+  "artist": "Christian Hamel",
+  "file": "Fundus_of_patient_with_retinitis_pigmentosa,_mid_stage.jpg",
+  "h": 747,
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fundus_of_patient_with_retinitis_pigmentosa%2C_mid_stage.jpg",
+  "w": 871
+ },
+ "rett.jpg": {
+  "artist": "Senorita666",
+  "file": "Rett_Girl_Smiling.jpg",
+  "h": 1024,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rett_Girl_Smiling.jpg",
+  "w": 768
  },
  "rinones-dibujo.jpg": {
   "artist": "J. Wetselaar-Whittaker (Leiden University Libraries, vía Europeana)",
@@ -653,6 +980,27 @@
   "url": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "tay-sachs-mancha.jpg": {
+  "artist": "Jonathan Trobe, M.D.",
+  "file": "Tay-sachsUMich.jpg",
+  "h": 276,
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tay-sachsUMich.jpg",
+  "w": 288
+ },
+ "tubos-sangre.jpg": {
+  "artist": "Testalize.me",
+  "file": "tubos-sangre.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/blood-collection-tubes-in-laboratory-rack-0jE8ynV4mis?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "0jE8ynV4mis",
+  "url": "https://images.unsplash.com/photo-1606206591513-adbfbdd7a177?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "vaso-leche.jpg": {
   "artist": "engin akyurt",
   "file": "vaso-leche.jpg",
@@ -663,6 +1011,18 @@
   "source": "Unsplash",
   "unsplash_id": "2rlleYcpvtI",
   "url": "https://images.unsplash.com/photo-1588710929895-6ee7a0a4d155?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "verduras.jpg": {
+  "artist": "Randy Fath",
+  "file": "verduras.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/a-pile-of-different-types-of-vegetables-on-a-white-surface-5aJVJvJ9rG8?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "5aJVJvJ9rG8",
+  "url": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  }
 }

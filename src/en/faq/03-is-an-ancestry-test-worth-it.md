@@ -1,6 +1,9 @@
 ---
 title: Is an ancestry test worth it?
 desc: It can be fun and find relatives, but its origin percentages are estimates, it is not a reliable medical test, and you hand over data that affect your whole family.
+img: expansion-sapiens.jpg
+img_alt: Map of human migrations
+img_pie: Ancestry tests compare your DNA with that of reference populations.
 ---
 ## Short answer
 

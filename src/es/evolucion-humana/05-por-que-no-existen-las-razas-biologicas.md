@@ -1,6 +1,9 @@
 ---
 title: Por qué no existen las razas biológicas
 desc: Los seres humanos somos genéticamente muy parecidos, la variación es gradual y la mayor parte está dentro de cada población. Qué dice la genética sobre la "raza" y por qué la ascendencia sí importa en medicina.
+img: manos-diversas.jpg
+img_alt: Manos de personas diversas juntas
+img_pie: Las diferencias visibles entre poblaciones son una parte mínima de nuestra variación genética.
 ---
 ## En pocas palabras
 

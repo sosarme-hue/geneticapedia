@@ -1,6 +1,9 @@
 ---
 title: ¿Se pueden patentar los genes?
 desc: El caso Myriad, que llegó al Tribunal Supremo de Estados Unidos en 2013, cambió las reglas. Qué se puede patentar hoy, qué no, y la batalla por las patentes de CRISPR.
+img: secuenciador.jpg
+img_alt: Secuenciador de ADN
+img_pie: ¿Se puede patentar un gen? Los tribunales han dicho que no, pero sí las técnicas.
 ---
 ## En pocas palabras
 

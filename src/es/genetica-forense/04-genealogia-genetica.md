@@ -1,6 +1,9 @@
 ---
 title: Genealogía genética
 desc: Cómo las bases de datos de los tests de ancestría permitieron detener al Asesino del Golden State en 2018, y los dilemas que plantea usar el ADN de millones de personas inocentes.
+img: album-fotos.jpg
+img_alt: Álbum de fotos antiguas
+img_pie: La genealogía genética une el ADN con los árboles familiares para encontrar parientes.
 ---
 ## En pocas palabras
 

@@ -2,6 +2,9 @@
 title: FIV con diagnóstico preimplantacional
 desc: Analizar los embriones antes de transferirlos al útero permite a parejas con una enfermedad genética grave tener hijos sanos. Cómo funciona, qué permite la ley en España y cuáles son sus límites.
 health: si
+img: dgp.jpg
+img_alt: Esquema del diagnóstico genético preimplantacional
+img_pie: Del embrión se toman unas pocas células para analizarlas antes de transferirlo.
 ---
 ## En pocas palabras
 

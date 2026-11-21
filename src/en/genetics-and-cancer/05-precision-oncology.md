@@ -2,6 +2,9 @@
 title: Precision oncology
 desc: Treating cancer according to the genetic changes in each tumour. From imatinib to PARP inhibitors and CAR-T cells, targeted drugs have changed the outlook for many cancers.
 health: si
+img: pastillas.jpg
+img_alt: Pills
+img_pie: Precision oncology chooses the drug according to the tumour's changes.
 ---
 ## At a glance
 

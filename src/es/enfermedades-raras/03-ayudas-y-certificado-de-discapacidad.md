@@ -2,6 +2,9 @@
 title: Ayudas y certificado de discapacidad
 desc: Qué derechos y apoyos existen para las personas con una enfermedad rara o genética y sus familias en España, y cómo pedirlos.
 health: si
+img: papeles-mesa.jpg
+img_alt: Papeles y bolígrafo sobre una mesa
+img_pie: Solicitar ayudas y el certificado de discapacidad requiere informes y algo de papeleo.
 ---
 ## En pocas palabras
 

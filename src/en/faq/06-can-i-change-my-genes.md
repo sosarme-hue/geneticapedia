@@ -1,6 +1,9 @@
 ---
 title: Can I change my genes with diet or exercise?
 desc: Your DNA sequence does not change, but how your genes are used does. What epigenetics says and what it does not.
+img: epigenetica.jpg
+img_alt: Epigenetic mechanisms
+img_pie: You cannot change your genes, but you can influence how they are expressed.
 ---
 ## Short answer
 

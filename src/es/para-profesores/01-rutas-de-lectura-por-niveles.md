@@ -1,6 +1,9 @@
 ---
 title: Rutas de lectura por niveles
 desc: Cómo usar Geneticapedia en clase de Biología, de 4.º de ESO a Bachillerato y ciclos formativos de sanidad. Itinerarios de artículos ordenados, con objetivos y preguntas para comprobar lo aprendido.
+img: aula.jpg
+img_alt: Alumnos en clase con su profesora
+img_pie: Rutas de lectura pensadas para cada nivel educativo.
 ---
 ## Para quién es esta guía
 

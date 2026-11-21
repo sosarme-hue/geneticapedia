@@ -6,6 +6,9 @@ pais: Reino Unido
 campo: Genética del ratón
 aporte: Hipótesis de la inactivación del cromosoma X (1961)
 premio: Medalla Real de la Royal Society (1984), Premio Wolf de Medicina (1997)
+img: p-lyon.jpg
+img_alt: Mary Lyon
+img_pie: Mary Lyon, que explicó la inactivación del cromosoma X.
 ---
 ## Quién fue
 

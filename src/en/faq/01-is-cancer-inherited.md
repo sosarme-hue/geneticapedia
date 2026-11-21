@@ -2,6 +2,9 @@
 title: Is cancer inherited?
 desc: Hardly ever. Only 5 to 10 % of cancers are due to an inherited variant. When to suspect it and what to do.
 health: si
+img: consulta-medica.jpg
+img_alt: Doctor talking with a patient
+img_pie: If there are several cases of cancer in the family, it is worth discussing with your doctor.
 ---
 ## Short answer
 

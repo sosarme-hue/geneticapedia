@@ -1,6 +1,9 @@
 ---
 title: Privacidad de los datos genéticos
 desc: Tu ADN es el dato más personal que existe, y es casi imposible anonimizarlo. Qué protección ofrece la ley europea y qué riesgos hay.
+img: candado-teclado.jpg
+img_alt: Candado sobre un teclado
+img_pie: Los datos genéticos son especialmente sensibles: hablan de ti y de tu familia.
 ---
 ## En pocas palabras
 

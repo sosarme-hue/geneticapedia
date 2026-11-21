@@ -1,6 +1,9 @@
 ---
 title: Famous cases solved with DNA
 desc: The Romanovs, Richard III, freed innocents and a miscarriage of justice in Spain: stories in which DNA changed the ending.
+img: cinta-policial.jpg
+img_alt: Police tape
+img_pie: DNA has solved crimes and proved the innocence of people wrongly convicted.
 ---
 ## The Romanov family
 

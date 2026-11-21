@@ -2,6 +2,9 @@
 title: Tay-Sachs y otras enfermedades lisosomales
 desc: Más de 70 enfermedades en las que el "centro de reciclaje" de las células no funciona y se acumulan sustancias. Tay-Sachs, Gaucher, Fabry y Pompe, y cómo se tratan hoy.
 health: si
+img: tay-sachs-mancha.jpg
+img_alt: Mancha rojo cereza en la retina
+img_pie: La mancha rojo cereza en el fondo de ojo es un signo clásico de la enfermedad de Tay-Sachs.
 ---
 ## En pocas palabras
 

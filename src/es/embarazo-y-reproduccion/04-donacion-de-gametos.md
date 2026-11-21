@@ -2,6 +2,9 @@
 title: Donación de óvulos y semen
 desc: Usar óvulos o semen de una persona donante es una opción cuando hay una enfermedad genética que no se quiere transmitir. Cómo se seleccionan los donantes, qué pruebas genéticas se les hacen y qué dice la ley.
 health: si
+img: microscopio-lab.jpg
+img_alt: Microscopio en un laboratorio
+img_pie: Los gametos donados se estudian y se conservan en laboratorios especializados.
 ---
 ## En pocas palabras
 

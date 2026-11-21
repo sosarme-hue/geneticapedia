@@ -2,6 +2,9 @@
 title: Prenatal diagnosis step by step
 desc: From first-trimester screening to amniocentesis: which tests are offered in pregnancy, when, what they detect and what each result means.
 health: si
+img: amniocentesis.jpg
+img_alt: Diagram of an amniocentesis
+img_pie: In amniocentesis a little amniotic fluid is taken to study the baby's cells.
 ---
 ## At a glance
 

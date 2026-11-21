@@ -2,6 +2,9 @@
 title: Diagnóstico prenatal paso a paso
 desc: Del cribado del primer trimestre a la amniocentesis, qué pruebas se ofrecen en el embarazo, cuándo, qué detectan y qué significa cada resultado.
 health: si
+img: amniocentesis.jpg
+img_alt: Esquema de una amniocentesis
+img_pie: En la amniocentesis se extrae un poco de líquido amniótico para estudiar las células del feto.
 ---
 ## En pocas palabras
 

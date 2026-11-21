@@ -2,6 +2,9 @@
 title: Hereditary ALS
 desc: Between 5 and 10 % of cases of amyotrophic lateral sclerosis run in families. The C9orf72 and SOD1 genes are the most common, and for SOD1 there is now the first gene-targeted drug.
 health: si
+img: ela-neuronas.jpg
+img_alt: Neurons and muscles affected in ALS
+img_pie: In ALS, the motor neurons that send commands to the muscles are lost.
 ---
 ## At a glance
 

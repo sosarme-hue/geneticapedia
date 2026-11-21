@@ -1,6 +1,9 @@
 ---
 title: Discriminación genética
 desc: ¿Puede un seguro o una empresa usar tus genes contra ti? Qué protegen las leyes en España, Europa y Estados Unidos, y dónde quedan lagunas.
+img: entrevista.jpg
+img_alt: Entrevista de trabajo
+img_pie: La ley prohíbe usar la información genética para discriminar en el empleo.
 ---
 ## En pocas palabras
 

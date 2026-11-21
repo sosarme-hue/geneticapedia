@@ -2,6 +2,9 @@
 title: If my father or mother has a genetic condition, will I get it?
 desc: It depends on the type of inheritance, and it is almost never 100 % certain. How to work out the risk and when to be tested.
 health: si
+img: padre-hijo.jpg
+img_alt: A father holding his child's hand
+img_pie: A parent having a genetic condition does not mean the child will have it.
 ---
 ## Short answer
 

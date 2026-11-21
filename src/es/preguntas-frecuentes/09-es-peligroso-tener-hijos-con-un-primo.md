@@ -2,6 +2,9 @@
 title: ¿Es peligroso tener hijos con un primo?
 desc: El riesgo de una enfermedad genética o malformación aumenta, pero menos de lo que se suele pensar: de un 2-3 % a un 4-6 % aproximadamente en primos hermanos.
 health: si
+img: arbol-genealogico.jpg
+img_alt: Consulta médica con una familia
+img_pie: El consejo genético ayuda a valorar el riesgo cuando la pareja es consanguínea.
 ---
 ## Respuesta corta
 

@@ -1,6 +1,9 @@
 ---
 title: Genetic genealogy
 desc: How ancestry-test databases led to the arrest of the Golden State Killer in 2018, and the dilemmas of using the DNA of millions of innocent people.
+img: album-fotos.jpg
+img_alt: Album of old photographs
+img_pie: Genetic genealogy combines DNA with family trees to find relatives.
 ---
 ## At a glance
 

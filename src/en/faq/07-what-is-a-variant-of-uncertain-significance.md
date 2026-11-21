@@ -2,6 +2,9 @@
 title: What is a "variant of uncertain significance"?
 desc: A DNA change for which it is not yet known whether it causes disease. It is not a positive result and should not be used to make medical decisions.
 health: si
+img: informe-genetico.jpg
+img_alt: Genetic report
+img_pie: A variant of uncertain significance is not a diagnosis.
 ---
 ## Short answer
 

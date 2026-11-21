@@ -2,6 +2,9 @@
 title: ¿Qué es una "variante de significado incierto"?
 desc: Un cambio en el ADN del que todavía no se sabe si causa enfermedad. No es un resultado positivo y no debe usarse para tomar decisiones médicas.
 health: si
+img: informe-genetico.jpg
+img_alt: Informe genético
+img_pie: Una variante de significado incierto no es un diagnóstico.
 ---
 ## Respuesta corta
 

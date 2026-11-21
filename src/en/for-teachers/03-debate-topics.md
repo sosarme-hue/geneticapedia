@@ -1,6 +1,9 @@
 ---
 title: Debate topics for the classroom
 desc: Eight open questions on genetics and society to debate in class, with background articles for each side and ground rules for a respectful debate.
+img: aula-debate.jpg
+img_alt: Teacher talking with pupils
+img_pie: Genetics makes for very rich classroom debates.
 ---
 ## Why debate genetics
 

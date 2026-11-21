@@ -2,6 +2,9 @@
 title: Asociaciones de pacientes
 desc: Las asociaciones de familias son a menudo la mejor fuente de información práctica y apoyo. Un directorio de las principales en España, organizado por enfermedad.
 health: si
+img: manos-grupo.jpg
+img_alt: Manos unidas de un grupo
+img_pie: Las asociaciones de pacientes ofrecen información, apoyo y voz ante las instituciones.
 ---
 ## Por qué acudir a una asociación
 

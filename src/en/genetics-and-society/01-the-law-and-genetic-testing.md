@@ -1,6 +1,9 @@
 ---
 title: The law and genetic testing
 desc: In Spain, Law 14/2007 on Biomedical Research sets the rules for genetic tests: consent, genetic counselling, the right not to know and a ban on discrimination. What it says and why it matters.
+img: justicia-mazo.jpg
+img_alt: Gavel and statue of justice
+img_pie: The law sets who may carry out genetic tests and how the data are protected.
 ---
 ## At a glance
 

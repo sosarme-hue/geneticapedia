@@ -2,6 +2,9 @@
 title: IVF with preimplantation genetic testing
 desc: Testing embryos before they are transferred to the womb allows couples with a serious genetic condition to have healthy children. How it works, what Spanish law allows and what its limits are.
 health: si
+img: dgp.jpg
+img_alt: Diagram of preimplantation genetic testing
+img_pie: A few cells are taken from the embryo and analysed before transfer.
 ---
 ## At a glance
 

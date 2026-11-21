@@ -2,6 +2,9 @@
 title: Síndrome de Lynch
 desc: La causa hereditaria más frecuente de cáncer de colon y de endometrio. Afecta a una de cada 300 personas, la mayoría sin saberlo, y unas colonoscopias periódicas pueden salvarles la vida.
 health: si
+img: herencia-dominante.jpg
+img_alt: Esquema de herencia autosómica dominante
+img_pie: El síndrome de Lynch se hereda de forma dominante: cada hijo tiene un 50 % de probabilidad de recibir la variante.
 ---
 ## En pocas palabras
 

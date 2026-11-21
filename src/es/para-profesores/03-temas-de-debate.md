@@ -1,6 +1,9 @@
 ---
 title: Temas de debate para el aula
 desc: Ocho preguntas abiertas sobre genética y sociedad para debatir en clase, con artículos de lectura previa para cada postura y unas normas para un debate respetuoso.
+img: aula-debate.jpg
+img_alt: Profesora hablando con alumnos
+img_pie: La genética da para debates muy ricos en el aula.
 ---
 ## Por qué debatir sobre genética
 

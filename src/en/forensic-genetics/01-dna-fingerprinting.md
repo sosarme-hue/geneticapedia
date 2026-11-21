@@ -1,6 +1,9 @@
 ---
 title: DNA fingerprinting
 desc: How DNA identification was born one morning in 1984 in Leicester, what is analysed today and why the chance of error is so low, though not zero.
+img: gel-adn.jpg
+img_alt: DNA electrophoresis gel
+img_pie: The bands on a DNA gel, the basis of the first DNA fingerprints.
 ---
 ## At a glance
 

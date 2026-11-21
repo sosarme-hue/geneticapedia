@@ -1,6 +1,9 @@
 ---
 title: Genes y ambiente
 desc: Ni todo está escrito en el ADN ni todo depende de nosotros. Qué significa de verdad «heredable».
+img: verduras.jpg
+img_alt: Verduras variadas
+img_pie: La dieta, el ejercicio y el entorno modulan lo que hacen nuestros genes.
 ---
 ## Una falsa pelea
 

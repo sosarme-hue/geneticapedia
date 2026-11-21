@@ -2,6 +2,9 @@
 title: ELA hereditaria
 desc: Entre el 5 y el 10 % de los casos de esclerosis lateral amiotrófica son familiares. Los genes C9orf72 y SOD1 son los más frecuentes, y para SOD1 ya existe el primer fármaco dirigido a un gen.
 health: si
+img: ela-neuronas.jpg
+img_alt: Neuronas y músculos afectados en la ELA
+img_pie: En la ELA se pierden las neuronas motoras que mandan las órdenes a los músculos.
 ---
 ## En pocas palabras
 
