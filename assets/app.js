@@ -247,3 +247,11 @@
   });
   nums.forEach(function (el) { cio.observe(el); });
 })();
+
+/* ejemplos de búsqueda de la portada */
+(function () {
+  var q = document.getElementById("q"); if (!q) return;
+  [].forEach.call(document.querySelectorAll(".qchip"), function (b) {
+    b.addEventListener("click", function () { q.value = b.getAttribute("data-q"); q.dispatchEvent(new Event("input", { bubbles: true })); q.focus(); });
+  });
+})();
