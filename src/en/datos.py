@@ -87,7 +87,7 @@ HISTORIA = [
 ("2025", "Made-to-measure gene editing", "A baby with a rare metabolic disease receives the first base editor designed just for him.",
  "In Philadelphia, a team designed and manufactured in about six months a base-editing treatment to correct the variant of KJ, a baby with severe CPS1 deficiency. It opened the door to personalised therapies for ultra-rare diseases, with major regulatory and cost challenges. <a href=\"../treatments/crispr-explained/\">CRISPR explained</a>."),
 ]
-HISTORIA_PORTADA = [11, 15, 16, 35]
+HISTORIA_PORTADA = [2, 11, 16, 33, 37, 41]
 HISTORIA_FUENTES = [
     "Mukherjee S. <em>The Gene: An Intimate History</em>. Scribner, 2016.",
     "Portin P, Wilkins A. The evolving definition of the term \"gene\". <em>Genetics</em>. 2017;205:1353-1364.",

@@ -14,12 +14,13 @@ OUT = os.path.join(ROOT, "dist")
 SITE = "https://geneticapedia.com/"
 TODAY = "2026-11-20"
 MAIL = "partenopides@gmail.com"
-V = "1"
+import hashlib
+V = hashlib.md5(b"".join(open(os.path.join(ROOT, "assets", f), "rb").read() for f in ("site.css", "app.js"))).hexdigest()[:8]
 
 # ----- secciones -----
 SECTIONS = {
     "es": [
-        ("enfermedades", "Enfermedades", "Enfermedades hereditarias", "Fichas claras de las enfermedades genéticas más conocidas: causa, síntomas, herencia, diagnóstico, tratamiento y dónde informarse."),
+        ("enfermedades", "Enfermedades", "Enfermedades y síndromes genéticos", "Fichas claras de enfermedades y síndromes genéticos, se hereden o no: causa, síntomas, herencia, diagnóstico, tratamiento y dónde informarse."),
         ("diagnostico", "Diagnóstico", "Del síntoma al resultado", "Pruebas cromosómicas y moleculares, cribado neonatal y prenatal, portadores, cómo leer un resultado y consejo genético."),
         ("tratamientos", "Tratamientos", "De la evidencia a la atención", "Tratamientos dirigidos y de soporte, terapia génica, CRISPR y farmacogenética: lo que ya funciona, lo que se investiga y los dilemas éticos."),
         ("personajes", "Personajes", "Las personas detrás de la genética", "Médicos, genetistas, bioquímicos y biólogos que hicieron avanzar la genética, de Mendel a CRISPR: qué descubrieron, cómo y por qué importa hoy."),
@@ -37,7 +38,7 @@ SECTIONS = {
         ("para-profesores", "Para profesores", "Recursos para profesores", "Rutas de lectura por niveles, actividades prácticas para el aula y temas de debate con enlaces a los artículos de Geneticapedia."),
     ],
     "en": [
-        ("diseases", "Conditions", "Inherited conditions", "Clear fact sheets on the best-known genetic conditions: cause, symptoms, inheritance, diagnosis, treatment and where to learn more."),
+        ("diseases", "Conditions", "Genetic conditions and syndromes", "Clear fact sheets on genetic conditions and syndromes, inherited or not: cause, symptoms, inheritance, diagnosis, treatment and where to learn more."),
         ("diagnosis", "Diagnosis", "From symptoms to results", "Chromosome and molecular tests, newborn and prenatal screening, carrier testing, reading a result and genetic counselling."),
         ("treatments", "Treatments", "From evidence to care", "Targeted and supportive treatments, gene therapy, CRISPR and pharmacogenetics: what works, what is being studied and the ethical questions."),
         ("people", "People", "The people behind genetics", "Physicians, geneticists, biochemists and biologists who moved genetics forward, from Mendel to CRISPR."),
@@ -75,7 +76,7 @@ T = {
                foot="Enciclopedia divulgativa de genética: ciencia, salud y sociedad. No ofrece diagnóstico ni consejo genético individual.",
                help="¿Te preocupa una enfermedad en tu familia? Habla con tu médico de familia: puede derivarte a una <b>unidad de genética clínica</b> o de consejo genético.",
                sec="Secciones", proj="Proyecto", net="Red de webs", read="Leer →", upd="Actualizado", refs="Fuentes",
-               err="¿Has visto un error? Escríbenos a", by="Texto: Alejandro Rosàs, médico de familia",
+               err="¿Has visto un error? Escríbenos a", by="Texto: Alejandro Rosàs, médico de familia", rev="Revisión", toc="En este artículo",
                author="Creada por Alejandro Rosàs, médico de familia con más de 38 años de experiencia en atención primaria, especialista en Medicina Preventiva y Salud Pública (col. 28574, Barcelona).",
                lic='© 2026 Alejandro Rosàs · Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.es" rel="license noopener" style="display:inline">CC BY-NC 4.0</a>, salvo indicación en contrario',
                more="En esta sección", home="Inicio", disclaimer="Información divulgativa. No sustituye la valoración de un profesional sanitario ni el consejo genético.",
@@ -85,7 +86,7 @@ T = {
                foot="An encyclopedia of genetics for the general public: science, health and society. It does not provide diagnosis or individual genetic counselling.",
                help="Worried about a condition that runs in your family? Talk to your family doctor, who can refer you to a <b>clinical genetics</b> or genetic counselling service.",
                sec="Sections", proj="Project", net="Sister sites", read="Read →", upd="Updated", refs="Sources",
-               err="Spotted a mistake? Write to", by="Text: Alejandro Rosàs, family physician",
+               err="Spotted a mistake? Write to", by="Text: Alejandro Rosàs, family physician", rev="Reviewed by", toc="In this article",
                author="Created by Alejandro Rosàs, a family physician with over 38 years in primary care and a specialist in Preventive Medicine and Public Health (licence 28574, Barcelona).",
                lic='© 2026 Alejandro Rosàs · Content licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="license noopener" style="display:inline">CC BY-NC 4.0</a> unless otherwise stated',
                more="In this section", home="Home", disclaimer="General information only. It does not replace advice from a health professional or genetic counselling.",
@@ -123,6 +124,7 @@ def avail(lang):
 
 
 NAV_MAIN = [0, 1, 2]
+NAV_LABEL = {"es": {"diagnostico": "Pruebas genéticas"}, "en": {"diagnosis": "Genetic tests"}}
 NAV_GROUPS = {
     "es": [("Ciencia básica", [4, 5, 14, 11, 13]), ("Salud y familia", [9, 6, 7, 8]),
            ("Historia y sociedad", ["historia", 3, 10, 12]), ("Recursos", ["glosario", "quiz", "blog", 15, "fuentes"])],
@@ -144,7 +146,8 @@ def nav(lang, r):
     def item(k):
         if isinstance(k, int):
             s = secs[k]
-            return (s[0], s[1]) if s[0] in av else None
+            lbl = NAV_LABEL[lang].get(s[0], s[1]) if k in NAV_MAIN else s[1]
+            return (s[0], lbl) if s[0] in av else None
         return (k, ext[k]) if k in av or k in ("fuentes", "sources") else None
 
     top = [item(i) for i in NAV_MAIN] + [(hist_u, hist) if hist_u in av else None]
@@ -226,7 +229,7 @@ def page(lang, path, title, desc, body, *, ldtype="WebPage", extra_ld=None, full
   <a class="brand" href="{base}" aria-label="Geneticapedia"><span class="sym" aria-hidden="true"><img src="{r}assets/favicon.svg" alt="" width="26" height="26" style="display:block"></span>Geneticapedia</a>
   <button class="burger" type="button" aria-expanded="false" aria-controls="menu">{t['menu']}</button>
   <nav class="menu" id="menu" aria-label="{t['sec']}">{nav(lang, r)}</nav>
-  <a class="lang" href="{other_href}" hreflang="{t['otherlang']}" lang="{t['otherlang']}">{t['other']}</a>
+  <a class="lang" href="{other_href}" hreflang="{t['otherlang']}" lang="{t['otherlang']}" aria-label="{t['other']}" title="{t['other']}">{t['otherlang'].upper()}</a>
 </div></header>
 
 <main id="main">
@@ -342,7 +345,28 @@ def md(text, lang):
     h = re.sub(r"<table>", '<div class="table-scroll"><table>', h).replace("</table>", "</table></div>")
     # enlaces externos
     h = re.sub(r'<a href="(https?://[^"]+)">', r'<a href="\1" rel="noopener">', h)
+    # anclas en los apartados, para el índice
+    used = set()
+    def _hid(m):
+        import unicodedata
+        base = unicodedata.normalize("NFD", strip_tags(m.group(1)).lower())
+        base = re.sub(r"[^a-z0-9]+", "-", "".join(c for c in base if unicodedata.category(c) != "Mn")).strip("-")[:60] or "apartado"
+        k, n = base, 2
+        while k in used:
+            k, n = f"{base}-{n}", n + 1
+        used.add(k)
+        return f'<h2 id="{k}">{m.group(1)}</h2>'
+    h = re.sub(r"<h2>(.*?)</h2>", _hid, h)
     return h
+
+
+MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+
+
+def fecha(d, lang):
+    y, m, dd = d[:4], int(d[5:7]), int(d[8:10])
+    return f"{dd} de {MESES[m - 1]} de {y}" if lang == "es" else f"{dd} {MONTHS[m - 1]} {y}"
 
 
 def strip_tags(h):
@@ -451,8 +475,18 @@ def article_page(lang, sec, item, siblings, search):
         hero = figure(item["img"], item.get("img_alt", item["title"]), item.get("img_pie", ""), lang, "fig hero")
     sib = "".join(f'<li><a href="{base}{sec[0]}/{s["slug"]}/">{esc(s["title"])}</a></li>' for s in siblings if s["slug"] != item["slug"])
     crumbs = f'<nav class="crumbs" aria-label="breadcrumb"><a href="{base}">{t["home"]}</a> › <a href="{base}{sec[0]}/">{esc(sec[1])}</a></nav>'
-    body = f"""<header class="phead wrap">{crumbs}<span class="eyebrow">{esc(sec[1])}</span><h1>{esc(item['title'])}</h1><p class="lead">{esc(item['desc'])}</p></header>
-<div class="wrap article{' has-ficha' if ficha else ''}"><article class="prose">{disc}{hero}{body_html}<p class="meta">{t['by']} · {t['upd']}: {item.get('updated', TODAY)} · {t['err']} <a href="mailto:{MAIL}">{MAIL}</a></p></article>
+    upd = item.get("updated", TODAY)
+    rev = f' · <span class="rev">{t["rev"]}: {esc(item["revisor"])}{", " + esc(item["revisor_rol"]) if item.get("revisor_rol") else ""}</span>' if item.get("revisor") else ""
+    byline = f'<p class="byline"><a href="{base}{PROJECT[lang][0][0]}/">{t["by"]}</a> · {t["upd"]}: <time datetime="{upd}">{fecha(upd, lang)}</time>{rev}</p>'
+    heads = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', body_html)
+    toc = (f'<nav class="toc" aria-label="{t["toc"]}"><p class="toch">{t["toc"]}</p><ol>' + "".join(f'<li><a href="#{i}">{strip_tags(h)}</a></li>' for i, h in heads) + "</ol></nav>") if len(heads) >= 3 else ""
+    lead_html = toc + hero + body_html
+    if heads and strip_tags(heads[0][1]) in ("En pocas palabras", "At a glance", "Respuesta corta", "Short answer"):
+        cut2 = body_html.find("<h2 ", body_html.find("<h2 ") + 4)
+        if cut2 > 0:
+            lead_html = f'<div class="sumbox">{body_html[:cut2]}</div>{toc}{hero}{body_html[cut2:]}'
+    body = f"""<header class="phead wrap">{crumbs}<span class="eyebrow">{esc(sec[1])}</span><h1>{esc(item['title'])}</h1><p class="lead">{esc(item['desc'])}</p>{byline}</header>
+<div class="wrap article{' has-ficha' if ficha else ''}"><article class="prose">{disc}{lead_html}<p class="meta">{t['by']} · {t['upd']}: {item.get('updated', TODAY)} · {t['err']} <a href="mailto:{MAIL}">{MAIL}</a></p></article>
 <aside class="aside">{ficha}<div class="box"><h2 class="bh">{t['more']}: {esc(sec[1])}</h2><ul>{sib}</ul></div></aside></div>"""
     body = body.replace("@@R@@", r)
     ldtype = "MedicalWebPage" if item.get("health") == "si" else "Article"
@@ -462,6 +496,12 @@ def article_page(lang, sec, item, siblings, search):
     ptitle = item["title"] + (", biografía" if lang == "es" else ": biography") if item.get("vida") else item["title"]
     write(path, page(lang, path, ptitle, item["desc"], body, ldtype=ldtype, extra_ld=extra, og_type="article", alt=item.get("alt")))
     search.append({"t": item["title"], "d": item["desc"], "u": path[len(lp):], "k": sec[1], "n": strip_tags(body_html.replace("@@R@@", ""))[:600]})
+
+
+TERMS = {
+    "es": """<section class="wrap"><div class="terms"><div><h2 class="bh">Genético</h2><p>Causado por un cambio en los genes o en los cromosomas. No siempre se hereda: el síndrome de Down, por ejemplo, casi siempre aparece de nuevo en ese embarazo.</p></div><div><h2 class="bh">Hereditario</h2><p>Se transmite de padres a hijos a través de una variante presente en el óvulo o el espermatozoide, como la fibrosis quística o la enfermedad de Huntington.</p></div><div><h2 class="bh">Congénito</h2><p>Presente desde el nacimiento, sea o no de origen genético. Una infección durante el embarazo también puede causar un problema congénito.</p></div></div></section>""",
+    "en": """<section class="wrap"><div class="terms"><div><h2 class="bh">Genetic</h2><p>Caused by a change in the genes or chromosomes. It is not always inherited: Down syndrome, for example, almost always arises anew in that pregnancy.</p></div><div><h2 class="bh">Inherited</h2><p>Passed from parents to children through a variant carried in the egg or sperm, such as cystic fibrosis or Huntington's disease.</p></div><div><h2 class="bh">Congenital</h2><p>Present from birth, whether or not it is genetic. An infection during pregnancy can also cause a congenital problem.</p></div></div></section>""",
+}
 
 
 def section_index(lang, sec, items, search):
@@ -479,8 +519,9 @@ def section_index(lang, sec, items, search):
     def sub(it):
         return f'<span class="tag">{esc(it["vida"])}</span>' if it.get("vida") else ""
     cards = "".join(f'<a class="card{" person" if it.get("vida") else ""}" href="./{it["slug"]}/">{thumb(it)}<span class="num">{i:02d}</span>{sub(it)}<h2 class="ch">{esc(it["title"])}</h2><p>{esc(it["desc"])}</p><span class="more">{t["read"]}</span></a>' for i, it in enumerate(items, 1))
+    terms = TERMS[lang] if sec[0] in ("enfermedades", "diseases") else ""
     body = f"""<header class="phead wrap"><span class="eyebrow">{esc(sec[1])}</span><h1>{esc(sec[2])}</h1><p class="lead">{esc(sec[3])}</p></header>
-<section class="wrap section" style="padding-top:0"><div class="grid">{cards}</div></section>"""
+{terms}<section class="wrap section" style="padding-top:0"><div class="grid">{cards}</div></section>"""
     write(path, page(lang, path, sec[2], sec[3], body, ldtype="CollectionPage"))
     search.append({"t": sec[2], "d": sec[3], "u": path[len(lp):], "k": sec[1], "n": " ".join(i["title"] for i in items)})
 

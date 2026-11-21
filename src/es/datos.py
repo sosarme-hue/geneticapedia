@@ -87,7 +87,7 @@ HISTORIA = [
 ("2025", "Edición genética a medida", "Un bebé con una enfermedad metabólica rara recibe el primer editor de bases diseñado solo para él.",
  "En Filadelfia, un equipo diseñó y fabricó en unos seis meses un tratamiento de edición de bases para corregir la variante de KJ, un bebé con déficit grave de CPS1. Abrió la puerta a terapias personalizadas para enfermedades ultrarraras, con grandes retos de regulación y coste. <a href=\"../tratamientos/crispr-explicado/\">CRISPR explicado</a>."),
 ]
-HISTORIA_PORTADA = [11, 15, 16, 35]
+HISTORIA_PORTADA = [2, 11, 16, 33, 37, 41]
 HISTORIA_FUENTES = [
     "Mukherjee, S. (2016). <em>El gen: una historia personal</em>. Debate.",
     "Portin, P. y Wilkins, A. (2017). The evolving definition of the term «gene». <em>Genetics</em>, 205, 1353–1364.",

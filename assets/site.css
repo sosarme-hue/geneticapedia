@@ -437,7 +437,7 @@ details.credits ul{padding-left:18px}
 .hero h1 em{background:linear-gradient(90deg,var(--accent2),var(--gold),var(--accent2));background-size:200% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:shine 7s ease-in-out infinite}
 .stats{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px 22px;border-block:1px solid var(--line);padding-block:10px;font-size:13.5px;color:var(--mute)}
 .stats strong{font:600 24px/1 var(--serif);color:var(--accent);margin-right:4px;font-variant-numeric:tabular-nums}
-.ticker{overflow:hidden;border-bottom:1px solid var(--line);padding:10px 0;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+.ticker{overflow:hidden;border-bottom:1px solid var(--line);padding:10px 0;-webkit-mask-image:linear-gradient(90deg,transparent,#000 3%,#000 97%,transparent);mask-image:linear-gradient(90deg,transparent,#000 3%,#000 97%,transparent)}
 .ticker .track{display:flex;gap:30px;width:max-content;animation:tick 90s linear infinite}
 .ticker:hover .track{animation-play-state:paused}
 .ticker a{color:var(--mute);text-decoration:none;font-size:14px;white-space:nowrap}
@@ -462,4 +462,37 @@ a.card:hover .cimg img{transform:scale(1.05)}
 @media (prefers-reduced-motion: reduce){
   .ticker .track,.hero h1 em,.heroimgs .layer img,.heroimgs .layer span,.fx-up,.fx-left,.fx-right,.fx-zoom{animation:none}
   .ticker{overflow-x:auto}
+}
+
+/* ===== Portada reorganizada y fichas ===== */
+.qchips{display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px;margin:12px 0 0;font-size:14px;color:var(--mute)}
+.qchip{font:600 13.5px var(--sans);color:var(--accent);background:var(--soft);border:1px solid var(--line);border-radius:999px;padding:4px 12px;cursor:pointer}
+.qchip:hover,.qchip:focus-visible{border-color:var(--accent2);background:var(--card)}
+.door h3 a{color:inherit;text-decoration:none}
+.door h3 a:hover{color:var(--accent)}
+.grid.feat .card h3{font-size:18px}
+.tchips{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:16px;font-size:14px;color:var(--mute)}
+.tchip{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--ink);text-decoration:none;font-weight:600;font-size:14px}
+.tchip small{color:var(--mute);font-weight:600}
+.tchip:hover{border-color:var(--accent2);color:var(--accent)}
+.card.post .tag time{font-variant-numeric:tabular-nums}
+.byline{margin:10px 0 0;font-size:14px;color:var(--mute)}
+.byline a{color:var(--mute)}
+.byline a:hover{color:var(--accent)}
+.sumbox{background:var(--soft);border-left:4px solid var(--accent2);border-radius:0 10px 10px 0;padding:4px 18px 8px;margin:0 0 18px}
+.sumbox h2{margin-top:12px}
+.toc{border:1px solid var(--line);border-radius:10px;padding:10px 16px 8px;margin:0 0 20px;background:var(--card)}
+.toch{font:700 11px var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--gold);margin:0 0 6px}
+.toc ol{margin:0;padding-left:20px;columns:2;column-gap:28px;font-size:15px;line-height:1.7}
+.toc li{break-inside:avoid}
+.toc a{text-decoration:none}
+.toc a:hover{text-decoration:underline}
+.prose h2[id]{scroll-margin-top:80px}
+.terms{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-bottom:22px}
+.terms>div{background:var(--soft);border-radius:10px;padding:12px 16px}
+.terms h2.bh{font:700 16px var(--sans);margin:0 0 4px;color:var(--accent)}
+.terms p{margin:0;font-size:14.5px;color:var(--mute);line-height:1.5}
+@media (max-width:600px){
+  .toc ol{columns:1}
+  .terms{grid-template-columns:1fr;gap:8px}
 }

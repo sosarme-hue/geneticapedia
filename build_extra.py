@@ -34,14 +34,14 @@ QUIZ_ESO = {7, 8, 11, 12, 13, 14, 15, 16, 17, 21, 23, 25, 28, 29, 30, 31, 32, 35
 L = {
     "es": dict(hist="historia", glos="glosario", quiz="quiz", blog="blog", fuentes="fuentes", res_url="diagnostico/como-leer-un-resultado-genetico/", fam_url="diagnostico/consejo-genetico/", src_note="Una fuente fiable no sustituye a tu equipo médico. Si un resultado o una noticia te preocupa, coméntalo en tu centro de salud.",
                eyebrow="La enciclopedia de la genética", h1="El ADN, <em>explicado con claridad.</em>",
-               lead="Enfermedades hereditarias, pruebas genéticas y tratamientos explicados con claridad. Qué son los genes, cómo se heredan y hacia dónde va la medicina del ADN, con fuentes en cada página.",
+               lead="Enfermedades genéticas, pruebas y tratamientos explicados con claridad. Qué son los genes, cómo se heredan y hacia dónde va la medicina del ADN, con fuentes en cada página.",
                note="1953: Watson y Crick propusieron el modelo de la doble hélice, apoyándose en los datos de Franklin, Gosling, Wilkins y Chargaff. El ADN ya se conocía desde 1869, y desde 1944 se sabía que era el material hereditario.",
                ph="Busca una enfermedad, un gen, una prueba…", btn="Buscar", start="Explorar enfermedades →", play="Comprender las pruebas",
                trust=["Enfermedades", "Diagnóstico", "Tratamientos", "Historia, glosario y quiz", "Bilingüe · Con fuentes · Gratuita"],
                core_e="El núcleo de Geneticapedia", core_h="Enfermedades. Diagnóstico. Tratamiento.", core_p="Del gen a la consulta: lo que importa para las personas y sus familias.",
                res_h="Un resultado necesita<br>una explicación.", res_p="Una predisposición no es un destino. Una prueba negativa tiene límites. Una variante de significado incierto no es, por sí sola, un diagnóstico.", res_btn="Cómo leer un resultado",
                fam_e="Consejo genético", fam_h="Información para personas y familias", fam_p="Una prueba genética puede tener consecuencias para tus familiares, para tus decisiones reproductivas y para tu seguimiento. El consentimiento y la explicación de las incertidumbres forman parte de una buena atención.", fam_btn="Qué es el consejo genético",
-               sci_e="Novedades y avances", sci_h="La investigación, con contexto", sci_p="Enlaces a las fuentes originales, con lo que conviene mirar en cada una. Ninguna noticia promete que un tratamiento esté disponible.",
+               sci_e="Fuentes de investigación", sci_h="Dónde consultar la investigación", sci_p="Bases de datos y registros oficiales donde se publica la investigación, con lo que conviene mirar en cada uno. Que un estudio exista no significa que un tratamiento esté disponible.",
                sci=[("Publicaciones recientes", "Distingue estudios de laboratorio, ensayos, revisiones y resultados preliminares.", "https://pubmed.ncbi.nlm.nih.gov/?term=medical+genetics&sort=date", "PubMed"),
                     ("Ensayos clínicos", "Revisa a quién incluye, en qué fase está, con qué se compara y qué resultados tiene.", "https://clinicaltrials.gov/search?cond=Genetic%20Diseases", "ClinicalTrials.gov"),
                     ("Medicamentos autorizados", "Comprueba la indicación, quién puede recibirlo y si está autorizado en España.", "https://cima.aemps.es/cima/", "AEMPS · CIMA")],
@@ -67,14 +67,14 @@ L = {
                date_fmt=lambda d: f"{int(d[8:10])} de {['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'][int(d[5:7])-1]} de {d[:4]}"),
     "en": dict(hist="history", glos="glossary", quiz="quiz", blog="blog", fuentes="sources", res_url="diagnosis/how-to-read-a-genetic-result/", fam_url="diagnosis/genetic-counselling/", src_note="A reliable source does not replace your care team. If a result or a news story worries you, talk to your doctor.",
                eyebrow="The encyclopedia of genetics", h1="DNA, <em>clearly explained.</em>",
-               lead="Inherited conditions, genetic tests and treatments, clearly explained. What genes are, how they are inherited and where DNA medicine is heading, with sources on every page.",
+               lead="Genetic conditions, tests and treatments, clearly explained. What genes are, how they are inherited and where DNA medicine is heading, with sources on every page.",
                note="1953: Watson and Crick proposed the double-helix model, relying on data from Franklin, Gosling, Wilkins and Chargaff. DNA had been known since 1869, and since 1944 it was known to be the hereditary material.",
                ph="Search a condition, a gene, a test…", btn="Search", start="Explore conditions →", play="Understand the tests",
                trust=["Conditions", "Diagnosis", "Treatments", "History, glossary and quiz", "Bilingual · Sourced · Free"],
                core_e="The core of Geneticapedia", core_h="Conditions. Diagnosis. Treatment.", core_p="From the gene to the clinic: what matters to people and their families.",
                res_h="A result needs<br>an explanation.", res_p="A predisposition is not destiny. A negative test has limits. A variant of uncertain significance is not, on its own, a diagnosis.", res_btn="How to read a result",
                fam_e="Genetic counselling", fam_h="Information for people and families", fam_p="A genetic test can have consequences for your relatives, your reproductive decisions and your follow-up. Consent and an explanation of the uncertainties are part of good care.", fam_btn="What genetic counselling is",
-               sci_e="News and advances", sci_h="Research, in context", sci_p="Links to original sources, with what to look for in each. No news story promises that a treatment is available.",
+               sci_e="Research sources", sci_h="Where to look up research", sci_p="Official databases and registries where research is published, with what to look for in each. A study existing does not mean a treatment is available.",
                sci=[("Recent publications", "Tell apart laboratory studies, trials, reviews and preliminary results.", "https://pubmed.ncbi.nlm.nih.gov/?term=medical+genetics&sort=date", "PubMed"),
                     ("Clinical trials", "Check who is included, which phase it is in, what it is compared with and what results it has.", "https://clinicaltrials.gov/search?cond=Genetic%20Diseases", "ClinicalTrials.gov"),
                     ("Authorised medicines", "Check the indication, who can receive it and whether it is authorised where you live.", "https://www.ema.europa.eu/en/medicines", "EMA")],
@@ -314,34 +314,72 @@ def build(lang, g, allsec, search):
         (ntot, "artículos con fuentes" if lang == "es" else "articles with sources"),
         (2, "idiomas, gratis y sin registro" if lang == "es" else "languages, free, no sign-up")))
     ticker = "".join(f'<a href="{base}{secs[0][0]}/{it["slug"]}/" tabindex="-1">{esc(it["title"])}</a>' for it in allsec.get(secs[0][0], []))
+    es = lang == "es"
+    secd = {x[0]: x for x in secs}
+    # ejemplos de búsqueda
+    chips = "".join(f'<button type="button" class="qchip" data-q="{esc(q)}">{esc(q)}</button>' for q in (("BRCA", "fibrosis quística", "exoma", "CRISPR") if es else ("BRCA", "cystic fibrosis", "exome", "CRISPR")))
+    # tres accesos por intención
+    dis = allsec.get(secs[0][0], [])
+    want = ("fibrosis-quistica", "sindrome-de-down", "enfermedad-de-huntington", "cancer-hereditario") if es else ("cystic-fibrosis", "down-syndrome", "huntington-disease", "hereditary-cancer")
+    dlinks = [(f"{secs[0][0]}/{it['slug']}/", it["title"]) for w in want for it in dis if it["slug"] == w] or [(f"{secs[0][0]}/{it['slug']}/", it["title"]) for it in dis[:4]]
+    intents = [
+        ("Quiero aprender" if es else "I want to learn", "Empieza por lo básico" if es else "Start with the basics", f"{secs[4][0]}/", l["doors"][0][2]),
+        ("Busco una enfermedad" if es else "I'm looking for a condition", f"{n(secs[0][0])} " + ("fichas, de la A a la Z" if es else "fact sheets"), f"{secs[0][0]}/", dlinks + [(f"{secs[0][0]}/", "Ver todas →" if es else "See all →")]),
+        ("Quiero entender una prueba" if es else "I want to understand a test", "Antes y después del resultado" if es else "Before and after the result", f"{secs[1][0]}/", l["doors"][1][2]),
+    ]
+    doors = "".join(f'<div class="door"><span class="tag">{esc(a_)}</span><h3><a href="{base}{u}">{esc(b_)}</a></h3><ul>' + "".join(f'<li><a href="{base}{uu}">{esc(nn)}</a></li>' for uu, nn in links) + "</ul></div>" for a_, b_, u, links in intents)
+    # seis áreas destacadas
+    hist_txt = ("Historia", "De Mendel al genoma", "Una línea de tiempo de la genética, de los guisantes de Mendel a CRISPR y el pangenoma.") if es else ("History", "From Mendel to the genome", "A timeline of genetics, from Mendel's peas to CRISPR and the pangenome.")
+    feat = [(secs[0], "falciforme-frotis.jpg"), (secs[1], "cariotipo-normal.jpg"), (secs[2], "aav-virus.jpg"), (secs[5], "guisantes-vainas.jpg"), ((l["hist"],) + hist_txt, "adn-estructura.jpg"), (secs[3], "p-franklin.jpg")]
+    def fcard(sx, fn):
+        cnt = (f'{n(sx[0])} {"artículos" if es else "articles"} →' if allsec.get(sx[0]) else ("Ver la cronología →" if es else "See the timeline →"))
+        img = f'<span class="cimg"><img src="{g["isrc"](fn, r)}" alt="" width="640" height="360" loading="lazy" decoding="async"></span>' if g["has_img"](fn) else ""
+        return f'<a class="card" href="{base}{sx[0]}/">{img}<span class="tag">{esc(sx[1])}</span><h3>{esc(sx[2])}</h3><p>{esc(sx[3])}</p><span class="more">{cnt}</span></a>'
+    featcards = "".join(fcard(sx, fn) for sx, fn in feat)
+    shown = {secs[i][0] for i in (0, 1, 2, 3, 5)}
+    others = "".join(f'<a class="tchip" href="{base}{x[0]}/">{esc(x[1])} <small>{n(x[0])}</small></a>' for x in secs if x[0] not in shown and allsec.get(x[0]))
+    # últimos artículos del blog, con imagen pequeña y fecha
+    def pimg(p):
+        m_ = re.search(r"assets/img/([\w.-]+\.(?:jpg|png|webp))", p["body"])
+        if m_ and g["has_img"](m_.group(1)):
+            return m_.group(1)
+        sl = p["slug"]
+        if "casgevy" in sl:
+            return "falciforme-frotis.jpg"
+        if any(k in sl for k in ("crispr", "edicion", "editing")):
+            return "embrion-celulas.jpg"
+        return "aav-virus.jpg" if "terapia" in sl or "therapy" in sl else "adn-estructura.jpg"
+    pcards = "".join(f'<a class="card post" href="{base}blog/{p["slug"]}/"><span class="cimg"><img src="{g["isrc"](pimg(p), r)}" alt="" width="640" height="360" loading="lazy" decoding="async"></span><span class="tag"><time datetime="{p["date"]}">{l["date_fmt"](p["date"])}</time></span><h3>{esc(p["title"])}</h3><p>{esc(p["desc"])}</p><span class="more">{t["read"]}</span></a>' for p in posts[:3])
+    # recursos prácticos
+    tsec = next((x for x in secs if x[0] in ("para-profesores", "for-teachers")), None)
+    recs = [(l["glos"], "Glosario" if es else "Glossary", "Las palabras de un informe genético, explicadas en una o dos frases." if es else "The words in a genetic report, explained in a sentence or two."),
+            (l["quiz"], "Quiz", "Diez preguntas al día, por tema o por nivel, con la explicación de cada respuesta." if es else "Ten questions a day, by topic or level, with an explanation for every answer.")]
+    if tsec:
+        recs.append((tsec[0], tsec[2], tsec[3]))
+    reccards = "".join(f'<a class="card" href="{base}{u}/"><span class="tag">{"Recurso" if es else "Resource"}</span><h3>{esc(h_)}</h3><p>{esc(d_)}</p><span class="more">{"Abrir →" if es else "Open →"}</span></a>' for u, h_, d_ in recs)
     body = f"""<section class="wrap hero">
   <div>
     <span class="eyebrow">{l['eyebrow']}</span>
     <h1>{l['h1']}</h1>
     <p class="lead">{l['lead']}</p>
     <form class="search" role="search" onsubmit="return false"><input type="search" id="q" placeholder="{l['ph']}" aria-label="{l['btn']}" autocomplete="off"><button type="submit">{l['btn']}</button><div class="results" id="results" hidden></div></form>
-    <div class="actions"><a class="btn primary" href="{base}{secs[0][0]}/">{l['start']}</a><a class="btn" href="{base}{secs[1][0]}/">{l['play']}</a></div>
+    <p class="qchips"><span>{"Prueba con:" if es else "Try:"}</span>{chips}</p>
     <p class="hnote">{l['note']}</p>
   </div>
   <div class="mosaic">{mosaic}<p class="hcred">{l['photo_c']}</p></div>
 </section>
 <div class="wrap"><div class="stats">{stats}</div></div>
-<div class="ticker" aria-hidden="true"><div class="track">{ticker}{ticker}</div></div>
-
-<section class="section wrap" id="mapa">
-  <div class="shead"><div><span class="eyebrow">{l['core_e']}</span><h2>{l['core_h']}</h2></div><p>{l['core_p']}</p></div>
-  <div class="grid core">{corecards}</div>
-  <div class="grid g2" style="margin-top:16px">{basecards}</div>
-</section>
-
-<section class="wrap section"><div class="split2">
-  <div class="dark2"><h2>{l['res_h']}</h2><p>{l['res_p']}</p><a class="btn" href="{base}{l['res_url']}">{l['res_btn']}</a></div>
-  <div class="fam"><span class="eyebrow">{l['fam_e']}</span><h2>{l['fam_h']}</h2><p>{l['fam_p']}</p><a class="btn primary" href="{base}{l['fam_url']}">{l['fam_btn']}</a></div>
-</div></section>
+<div class="wrap"><div class="ticker" aria-hidden="true"><div class="track">{ticker}{ticker}</div></div></div>
 
 <section class="section wrap">
-  <div class="shead"><div><span class="eyebrow">{l['doors_e']}</span><h2>{l['doors_h']}</h2></div></div>
+  <div class="shead"><div><span class="eyebrow">{l['doors_e']}</span><h2>{"¿Qué necesitas hoy?" if es else "What do you need today?"}</h2></div></div>
   <div class="doors">{doors}</div>
+</section>
+
+<section class="section wrap" id="mapa">
+  <div class="shead"><div><span class="eyebrow">{"Áreas principales" if es else "Main areas"}</span><h2>{"Seis puertas a la genética" if es else "Six ways into genetics"}</h2></div><a class="btn" href="{base}{"temas" if es else "topics"}/">{"Todos los temas →" if es else "All topics →"}</a></div>
+  <div class="grid feat">{featcards}</div>
+  <div class="tchips"><span>{"Más temas:" if es else "More topics:"}</span>{others}</div>
 </section>
 
 <section class="darkband"><div class="wrap section">
@@ -350,14 +388,19 @@ def build(lang, g, allsec, search):
 </div></section>
 
 <section class="section wrap">
-  <div class="shead"><div><span class="eyebrow">{l['sci_e']}</span><h2>{l['sci_h']}</h2></div><a class="btn" href="{base}{l['fuentes']}/">{l['fuentes_btn']}</a></div>
-  <p style="margin:-6px 0 16px;color:var(--mute);max-width:720px">{l['sci_p']}</p>
-  <div class="grid">{scicards}</div>
+  <div class="shead"><div><span class="eyebrow">{l['blog_e']}</span><h2>{"Últimos artículos" if es else "Latest articles"}</h2></div><a class="btn" href="{base}blog/">{l['blog_btn']}</a></div>
+  <div class="grid">{pcards}</div>
 </section>
 
 <section class="section wrap">
-  <div class="shead"><div><span class="eyebrow">{l['blog_e']}</span><h2>{l['blog_h']}</h2></div><a class="btn" href="{base}blog/">{l['blog_btn']}</a></div>
-  <div class="grid">{pcards}</div>
+  <div class="shead"><div><span class="eyebrow">{"Recursos prácticos" if es else "Practical resources"}</span><h2>{"Para repasar, jugar y enseñar" if es else "To review, play and teach"}</h2></div></div>
+  <div class="grid">{reccards}</div>
+</section>
+
+<section class="section wrap">
+  <div class="shead"><div><span class="eyebrow">{l['sci_e']}</span><h2>{l['sci_h']}</h2></div><a class="btn" href="{base}{l['fuentes']}/">{l['fuentes_btn']}</a></div>
+  <p style="margin:-6px 0 16px;color:var(--mute);max-width:720px">{l['sci_p']}</p>
+  <div class="grid">{scicards}</div>
 </section>
 
 <section class="wrap" style="margin-bottom:22px"><div class="door" style="background:var(--soft2);display:grid;grid-template-columns:auto 1fr auto;gap:22px;align-items:center" id="autor">
