@@ -13,6 +13,27 @@
   var b = $(".burger"), m = $("#menu");
   if (b && m) b.addEventListener("click", function () { var o = m.classList.toggle("open"); b.setAttribute("aria-expanded", o); });
 
+  // desplegable Explorar
+  var mb = $(".mbtn"), mg = $("#mega");
+  if (mb && mg) {
+    var setM = function (o) { mg.classList.toggle("open", o); mb.setAttribute("aria-expanded", o); };
+    mb.addEventListener("click", function (e) { e.stopPropagation(); setM(!mg.classList.contains("open")); });
+    document.addEventListener("click", function (e) { if (!mg.contains(e.target)) setM(false); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape" && mg.classList.contains("open")) { setM(false); mb.focus(); } });
+  }
+  // marca la sección actual en el menú
+  if (m) {
+    var cut = function (p) { return p.slice(-10) === "index.html" ? p.slice(0, -10) : p; };
+    var here = cut(location.pathname);
+    $$("a", m).forEach(function (a) {
+      var p = cut(a.pathname);
+      if (p.length > 4 && here.indexOf(p) === 0) {
+        a.classList.add("on"); a.setAttribute("aria-current", here === p ? "page" : "true");
+        if (mg && mg.contains(a) && mb) mb.classList.add("on");
+      }
+    });
+  }
+
   // filtros de áreas y figuras
   $$('[data-filter="areas"]').forEach(function (f) {
     var grid = f.nextElementSibling;
