@@ -88,7 +88,7 @@
     var seeded = function (arr, seed) { var a = arr.slice(), s = seed; for (var k = a.length - 1; k > 0; k--) { s = (s * 9301 + 49297) % 233280; var r = Math.floor(s / 233280 * (k + 1)); var t = a[k]; a[k] = a[r]; a[r] = t; } return a; };
     var d = new Date(), seed = d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
     var start = function (mode) {
-      var set = mode === "diario" ? seeded(all, seed).slice(0, 10) : mode === "*" ? seeded(all, seed) : all.filter(function (x) { return x.tema === mode; });
+      var set = mode === "diario" ? seeded(all, seed).slice(0, 10) : mode === "*" ? seeded(all, seed) : all.filter(function (x) { return mode.indexOf("n:") === 0 ? x.nivel === mode.slice(2) : x.tema === mode; });
       quiz(big, set);
     };
     $("#quiz-modes").addEventListener("click", function (e) { var mo = e.target.getAttribute("data-m"); if (!mo) return; $$("#quiz-modes button").forEach(function (x) { x.classList.toggle("on", x === e.target); }); start(mo); });

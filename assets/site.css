@@ -349,3 +349,13 @@ a.gl{text-decoration-style:dotted;text-underline-offset:3px}
 .tl details.det{margin-top:6px}
 .tl details.det summary{cursor:pointer;color:var(--accent,#2b6cb0);font-weight:600;font-size:15.5px}
 .tl details.det p{color:var(--mute);font-size:16.5px;line-height:1.6;margin-top:6px}
+
+.tl li::after{content:"";display:block;clear:both}
+.tl figure.tlimg{float:right;width:132px;margin:2px 0 8px 16px}
+.tl figure.tlimg img{width:132px;height:110px;object-fit:cover;border-radius:10px;display:block;background:var(--card)}
+.tl figure.tlimg figcaption{font-size:11px;line-height:1.3;color:var(--mute);margin-top:3px}
+.tl figure.tlimg figcaption .credit{font-size:11px}
+@media(max-width:560px){.tl figure.tlimg{width:96px;margin-left:10px}.tl figure.tlimg img{width:96px;height:84px}}
+@media print{header.top,nav.menu,footer.foot,.foot,.aside,.crumbs,.share,.tlchips,.search,#search{display:none!important}body{background:#fff;color:#000}.article{display:block}.prose{max-width:none}a{color:#000;text-decoration:none}a.gl{border:0}.fig{break-inside:avoid}h2{break-after:avoid}}
+a.gl{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor}
+a.gl:hover{color:var(--gold)}
