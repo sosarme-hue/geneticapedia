@@ -359,3 +359,32 @@ a.gl{text-decoration-style:dotted;text-underline-offset:3px}
 @media print{header.top,nav.menu,footer.foot,.foot,.aside,.crumbs,.share,.tlchips,.search,#search{display:none!important}body{background:#fff;color:#000}.article{display:block}.prose{max-width:none}a{color:#000;text-decoration:none}a.gl{border:0}.fig{break-inside:avoid}h2{break-after:avoid}}
 a.gl{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor}
 a.gl:hover{color:var(--gold)}
+
+/* historia: índice por épocas */
+.idxh{font-size:20px;margin:6px 0 12px}
+.eragrid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:18px}
+.eracard{background:var(--card,#fff);border:1px solid var(--line,#dde);border-top:4px solid #888;border-radius:12px;padding:12px 12px 10px}
+.eracard.e1{border-top-color:#8a6d3b}.eracard.e2{border-top-color:#2f7d6d}.eracard.e3{border-top-color:#2b6cb0}.eracard.e4{border-top-color:#7b4fb3}.eracard.e5{border-top-color:#c0392b}
+.eracard .eh{display:block;text-decoration:none;color:var(--ink);margin-bottom:6px}
+.eracard .en{display:block;font:700 17px var(--serif,Georgia,serif)}
+.eracard .ec{display:block;font-size:12.5px;color:var(--mute)}
+.eracard ul{list-style:none;margin:0;padding:0;font-size:13.5px;line-height:1.35}
+.eracard li{margin:0 0 5px}
+.eracard li a{color:var(--ink);text-decoration:none}
+.eracard li a:hover{color:var(--accent,#a33)}
+.eracard li b{display:block;font-size:12px;color:var(--mute);font-weight:600}
+@media(max-width:1000px){.eragrid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:640px){.eragrid{grid-template-columns:1fr 1fr}.eracard ul{font-size:13px}}
+@media(max-width:400px){.eragrid{grid-template-columns:1fr}}
+.tlchips .flt{align-self:center;font-size:14px;color:var(--mute);margin-right:2px}
+.tlera{margin-top:26px}
+.erah{border-left:6px solid #888;padding-left:10px;margin-bottom:4px}
+.erah.e1{border-color:#8a6d3b}.erah.e2{border-color:#2f7d6d}.erah.e3{border-color:#2b6cb0}.erah.e4{border-color:#7b4fb3}.erah.e5{border-color:#c0392b}
+.eraint{color:var(--mute);margin:0 0 14px}
+.tl figure.tlimg img{object-fit:contain;background:#eceff4}
+details.credits{margin:26px 0 8px;font-size:13px;color:var(--mute)}
+details.credits summary{cursor:pointer;font-weight:600}
+details.credits ul{padding-left:18px}
+/* personajes: retratos enteros, sin recortar ni deformar */
+.card.person .cimg{height:260px;object-fit:contain;object-position:50% 50%;background:#e9ecf2}
+.ficha img{width:auto;max-width:100%;height:auto;max-height:420px;object-fit:contain;margin:0 auto 10px}
