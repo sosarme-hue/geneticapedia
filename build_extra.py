@@ -157,28 +157,52 @@ def build(lang, g, allsec, search):
         n = _yr(y)
         return "e1" if n < 1900 else "e2" if n < 1953 else "e3" if n < 1990 else "e4" if n < 2010 else "e5"
     more_l = "Leer más" if lang == "es" else "Read more"
+    def _span(y):
+        ns = [int(v) for v in re.findall(r"\d{4}", y)]
+        return (ns[0], ns[-1]) if ns else (0, 0)
+    order = sorted(range(len(tl)), key=lambda i: _span(tl[i][0]))
+    used_imgs = []
     def _thumb(i, x):
         cands = [f.replace("@@L@@", lang) for f in HIST_IMG.get(i, [])]
         fn = next((f for f in cands if g["has_img"](f)), None)
         if not fn:
             return ""
+        if fn not in used_imgs:
+            used_imgs.append(fn)
         c = g["IMG"].get(fn, {})
-        return (f'<figure class="tlimg"><img src="{g["isrc"](fn, "../" * path.count("/"))}" alt="{esc(x[1])}" loading="lazy" decoding="async">'
-                f'<figcaption>{g["credit"](fn, lang)}</figcaption></figure>')
-    lis = "".join(f'<li id="h{i}" data-era="{_era(x[0])}">{_thumb(i, x)}<span class="y">{esc(x[0])}</span><h3>{esc(x[1])}</h3><p class="sum">{x[2]}</p>' + (f'<details class="det"><summary>{more_l}</summary><p>{x[3]}</p></details>' if len(x) > 3 else '') + '</li>' for i, x in enumerate(tl))
-    # tira visual: posición proporcional al año (1850-2030); lo anterior se agrupa al inicio
-    dots = ""
-    for i, x in enumerate(tl):
-        n = _yr(x[0]); pos = 0 if n < 1850 else (n - 1850) / (2030 - 1850) * 100
-        dots += f'<a class="tdot {_era(x[0])}" href="#h{i}" style="left:{pos:.1f}%" title="{esc(x[0])}: {esc(x[1])}"><span class="sr">{esc(x[0])}: {esc(x[1])}</span></a>'
-    ticks = "".join(f'<span class="tick" style="left:{(y - 1850) / 180 * 100:.1f}%">{y}</span>' for y in (1850, 1900, 1950, 2000))
+        wh = f' width="{c["w"]}" height="{c["h"]}"' if c.get("w") and c.get("h") else ""
+        return f'<figure class="tlimg"><img src="{g["isrc"](fn, "../" * path.count("/"))}" alt="{esc(x[1])}"{wh} loading="lazy" decoding="async"></figure>'
+    def _li(i):
+        x = tl[i]
+        return (f'<li id="h{i}">{_thumb(i, x)}<span class="y">{esc(x[0])}</span><h3>{esc(x[1])}</h3><p class="sum">{x[2]}</p>'
+                + (f'<details class="det"><summary>{more_l}</summary><p>{x[3]}</p></details>' if len(x) > 3 else '') + '</li>')
+    era_names = dict(eras)
+    era_intro = ({"e1": "De la domesticación a Mendel y el descubrimiento del ADN.", "e2": "Nace la genética: cromosomas, genes y la búsqueda del material hereditario.",
+                  "e3": "La doble hélice, el código genético y las primeras herramientas para leer y cortar el ADN.", "e4": "Genes de enfermedades, clonación y el primer genoma humano.",
+                  "e5": "CRISPR, el genoma completo y la edición genética en pacientes."} if lang == "es" else
+                 {"e1": "From domestication to Mendel and the discovery of DNA.", "e2": "Genetics is born: chromosomes, genes and the search for the hereditary material.",
+                  "e3": "The double helix, the genetic code and the first tools to read and cut DNA.", "e4": "Disease genes, cloning and the first human genome.",
+                  "e5": "CRISPR, the complete genome and gene editing in patients."})
+    groups = {}
+    for i in order:
+        groups.setdefault(_era(tl[i][0]), []).append(i)
+    # índice por épocas
+    idx = "".join(f'<div class="eracard {k}"><a class="eh" href="#{k}"><span class="en">{esc(era_names[k])}</span><span class="ec">{len(groups.get(k, []))} {"hitos" if lang == "es" else "milestones"}</span></a><ul>'
+                  + "".join(f'<li><a href="#h{i}"><b>{esc(tl[i][0])}</b> {esc(tl[i][1])}</a></li>' for i in groups.get(k, [])) + '</ul></div>'
+                  for k, _ in eras if k != "all")
+    secs = "".join(f'<section class="tlera" id="{k}" data-era="{k}"><h2 class="erah {k}">{esc(era_names[k])}</h2><p class="eraint">{era_intro[k]}</p><ol class="tl">'
+                   + "".join(_li(i) for i in groups.get(k, [])) + '</ol></section>' for k, _ in eras if k != "all")
     chips = "".join(f'<button type="button" class="chip{" on" if k == "all" else ""}" data-era="{k}">{esc(v)}</button>' for k, v in eras)
-    hint = "Toca un punto para ir al hito, o filtra por época." if lang == "es" else "Tap a dot to jump to a milestone, or filter by era."
+    idx_h = "Las cinco épocas de un vistazo" if lang == "es" else "The five eras at a glance"
+    flt = "Filtrar por época" if lang == "es" else "Filter by era"
+    cred_h = "Créditos de las imágenes" if lang == "es" else "Image credits"
+    creds = "".join(f"<li>{g['credit'](fn, lang)}</li>" for fn in used_imgs)
     refs = "".join(f"<li>{r}</li>" for r in data["HISTORIA_FUENTES"])
-    js = """<script>(function(){var c=document.querySelectorAll('.tlchips .chip'),li=document.querySelectorAll('ol.tl>li');c.forEach(function(b){b.addEventListener('click',function(){var e=b.getAttribute('data-era');c.forEach(function(x){x.classList.toggle('on',x===b)});li.forEach(function(l){l.style.display=(e==='all'||l.getAttribute('data-era')===e)?'':'none'})})});document.querySelectorAll('.tdot').forEach(function(d){d.addEventListener('click',function(){c[0].click();var t=document.querySelector(d.getAttribute('href'));if(t){var x=t.querySelector('details');if(x)x.open=true}})})})();</script>"""
+    js = """<script>(function(){var c=document.querySelectorAll('.tlchips .chip'),s=document.querySelectorAll('section.tlera');function f(e){c.forEach(function(x){x.classList.toggle('on',x.getAttribute('data-era')===e)});s.forEach(function(l){l.style.display=(e==='all'||l.getAttribute('data-era')===e)?'':'none'})}c.forEach(function(b){b.addEventListener('click',function(){f(b.getAttribute('data-era'))})});document.querySelectorAll('.eracard a').forEach(function(a){a.addEventListener('click',function(){f('all');var t=document.querySelector(a.getAttribute('href'));if(t){var x=t.querySelector('details');if(x&&t.tagName==='LI')x.open=true}})})})();</script>"""
     out = f"""<header class="phead wrap"><span class="eyebrow">{l['hist_e']}</span><h1>{l['hist_title']}</h1><p class="lead">{l['hist_desc']}</p></header>
-<div class="wrap narrow"><div class="tlbar" aria-label="{'Cronología visual' if lang == 'es' else 'Visual timeline'}"><div class="track">{dots}</div><div class="ticks">{ticks}</div></div><p class="meta">{hint}</p><div class="tlchips">{chips}</div></div>
-<div class="wrap narrow prose"><ol class="tl">{lis}</ol><h2>{t['refs']}</h2><ol class="refs">{refs}</ol><p class="meta">{t['by']} · {t['upd']}: {TODAY}</p></div>{js}"""
+<div class="wrap"><h2 class="idxh">{idx_h}</h2><div class="eragrid">{idx}</div></div>
+<div class="wrap narrow"><div class="tlchips" role="group" aria-label="{flt}"><span class="flt">{flt}:</span>{chips}</div></div>
+<div class="wrap narrow prose">{secs}<details class="credits"><summary>{cred_h}</summary><ul>{creds}</ul></details><h2>{t['refs']}</h2><ol class="refs">{refs}</ol><p class="meta">{t['by']} · {t['upd']}: {TODAY}</p></div>{js}"""
     write(path, page(lang, path, l["hist_title"], l["hist_desc"], out, ldtype="Article", extra_ld={"headline": l["hist_title"]}))
     search.append({"t": l["hist_title"], "d": l["hist_desc"], "u": path[len(lp):], "k": l["hist_e"], "n": " ".join(x[1] for x in tl)})
 
