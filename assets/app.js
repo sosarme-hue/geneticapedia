@@ -255,3 +255,31 @@
     b.addEventListener("click", function () { q.value = b.getAttribute("data-q"); q.dispatchEvent(new Event("input", { bubbles: true })); q.focus(); });
   });
 })();
+
+/* ampliar fotos al pulsarlas */
+(function () {
+  var es = (document.documentElement.lang || "es").slice(0, 2) === "es";
+  var imgs = [].slice.call(document.querySelectorAll(".prose figure img, .prose p > img, .ficha img, .tlimg img")).filter(function (im) { return !im.closest("a"); });
+  if (!imgs.length) return;
+  var box = document.createElement("div");
+  box.className = "lbox"; box.hidden = true;
+  box.setAttribute("role", "dialog"); box.setAttribute("aria-modal", "true"); box.setAttribute("aria-label", es ? "Imagen ampliada" : "Enlarged image");
+  box.innerHTML = '<button type="button" class="lbx" aria-label="' + (es ? "Cerrar" : "Close") + '">×</button><figure><img alt=""><figcaption></figcaption></figure>';
+  document.body.appendChild(box);
+  var bi = box.querySelector("img"), bc = box.querySelector("figcaption"), bx = box.querySelector(".lbx"), last = null;
+  var close = function () { box.hidden = true; document.documentElement.classList.remove("lbox-on"); if (last) last.focus(); };
+  var open = function (im) {
+    last = im; bi.src = im.currentSrc || im.src; bi.alt = im.alt;
+    var fc = im.closest("figure") && im.closest("figure").querySelector("figcaption");
+    bc.innerHTML = fc ? fc.innerHTML : (im.alt || ""); bc.hidden = !bc.innerHTML;
+    box.hidden = false; document.documentElement.classList.add("lbox-on"); bx.focus();
+  };
+  imgs.forEach(function (im) {
+    im.classList.add("zoomable"); im.tabIndex = 0; im.setAttribute("role", "button");
+    im.setAttribute("aria-label", (es ? "Ampliar imagen: " : "Enlarge image: ") + (im.alt || ""));
+    im.addEventListener("click", function () { open(im); });
+    im.addEventListener("keydown", function (e) { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); open(im); } });
+  });
+  box.addEventListener("click", function (e) { if (e.target === box || e.target === bx || e.target === bi) close(); });
+  document.addEventListener("keydown", function (e) { if (!box.hidden && (e.key === "Escape" || e.key === "Tab")) { if (e.key === "Escape") close(); else { e.preventDefault(); bx.focus(); } } });
+})();
