@@ -2,9 +2,6 @@
 title: Marfan syndrome
 desc: A connective tissue disorder affecting the aorta, eyes and skeleton. Cause, signs, diagnosis and why heart monitoring saves lives.
 health: si
-img: marfan-aracnodactilia.jpg
-img_alt: Hands with very long, thin fingers, typical of Marfan syndrome
-img_pie: Long, thin fingers (arachnodactyly) are one of the skeletal signs of Marfan syndrome, although no single sign is essential for diagnosis.
 ---
 ## At a glance
 

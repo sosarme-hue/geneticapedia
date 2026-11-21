@@ -6,7 +6,6 @@ pais: Suecia
 campo: Genética evolutiva, paleogenómica
 aporte: Genoma neandertal (2010) y descubrimiento de los denisovanos
 premio: Nobel de Fisiología o Medicina (2022)
-img: p-paabo.jpg
 ---
 ## Quién fue
 

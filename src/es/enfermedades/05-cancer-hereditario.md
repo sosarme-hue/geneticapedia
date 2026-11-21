@@ -2,8 +2,8 @@
 title: Cáncer hereditario
 desc: BRCA1, BRCA2, síndrome de Lynch y otros. Qué parte del cáncer se hereda, cuándo sospecharlo, cómo se estudia y qué se puede hacer para prevenirlo.
 health: si
-img: cancer-hereditario.jpg
-img_alt: Imagen ilustrativa sobre cáncer hereditario
+img: mamografia.jpg
+img_alt: Una técnica prepara a una mujer para una mamografía
 img_pie: Saber que una familia tiene una variante de alto riesgo permite ofrecer prevención a quien la lleva y tranquilidad a quien no.
 ---
 ## En pocas palabras

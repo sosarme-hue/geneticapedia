@@ -2,9 +2,9 @@
 title: Hypertrophic cardiomyopathy and long QT syndrome
 desc: Two inherited heart conditions that can cause sudden death in young, apparently healthy people. When a young person dies suddenly, testing their family saves lives.
 health: si
-img: miocardiopatia.jpg
-img_alt: Heart with hypertrophic cardiomyopathy
-img_pie: Thickened heart muscle in hypertrophic cardiomyopathy.
+img: corazon-modelo.jpg
+img_alt: Anatomical model of a human heart
+img_pie: Inherited cardiomyopathies affect the heart muscle or its rhythm.
 ---
 ## At a glance
 

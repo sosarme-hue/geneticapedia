@@ -2,9 +2,6 @@
 title: Hipercolesterolemia familiar
 desc: El colesterol muy alto desde la infancia que pasa de padres a hijos. Es frecuente, está infradiagnosticada y tiene tratamiento eficaz. Cómo sospecharla, confirmarla y tratarla.
 health: si
-img: xantoma-aquiles.jpg
-img_alt: Engrosamiento del tendón de Aquiles por depósitos de colesterol
-img_pie: Los xantomas tendinosos, depósitos de colesterol en los tendones, sobre todo el de Aquiles y los del dorso de la mano, son un signo muy característico de la hipercolesterolemia familiar.
 ---
 ## En pocas palabras
 

@@ -8,6 +8,27 @@
   "page": "https://commons.wikimedia.org/wiki/File:Cell.2024.07.053.gr1_lrg-E.jpg",
   "w": 900
  },
+ "adn-estructura.jpg": {
+  "artist": "Zephyris",
+  "file": "DNA_Structure+Key+Labelled.pn_NoBB.png",
+  "h": 892,
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+  "w": 900
+ },
+ "adn-helice-3d.jpg": {
+  "artist": "Warren Umoh",
+  "file": "adn-helice-3d.jpg",
+  "h": 607,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/dna-double-helix-structure--qycBqByWIY?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "-qycBqByWIY",
+  "url": "https://images.unsplash.com/photo-1637929476734-bd7f5f78e40a?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "album-fotos.jpg": {
   "artist": "Laura Fuhrman",
   "file": "album-fotos.jpg",
@@ -19,6 +40,15 @@
   "unsplash_id": "73OJLcahQHg",
   "url": "https://images.unsplash.com/photo-1528569937393-ee892b976859?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
+ },
+ "amniocentesis.jpg": {
+  "artist": "BruceBlaus",
+  "file": "Amniocentesis.png",
+  "h": 900,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Amniocentesis.png",
+  "w": 900
  },
  "arbol-genealogico.jpg": {
   "artist": "Vitaly Gariev",
@@ -68,6 +98,18 @@
   "url": "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "bebe-pies.jpg": {
+  "artist": "Omar Lopez",
+  "file": "bebe-pies.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/person-holding-baby-feet-vTknj2OxDVg?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "vTknj2OxDVg",
+  "url": "https://images.unsplash.com/photo-1510154221590-ff63e90a136f?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "bolsa-sangre.jpg": {
   "artist": "Aman Chaturvedi",
   "file": "bolsa-sangre.jpg",
@@ -91,6 +133,15 @@
   "unsplash_id": "FnA5pAzqhMM",
   "url": "https://images.unsplash.com/photo-1633265486064-086b219458ec?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
+ },
+ "cariotipo-normal.jpg": {
+  "artist": "Courtesy: National Human Genome Research Institute",
+  "file": "NHGRI_human_male_karyotype.png",
+  "h": 705,
+  "license": "Public domain",
+  "license_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:NHGRI_human_male_karyotype.png",
+  "w": 900
  },
  "cariotipo-xxy.jpg": {
   "artist": "User:Nami-ja",
@@ -173,6 +224,18 @@
   "url": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "corazon-modelo.jpg": {
+  "artist": "Ali Hajiluyi",
+  "file": "corazon-modelo.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/a-model-of-a-human-heart-on-a-white-surface-MhFJNz_D8t4?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "MhFJNz_D8t4",
+  "url": "https://images.unsplash.com/photo-1623134915837-d2fdb4f59035?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
  "crispr-cas9.jpg": {
   "artist": "Warren Umoh",
   "file": "crispr-cas9.jpg",
@@ -184,6 +247,42 @@
   "unsplash_id": "-qycBqByWIY",
   "url": "https://images.unsplash.com/photo-1637929476734-bd7f5f78e40a?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
+ },
+ "cromosoma-adn-gen.jpg": {
+  "artist": "Thomas Shafee",
+  "file": "Chromosome_DNA_Gene_unannotated.svg",
+  "h": 494,
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chromosome_DNA_Gene_unannotated.svg",
+  "w": 900
+ },
+ "denisovano-craneo.jpg": {
+  "artist": "Fu et al. (2025)",
+  "file": "Homo_longi_holotype.jpg",
+  "h": 977,
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Homo_longi_holotype.jpg",
+  "w": 900
+ },
+ "dgp.jpg": {
+  "artist": "Psiĥedelisto, Vincent Le Moign, and Nevit Dilmen (Nevit)",
+  "file": "Preimplantation_genetic_diagnosis.svg",
+  "h": 900,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Preimplantation_genetic_diagnosis.svg",
+  "w": 900
+ },
+ "distrofia-miotonica.jpg": {
+  "artist": "Wenninger, Stephan; Montagnese, Federica; Schoser, Benedikt.",
+  "file": "Myotonic_dystrophy_muscle_distribution.jpg",
+  "h": 599,
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Myotonic_dystrophy_muscle_distribution.jpg",
+  "w": 243
  },
  "ehlers-danlos-piel.jpg": {
   "artist": "Whitaker JK, Alexander P, Chau DY, Tint NL",
@@ -236,6 +335,15 @@
   "url": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "epigenetica.jpg": {
+  "artist": "National Institutes of Health",
+  "file": "Epigenetic_mechanisms.png",
+  "h": 612,
+  "license": "Public domain",
+  "license_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Epigenetic_mechanisms.png",
+  "w": 900
+ },
  "excavacion.jpg": {
   "artist": "Regös Környei",
   "file": "excavacion.jpg",
@@ -247,6 +355,15 @@
   "unsplash_id": "RogalLzvKk8",
   "url": "https://images.unsplash.com/photo-1762331876236-fd81f3575534?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
+ },
+ "expansion-sapiens.jpg": {
+  "artist": "NordNordWest",
+  "file": "Spreading_homo_sapiens_la.svg",
+  "h": 421,
+  "license": "Public domain",
+  "license_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Spreading_homo_sapiens_la.svg",
+  "w": 900
  },
  "falciforme-frotis.jpg": {
   "artist": "SpicyMilkBoy",
@@ -311,6 +428,27 @@
   "url": "https://images.unsplash.com/photo-1594282241894-4da286138f44?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "gel-electroforesis.jpg": {
+  "artist": "National Cancer Institute",
+  "file": "gel-electroforesis.jpg",
+  "h": 720,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/woman-doing-research-while-holding-equipment-tV-RX0beDp8?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "tV-RX0beDp8",
+  "url": "https://images.unsplash.com/photo-1579154392128-bf8c7ebee541?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
+ },
+ "gemelos-mauch.jpg": {
+  "artist": "William A. Macis",
+  "file": "Mauch_Twins.jpg",
+  "h": 620,
+  "license": "Public domain",
+  "license_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mauch_Twins.jpg",
+  "w": 523
+ },
  "guisantes-vainas.jpg": {
   "artist": "Summan Mehmood",
   "file": "guisantes-vainas.jpg",
@@ -323,6 +461,15 @@
   "url": "https://images.unsplash.com/photo-1780667162311-3cdba0716533?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
   "w": 1080
  },
+ "heidelbergensis.jpg": {
+  "artist": "Dorieo",
+  "file": "Homo_heidelbergensis._Museo_de_Prehistoria_de_Valencia.jpg",
+  "h": 1151,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Homo_heidelbergensis._Museo_de_Prehistoria_de_Valencia.jpg",
+  "w": 900
+ },
  "herencia-dominante.jpg": {
   "artist": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest: None Mikael Häggström, M.D.",
   "file": "Autosomal dominant inheritance for structural protein.png",
@@ -330,6 +477,15 @@
   "license": "CC0",
   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Autosomal_dominant_inheritance_for_structural_protein.png",
+  "w": 900
+ },
+ "herencia-x.jpg": {
+  "artist": "File:Autosomal recessive - en.svg: Domaina, Kashmiri and SUM1 Derivative work: SUM1",
+  "file": "X-linked recessive (2).svg",
+  "h": 758,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:X-linked_recessive_%282%29.svg",
   "w": 900
  },
  "hermanos.jpg": {
@@ -487,6 +643,18 @@
   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "page": "https://commons.wikimedia.org/wiki/File:Malaria_versus_sickle-cell_trait_distributions.png",
   "w": 900
+ },
+ "mamografia.jpg": {
+  "artist": "National Cancer Institute",
+  "file": "mamografia.jpg",
+  "h": 864,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/smiling-woman-standing-near-another-woman-beside-mammogram-machine-0izFVmwJ5pw?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "0izFVmwJ5pw",
+  "url": "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
  },
  "manos-diversas.jpg": {
   "artist": "Rineshkumar Ghirao",
@@ -698,6 +866,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Alec_Jeffreys.jpg",
   "w": 900
  },
+ "p-kariko.jpg": {
+  "artist": "Cmichel67",
+  "file": "Katalin_Karikó_by_Christopher_Michel_in_2024_02.jpg",
+  "h": 1350,
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Katalin_Karik%C3%B3_by_Christopher_Michel_in_2024_02.jpg",
+  "w": 900
+ },
  "p-khorana.jpg": {
   "artist": "Autor desconocido",
   "file": "Har Gobind Khorana.jpg",
@@ -715,6 +892,15 @@
   "license_url": "",
   "page": "https://commons.wikimedia.org/wiki/File:Mary-claire_king.jpg",
   "w": 400
+ },
+ "p-lyon.jpg": {
+  "artist": "Jane Gitschier",
+  "file": "Mary_Frances_Lyon.png",
+  "h": 1200,
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Mary_Frances_Lyon.png",
+  "w": 900
  },
  "p-mcclintock.jpg": {
   "artist": "Smithsonian Institution/Science Service; Restored by Adam Cuerden",
@@ -988,6 +1174,18 @@
   "license_url": "https://creativecommons.org/licenses/by/3.0",
   "page": "https://commons.wikimedia.org/wiki/File:Tay-sachsUMich.jpg",
   "w": 288
+ },
+ "tubos-muestra.jpg": {
+  "artist": "Testalize.me",
+  "file": "tubos-muestra.jpg",
+  "h": 810,
+  "license": "Licencia Unsplash",
+  "license_url": "https://unsplash.com/license",
+  "page": "https://unsplash.com/photos/clear-plastic-tube-on-blue-surface-RNBhx5TNdDw?utm_source=geneticapedia&utm_medium=referral",
+  "source": "Unsplash",
+  "unsplash_id": "RNBhx5TNdDw",
+  "url": "https://images.unsplash.com/photo-1599556147785-480f85376373?ixlib=rb-4.1.0&fm=jpg&q=80&w=1080&fit=max",
+  "w": 1080
  },
  "tubos-sangre.jpg": {
   "artist": "Testalize.me",

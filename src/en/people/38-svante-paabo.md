@@ -6,7 +6,6 @@ pais: Sweden
 campo: Evolutionary genetics, palaeogenomics
 aporte: Neanderthal genome (2010) and discovery of the Denisovans
 premio: Nobel Prize in Physiology or Medicine (2022)
-img: p-paabo.jpg
 ---
 ## Who he is
 

@@ -2,9 +2,9 @@
 title: Phenylketonuria
 desc: The first inborn error of metabolism that could be detected in every newborn. Thanks to the heel-prick test and a special diet, people who have it grow up with normal development.
 health: si
-img: dried-blood-spot.jpg
-img_alt: Filter paper card with blood spots from the heel-prick test
-img_pie: The heel-prick test was born to detect phenylketonuria from a few drops of blood dried on paper.
+img: bebe-pies.jpg
+img_alt: Feet of a newborn baby
+img_pie: The heel-prick test: a few drops of blood from the newborn's heel on paper are enough to look for treatable conditions.
 ---
 ## At a glance
 

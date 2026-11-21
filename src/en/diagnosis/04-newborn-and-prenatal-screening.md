@@ -2,9 +2,9 @@
 title: Newborn and prenatal screening
 desc: The heel-prick test, first-trimester screening and fetal DNA in the mother's blood. What they detect and what an abnormal result means.
 health: si
-img: dried-blood-spot.jpg
-img_alt: Paper card with dried blood spots from a newborn
-img_pie: A few drops of blood from the heel on a paper card are enough to look for dozens of treatable conditions.
+img: bebe-pies.jpg
+img_alt: Feet of a newborn baby
+img_pie: The heel-prick test: a few drops of blood from the newborn's heel on paper are enough to look for treatable conditions.
 ---
 ## Screening is not diagnosis
 

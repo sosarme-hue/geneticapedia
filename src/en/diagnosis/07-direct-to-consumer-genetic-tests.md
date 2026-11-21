@@ -2,8 +2,8 @@
 title: Direct-to-consumer genetic tests
 desc: Ancestry and health kits bought online. What they really tell you, what they cannot say and what happens to your data.
 health: si
-img: kit-saliva.jpg
-img_alt: Tube for collecting a saliva sample
+img: tubos-muestra.jpg
+img_alt: Transport tubes for laboratory samples
 img_pie: Mail-order tests use a saliva tube and a chip that looks at hundreds of thousands of DNA positions, not the whole genome.
 ---
 ## How they work

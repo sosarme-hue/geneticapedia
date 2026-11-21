@@ -1,9 +1,9 @@
 ---
 title: El genoma humano
 desc: Cómo se leyó por primera vez nuestro ADN completo, qué se descubrió y qué ha cambiado desde entonces.
-img: cariotipo-bandas.jpg
-img_alt: Cariotipo humano con bandas
-img_pie: Los 23 pares de cromosomas humanos, con su patrón de bandas.
+img: cariotipo-normal.jpg
+img_alt: Cariotipo humano
+img_pie: Los 23 pares de cromosomas humanos ordenados en un cariotipo.
 ---
 ## El Proyecto Genoma Humano
 

@@ -2,9 +2,6 @@
 title: Familial hypercholesterolaemia
 desc: Very high cholesterol from childhood, passed from parents to children. It is common, underdiagnosed and effectively treatable. How to suspect, confirm and treat it.
 health: si
-img: xantoma-aquiles.jpg
-img_alt: Thickened Achilles tendon caused by cholesterol deposits
-img_pie: Tendon xanthomas, cholesterol deposits in the tendons, especially the Achilles and those on the back of the hand, are a very characteristic sign of familial hypercholesterolaemia.
 ---
 ## At a glance
 

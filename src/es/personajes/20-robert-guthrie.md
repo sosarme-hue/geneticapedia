@@ -20,7 +20,6 @@ En 1961 Guthrie ideó una prueba sencilla y barata basada en bacterias. Unas got
 
 La tarjeta de sangre seca, llamada desde entonces **tarjeta de Guthrie**, se podía enviar por correo a un laboratorio central. En 1962 y 1963 se analizaron más de 400.000 bebés en 29 estados y se publicaron los resultados en *Pediatrics*. Guthrie renunció a la patente para que la prueba fuera barata y defendió durante décadas el cribado universal.
 
-!fig dried-blood-spot.jpg | Tarjeta de papel de filtro con gotas de sangre seca de un recién nacido | Tarjeta de cribado neonatal con gotas de sangre seca. El formato que ideó Guthrie sigue en uso.
 
 ## Por qué importa hoy
 

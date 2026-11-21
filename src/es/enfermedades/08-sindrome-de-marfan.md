@@ -2,9 +2,6 @@
 title: Síndrome de Marfan
 desc: Una enfermedad del tejido conectivo que afecta a la aorta, los ojos y el esqueleto. Causa, signos, diagnóstico y por qué la vigilancia del corazón salva vidas.
 health: si
-img: marfan-aracnodactilia.jpg
-img_alt: Manos con dedos muy largos y finos, típicos del síndrome de Marfan
-img_pie: Los dedos largos y finos (aracnodactilia) son uno de los signos esqueléticos del síndrome de Marfan, aunque ninguno es imprescindible para el diagnóstico.
 ---
 ## En pocas palabras
 

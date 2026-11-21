@@ -2,8 +2,8 @@
 title: Tests genéticos por correo
 desc: Kits de ancestría y salud que se compran por internet. Qué dicen de verdad, qué no pueden decir y qué pasa con tus datos.
 health: si
-img: kit-saliva.jpg
-img_alt: Tubo para recoger una muestra de saliva
+img: tubos-muestra.jpg
+img_alt: Tubos de transporte para muestras de laboratorio
 img_pie: Los tests por correo usan un tubo de saliva y un chip que mira cientos de miles de posiciones del ADN, no todo el genoma.
 ---
 ## Cómo funcionan

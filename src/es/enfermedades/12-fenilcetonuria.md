@@ -2,9 +2,9 @@
 title: Fenilcetonuria
 desc: El primer error congénito del metabolismo que se aprendió a detectar en todos los recién nacidos. Gracias a la prueba del talón y a una dieta especial, quienes la tienen crecen con un desarrollo normal.
 health: si
-img: dried-blood-spot.jpg
-img_alt: Tarjeta de papel de filtro con gotas de sangre de la prueba del talón
-img_pie: La prueba del talón nació para detectar la fenilcetonuria a partir de unas gotas de sangre secas en papel.
+img: bebe-pies.jpg
+img_alt: Pies de un bebé recién nacido
+img_pie: La prueba del talón: unas gotas de sangre del pie del recién nacido sobre papel bastan para buscar enfermedades tratables.
 ---
 ## En pocas palabras
 

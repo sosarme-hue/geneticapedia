@@ -2,9 +2,9 @@
 title: Cribado neonatal y prenatal
 desc: La prueba del talón, el cribado del primer trimestre y el ADN fetal en sangre materna. Qué detectan y qué significa un resultado alterado.
 health: si
-img: dried-blood-spot.jpg
-img_alt: Tarjeta de papel con gotas de sangre seca de un recién nacido
-img_pie: Unas gotas de sangre del talón en una tarjeta de papel bastan para buscar decenas de enfermedades tratables.
+img: bebe-pies.jpg
+img_alt: Pies de un bebé recién nacido
+img_pie: La prueba del talón: unas gotas de sangre del pie del recién nacido sobre papel bastan para buscar enfermedades tratables.
 ---
 ## Cribar no es diagnosticar
 

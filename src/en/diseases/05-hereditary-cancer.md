@@ -2,8 +2,8 @@
 title: Hereditary cancer
 desc: BRCA1, BRCA2, Lynch syndrome and others. How much cancer is inherited, when to suspect it, how it is tested and what can be done to prevent it.
 health: si
-img: cancer-hereditario.jpg
-img_alt: Illustrative image about hereditary cancer
+img: mamografia.jpg
+img_alt: A technician prepares a woman for a mammogram
 img_pie: Knowing that a family carries a high-risk variant makes it possible to offer prevention to those who carry it and reassurance to those who do not.
 ---
 ## At a glance

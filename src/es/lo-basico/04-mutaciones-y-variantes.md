@@ -1,9 +1,9 @@
 ---
 title: Mutaciones y variantes
 desc: Qué es un cambio en el ADN, por qué casi todos son inofensivos y cuándo causan enfermedad.
-img: mutaciones-cromosomicas.jpg
-img_alt: Tipos de mutaciones cromosómicas
-img_pie: Deleciones, duplicaciones, inversiones y otras alteraciones de los cromosomas.
+img: adn-helice-3d.jpg
+img_alt: Representación de la doble hélice del ADN
+img_pie: Una mutación puede cambiar una sola letra del ADN o un trozo entero de un cromosoma.
 ---
 ## Una palabra con mala fama
 

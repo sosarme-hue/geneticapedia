@@ -20,7 +20,6 @@ In 1961 Guthrie devised a simple, cheap test based on bacteria. A few drops of b
 
 The dried blood card, known ever since as the **Guthrie card**, could be posted to a central laboratory. In 1962 and 1963 more than 400,000 babies were tested in 29 US states, and the results were published in *Pediatrics*. Guthrie waived his patent so the test would stay cheap, and campaigned for decades for universal screening.
 
-!fig dried-blood-spot.jpg | Filter paper card with dried blood spots from a newborn | Newborn screening card with dried blood spots. The format Guthrie devised is still in use.
 
 ## Why it matters today
 
