@@ -180,48 +180,58 @@
   }
 })();
 
-/* ===== Portada animada: mosaico que rota, cifras que cuentan y apariciones al bajar ===== */
+/* ===== Portada: una sola animación discreta (las fotos cambian de una en una, con pausa) y apariciones al bajar ===== */
 (function () {
   var reduce = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
   var box = document.querySelector(".heroimgs");
+  var btn = document.querySelector(".mpause");
   if (box && !reduce) {
     var slots = [].slice.call(box.querySelectorAll(".visual"));
     var pool = [];
     try { pool = JSON.parse(box.getAttribute("data-pool") || "[]"); } catch (e) {}
     for (var i = pool.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var tmp = pool[i]; pool[i] = pool[j]; pool[j] = tmp; }
-    var showing = {}, cursor = 0, FX = ["fx-up", "fx-left", "fx-zoom", "fx-right"], nfx = 0;
+    var showing = {}, cursor = 0, turn = 0, paused = false, timer = null;
     slots.forEach(function (s) { var im = s.querySelector("img"); if (im) showing[im.getAttribute("src")] = 1; });
     var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); };
-    var fits = function (p, tall) { return tall ? (p.a >= 0.6 && p.a <= 1.45) : p.a >= 1.2; };
-    var next = function (tall) {
+    var next = function () {
       for (var pass = 0; pass < 2; pass++) for (var k = 0; k < pool.length; k++) {
         var p = pool[(cursor + k) % pool.length];
-        if (showing[p.i] || (pass === 0 && !fits(p, tall))) continue;
+        if (showing[p.i] || (pass === 0 && p.a < 1.2)) continue;
         cursor = (cursor + k + 1) % pool.length; return p;
       }
       return null;
     };
     var swap = function (slot, idx) {
-      if (document.hidden) return;
-      var p = next(idx === 0); if (!p) return;
+      var p = next(); if (!p) return;
       var pre = new Image();
       pre.onload = function () {
+        swap.err = 0;
         var old = slot.querySelector("img"); if (old) delete showing[old.getAttribute("src")];
         showing[p.i] = 1;
         var L = document.createElement("div");
-        L.className = "layer " + FX[nfx++ % FX.length];
+        L.className = "layer";
         var pos = p.a < 1 ? "center 22%" : (p.a < 1.25 ? "center 32%" : "center");
-        L.innerHTML = '<img src="' + esc(p.i) + '" alt="' + esc(p.t) + '"' + (p.c ? ' title="' + esc(p.c) + '"' : "") + ' style="object-position:' + pos + '"><span><small>' + esc(p.k) + "</small>" + esc(p.t) + "</span>";
-        [].forEach.call(slot.querySelectorAll(":scope > span, .layer > span"), function (s) { s.style.transition = "opacity .35s"; s.style.opacity = 0; });
+        L.innerHTML = '<img src="' + esc(p.i) + '" alt="' + esc(p.t) + '" style="object-position:' + pos + '"><span><small>' + esc(p.k) + "</small>" + esc(p.t) + (p.c ? '<em class="vc">' + esc(p.c) + "</em>" : "") + "</span>";
+        [].forEach.call(slot.querySelectorAll(":scope > span, .layer > span"), function (s) { s.style.transition = "opacity .3s"; s.style.opacity = 0; });
         slot.appendChild(L); slot.href = p.u;
-        if (idx === 0) { var hc = document.querySelector(".hcred"); if (hc) { hc.style.transition = "opacity .6s"; hc.style.opacity = 0; hc.style.visibility = "hidden"; } }
-        setTimeout(function () { [].forEach.call(slot.children, function (c) { if (c !== L) c.remove(); }); }, 1500);
+        if (idx === 0) { var hc = document.querySelector(".hcred"); if (hc) { hc.style.transition = "opacity .5s"; hc.style.opacity = 0; hc.style.visibility = "hidden"; } }
+        setTimeout(function () { [].forEach.call(slot.children, function (c) { if (c !== L) c.remove(); }); }, 1200);
       };
+      pre.onerror = function () { if ((swap.err = (swap.err || 0) + 1) < 6) swap(slot, idx); };
       pre.src = p.i;
     };
-    if (pool.length > slots.length) slots.forEach(function (s, n) {
-      setTimeout(function () { swap(s, n); setInterval(function () { swap(s, n); }, 7200); }, 4000 + n * 2400);
-    });
+    var tick = function () { if (!paused && !document.hidden) { swap(slots[turn % slots.length], turn % slots.length); turn++; } };
+    if (pool.length > slots.length) {
+      timer = setInterval(tick, 8000);
+      if (btn) {
+        btn.hidden = false;
+        btn.addEventListener("click", function () {
+          paused = !paused;
+          btn.setAttribute("aria-pressed", paused ? "true" : "false");
+          btn.textContent = paused ? btn.getAttribute("data-play") : btn.getAttribute("data-pause");
+        });
+      }
+    }
   }
   if (reduce || !("IntersectionObserver" in window)) return;
   document.documentElement.classList.add("rv-on");
@@ -236,16 +246,6 @@
     var r = el.getBoundingClientRect(); if (r.top < innerHeight * 0.9) return;
     el.classList.add("rv"); el.style.transitionDelay = (n % 4) * 70 + "ms"; io.observe(el);
   });
-  var nums = [].slice.call(document.querySelectorAll(".stats strong[data-n]"));
-  var cio = new IntersectionObserver(function (es) {
-    es.forEach(function (e) {
-      if (!e.isIntersecting) return; cio.unobserve(e.target);
-      var el = e.target, to = +el.getAttribute("data-n"), t0 = performance.now(), d = 1400;
-      var step = function (t) { var k = Math.min(1, (t - t0) / d); el.textContent = Math.round(to * (1 - Math.pow(1 - k, 3))); if (k < 1) requestAnimationFrame(step); };
-      requestAnimationFrame(step);
-    });
-  });
-  nums.forEach(function (el) { cio.observe(el); });
 })();
 
 /* ejemplos de búsqueda de la portada */
