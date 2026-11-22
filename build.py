@@ -79,7 +79,7 @@ T = {
                err="¿Has visto un error? Escríbenos a", by="Texto: Alejandro Rosàs, médico de familia", rev="Revisión", toc="En este artículo",
                author="Creada por Alejandro Rosàs, médico de familia con más de 38 años de experiencia en atención primaria, especialista en Medicina Preventiva y Salud Pública (col. 28574, Barcelona).",
                lic='© 2026 Alejandro Rosàs · Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.es" rel="license noopener" style="display:inline">CC BY-NC 4.0</a>, salvo indicación en contrario',
-               more="En esta sección", home="Inicio", disclaimer="Información divulgativa. No sustituye la valoración de un profesional sanitario ni el consejo genético.",
+               more="En esta sección", related="Lecturas relacionadas", seeall="Ver todo", home="Inicio", disclaimer="Información divulgativa. No sustituye la valoración de un profesional sanitario ni el consejo genético.",
                posts="Entradas recientes", allposts="Todas las entradas", locale="es_ES"),
     "en": dict(skip="Skip to content", menu="Menu", other="Español", otherlang="es", tagline="DNA, clearly explained.",
                desc="A genetics encyclopedia for everyone: DNA, heredity, genetic testing, inherited diseases, CRISPR, history and glossary. Sourced, written by a doctor.",
@@ -89,7 +89,7 @@ T = {
                err="Spotted a mistake? Write to", by="Text: Alejandro Rosàs, family physician", rev="Reviewed by", toc="In this article",
                author="Created by Alejandro Rosàs, a family physician with over 38 years in primary care and a specialist in Preventive Medicine and Public Health (licence 28574, Barcelona).",
                lic='© 2026 Alejandro Rosàs · Content licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="license noopener" style="display:inline">CC BY-NC 4.0</a> unless otherwise stated',
-               more="In this section", home="Home", disclaimer="General information only. It does not replace advice from a health professional or genetic counselling.",
+               more="In this section", related="Related reading", seeall="See all", home="Home", disclaimer="General information only. It does not replace advice from a health professional or genetic counselling.",
                posts="Latest posts", allposts="All posts", locale="en_GB"),
 }
 NETWORK = [("Medicapedia", "https://medicapedia.org"), ("Farmacos.ai", "https://farmacos.ai"), ("Psycholopedia", "https://psycholopedia.com"),
@@ -465,6 +465,9 @@ def glos_link(h, lang, maxn=14):
     return "".join(parts)
 
 
+TITLES = {}
+
+
 def article_page(lang, sec, item, siblings, search):
     t = T[lang]
     lp = "en/" if lang == "en" else ""
@@ -482,7 +485,25 @@ def article_page(lang, sec, item, siblings, search):
         ficha = f'<div class="box ficha">{img}<h2 class="bh">{esc(item["title"])}</h2><dl>' + "".join(f'<dt>{a}</dt><dd>{esc(item[k])}</dd>' for a, k in rows if item.get(k)) + f'</dl>{cred}</div>'
     elif item.get("img"):
         hero = figure(item["img"], item.get("img_alt", item["title"]), item.get("img_pie", ""), lang, "fig hero")
-    sib = "".join(f'<li><a href="{base}{sec[0]}/{s["slug"]}/">{esc(s["title"])}</a></li>' for s in siblings if s["slug"] != item["slug"])
+    rel, seen = [], {f"{sec[0]}/{item['slug']}"}
+    for a_, b_ in re.findall(r"\]\((?:\.\./\.\./([a-z0-9-]+)/|\.\./)([a-z0-9-]+)/\)", item["body"]):
+        k_ = f"{a_ or sec[0]}/{b_}"
+        if k_ not in seen and (lang, k_) in TITLES:
+            seen.add(k_); rel.append(k_)
+    if sec[0] in ("enfermedades", "diseases"):
+        k_ = "herencia/patrones-de-herencia" if lang == "es" else "heredity/inheritance-patterns"
+        if k_ not in seen and (lang, k_) in TITLES:
+            seen.add(k_); rel.insert(0, k_)
+    rel = [k for k in rel if not k.startswith(("personajes/", "people/"))] + [k for k in rel if k.startswith(("personajes/", "people/"))]
+    if len(rel) < 4:
+        ix = next((n for n, s in enumerate(siblings) if s["slug"] == item["slug"]), 0)
+        for s in siblings[ix + 1:] + siblings[:ix]:
+            k_ = f"{sec[0]}/{s['slug']}"
+            if k_ not in seen and len(rel) < 4:
+                seen.add(k_); rel.append(k_)
+    sib = "".join(f'<li><a href="{base}{k}/"><small>{esc(TITLES[(lang, k)][1])}</small>{esc(TITLES[(lang, k)][0])}</a></li>' for k in rel[:5])
+    allrel = f'<p class="allrel"><a href="{base}{sec[0]}/">{(("Ver todas las enfermedades" if lang == "es" else "See all conditions") if sec[0] in ("enfermedades", "diseases") else t["seeall"] + ": " + esc(sec[1]))} →</a></p>'
+
     crumbs = f'<nav class="crumbs" aria-label="breadcrumb"><a href="{base}">{t["home"]}</a> › <a href="{base}{sec[0]}/">{esc(sec[1])}</a></nav>'
     upd = item.get("updated", TODAY)
     rev = f' · <span class="rev">{t["rev"]}: {esc(item["revisor"])}{", " + esc(item["revisor_rol"]) if item.get("revisor_rol") else ""}</span>' if item.get("revisor") else ""
@@ -496,7 +517,7 @@ def article_page(lang, sec, item, siblings, search):
             lead_html = f'<div class="sumbox">{body_html[:cut2]}</div>{toc}{hero}{body_html[cut2:]}'
     body = f"""<header class="phead wrap">{crumbs}<span class="eyebrow">{esc(sec[1])}</span><h1>{esc(item['title'])}</h1><p class="lead">{esc(item['desc'])}</p>{byline}</header>
 <div class="wrap article{' has-ficha' if ficha else ''}"><article class="prose">{disc}{lead_html}<p class="meta">{t['by']} · {t['upd']}: {item.get('updated', TODAY)} · {t['err']} <a href="mailto:{MAIL}">{MAIL}</a></p></article>
-<aside class="aside">{ficha}<div class="box"><h2 class="bh">{t['more']}: {esc(sec[1])}</h2><ul>{sib}</ul></div></aside></div>"""
+<aside class="aside">{ficha}<div class="box"><h2 class="bh">{t['related']}</h2><ul class="rel">{sib}</ul>{allrel}</div></aside></div>"""
     body = body.replace("@@R@@", r)
     ldtype = "MedicalWebPage" if item.get("health") == "si" else "Article"
     extra = {"headline": item["title"], "author": {"@type": "Person", "name": "Alejandro Rosàs", "jobTitle": "Médico de familia" if lang == "es" else "Family physician"}, "datePublished": item.get("updated", TODAY)}
@@ -603,6 +624,10 @@ def main():
     for fe, fn_ in zip(bes, ben):
         en_slug = read_md(os.path.join(SRC, "es", "blog", fe))[0].get("en") or fn_[11:-3]
         PAIR[f"blog/{fe[11:-3]}/"] = f"blog/{en_slug}/"
+    for lang in ("es", "en"):
+        for sec in SECTIONS[lang]:
+            for it in load_section(lang, sec[0]):
+                TITLES[(lang, f"{sec[0]}/{it['slug']}")] = (it["title"], sec[1])
     for lang in ("es", "en"):
         search = []
         allsec = {}

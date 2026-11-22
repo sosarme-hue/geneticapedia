@@ -297,14 +297,14 @@ def build(lang, g, allsec, search):
     def _tile(p, cls=""):
         pos = ' style="object-position:center 22%"' if p["a"] < 1 else ""
         return (f'<a class="visual{cls}" href="{esc(p["u"])}"><img src="{esc(p["i"])}" alt="{esc(p["t"])}" title="{esc(p["c"])}" decoding="async"{pos}>'
-                f'<span><small>{esc(p["k"])}</small>{esc(p["t"])}</span></a>')
+                f'<span><small>{esc(p["k"])}</small>{esc(p["t"])}' + (f'<em class="vc">{esc(p["c"])}</em>' if p["c"] else "") + '</span></a>')
     first = {"i": f"{r}assets/img/watson-crick-mccarty.jpg", "a": 1.27, "t": l["photo_t"], "k": "1953" if lang == "es" else "1953",
              "u": f"{base}{l['photo_c'].split('href=\"')[1].split('\"')[0]}", "c": ""}
     picks = [p for want in ("adn-estructura.jpg", "gemelos-mauch.jpg") for p in pool if p["i"].endswith("/" + want)][:2]
     if len(picks) < 2:
         picks = [p for p in pool if p["a"] >= 1.25][:2]
     mosaic = ('<div class="heroimgs" data-pool="' + esc(json.dumps(pool, ensure_ascii=False)) + '">'
-              + _tile(first).replace('decoding="async"', 'decoding="async" fetchpriority="high" style="object-position:62% 40%"').replace(' title=""', '')
+              + _tile(first).replace('decoding="async"', 'decoding="async" fetchpriority="high" style="object-position:center 18%"').replace(' title=""', '')
               + "".join(_tile(p) for p in picks) + "</div>")
     npers = next((len(allsec.get(s[0], [])) for s in secs if s[0] in ("personajes", "people")), 0)
     ntot = sum(len(v) for k, v in allsec.items())
@@ -313,7 +313,6 @@ def build(lang, g, allsec, search):
         (npers, "personajes de la genética" if lang == "es" else "people in genetics"),
         (ntot, "artículos con fuentes" if lang == "es" else "articles with sources"),
         (2, "idiomas, gratis y sin registro" if lang == "es" else "languages, free, no sign-up")))
-    ticker = "".join(f'<a href="{base}{secs[0][0]}/{it["slug"]}/" tabindex="-1">{esc(it["title"])}</a>' for it in allsec.get(secs[0][0], []))
     es = lang == "es"
     secd = {x[0]: x for x in secs}
     # ejemplos de búsqueda
@@ -366,10 +365,9 @@ def build(lang, g, allsec, search):
     <p class="qchips"><span>{"Prueba con:" if es else "Try:"}</span>{chips}</p>
     <p class="hnote">{l['note']}</p>
   </div>
-  <div class="mosaic">{mosaic}<p class="hcred">{l['photo_c']}</p></div>
+  <div class="mosaic">{mosaic}<p class="hcred">{l['photo_c']}</p><button type="button" class="mpause" aria-pressed="false" data-pause="{"Pausar fotos" if es else "Pause photos"}" data-play="{"Reanudar fotos" if es else "Resume photos"}" hidden>{"Pausar fotos" if es else "Pause photos"}</button></div>
 </section>
 <div class="wrap"><div class="stats">{stats}</div></div>
-<div class="wrap"><div class="ticker" aria-hidden="true"><div class="track">{ticker}{ticker}</div></div></div>
 
 <section class="section wrap">
   <div class="shead"><div><span class="eyebrow">{l['doors_e']}</span><h2>{"¿Qué necesitas hoy?" if es else "What do you need today?"}</h2></div></div>
