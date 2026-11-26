@@ -61,6 +61,10 @@ In 2025 the case of **KJ** was published, a baby from Philadelphia with severe C
 - **Long-term effects** still unknown.
 - **Embryo editing**: changes that would be passed on to descendants. We discuss it in [Ethics of gene editing](../ethics-of-gene-editing/).
 
+## CRISPR in Spain
+
+Microbiologist **Francisco Mojica**, from Alicante, described the repeated sequences in bacteria in the 1990s and 2000s and proposed that they were a defence system (read his [profile](../../people/francisco-mojica/)). Today several Spanish groups, such as those at CNB-CSIC, CNIO and CIEMAT, use CRISPR to study rare diseases and cancer, and to develop therapies for blood and skin conditions.
+
 ## Sources
 
 1. Mojica FJM, et al. Intervening sequences of regularly spaced prokaryotic repeats derive from foreign genetic elements. *J Mol Evol*. 2005;60:174-182.

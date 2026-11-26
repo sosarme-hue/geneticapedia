@@ -11,6 +11,10 @@ In my practice I have watched genetics move from the laboratory into everyday li
 
 Geneticapedia aims to make genetics accessible to everyone: what we know, how we know it and what we still don't know.
 
+## Collaborations
+
+For specialised clinical content, Geneticapedia will add review by professionals in clinical genetics and genetic counselling. If you would like to collaborate, write to us.
+
 ## What it is and what it is not
 
 Geneticapedia is a general-audience encyclopedia. **It does not provide diagnosis, treatment, interpretation of individual results or genetic counselling**, and it does not replace care from health professionals.

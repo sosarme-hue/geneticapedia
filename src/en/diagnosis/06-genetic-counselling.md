@@ -39,6 +39,10 @@ Talk to your family doctor if:
 
 In general, **predictive** tests for adult-onset conditions with no prevention available in childhood are postponed until the person can decide for themselves. This is a recommendation of the European human genetics societies.
 
+## In Spain
+
+The **Biomedical Research Act (14/2007)** requires genetic counselling to be offered whenever a genetic test is done for health purposes. Clinical genetics units and cancer genetic counselling units are based in public hospitals, and you reach them through a referral from your doctor.
+
 ## What a consultation looks like, step by step
 
 1. **Beforehand**: you may be asked to gather information about your family (who had which condition and at what age) and previous medical reports.
